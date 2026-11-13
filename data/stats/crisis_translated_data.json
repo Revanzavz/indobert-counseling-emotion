@@ -1,0 +1,35 @@
+{
+ "terjemahan_ditandai_dibuang": {
+  "": 4929,
+  "pengulangan": 38,
+  "rasio_panjang": 25,
+  "rasio_panjang,pengulangan": 6,
+  "rasio_panjang,kosong": 1,
+  "sisa_inggris": 1
+ },
+ "kaggle_lolos": 4929,
+ "tambahan_negatif_emosi": 750,
+ "total": 5679,
+ "per_label": {
+  "bukan": 3221,
+  "krisis": 2458
+ },
+ "per_status": {
+  "Suicidal": 2458,
+  "Depression": 888,
+  "Normal": 788,
+  "Anxiety": 298,
+  "Bipolar": 250,
+  "Stress": 247,
+  "emosi_anger": 150,
+  "emosi_fear": 150,
+  "emosi_happy": 150,
+  "emosi_neutral": 150,
+  "emosi_sadness": 150
+ },
+ "split": {
+  "train": 4543,
+  "val": 568,
+  "test": 568
+ }
+}

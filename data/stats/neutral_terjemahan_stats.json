@@ -1,0 +1,15 @@
+{
+ "total": 1000,
+ "bersih": 961,
+ "final": 800,
+ "flag_counts": {
+  "sisa_inggris": 0,
+  "rasio_panjang": 28,
+  "pengulangan": 1,
+  "kata_emosi_id": 9
+ },
+ "duplikat_id": 1,
+ "median_kata_en_final": 14.0,
+ "median_kata_id_final": 12.0,
+ "pertanyaan_pct_final": 28.7
+}

@@ -1,0 +1,12 @@
+{
+ "ujaran_pertama_4kelas": 18590,
+ "setelah_filter_panjang": 18182,
+ "setelah_dedup": 17855,
+ "kandidat_per_kelas": {
+  "anger": 1000,
+  "sadness": 1000,
+  "happy": 1000,
+  "fear": 1000
+ },
+ "median_kata": 15.0
+}

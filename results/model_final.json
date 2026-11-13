@@ -1,0 +1,4 @@
+{
+ "run_final": "F5_indobertweet-base_bilstm_attn_full_ce_lr2e-5_bs16_do0.3_s42_duatahap_lr2setengah_full_noreh",
+ "skenario": "duatahap_lr2setengah_full_noreh"
+}

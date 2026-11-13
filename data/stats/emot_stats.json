@@ -1,0 +1,12 @@
+{
+ "baris_awal": 3961,
+ "setelah_dedup": 3939,
+ "tumpang_tindih_riccosan": 0,
+ "final": 3939,
+ "per_kelas": {
+  "happy": 1479,
+  "anger": 989,
+  "sadness": 895,
+  "fear": 576
+ }
+}

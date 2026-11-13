@@ -1,0 +1,401 @@
+id,text,label,label_asli,source,conv_id
+ed_02933,Reality TV benar-benar mengganggu saya,anger,annoyed,empatheticdialogues,hit:695_conv:1390
+ed_01750,Aku merasa mengerikan. Aku kehilangan temperaku dan memukul anjingku: ((,sadness,ashamed,empatheticdialogues,hit:11061_conv:22123
+ed_02715,Aku benar-benar tersesat hari ini!,anger,annoyed,empatheticdialogues,hit:2595_conv:5190
+ed_00847,"Aku memesan jam tangan emas yang indah dari Shopping Channel. Ketika saya menerimanya, itu terlihat berbeda dan benar-benar sampah.",sadness,disappointed,empatheticdialogues,hit:6948_conv:13896
+ed_02029,Aku merasa iri pada istriku.,anger,jealous,empatheticdialogues,hit:713_conv:1427
+dd_neu_0970,"Ketika nenek saya meninggal, saya sering berkunjung ke kuburan. Aku selalu berbicara dengannya. Meskipun dia tidak ada di sana, entah bagaimana saya tahu dia mendengar apa yang saya katakan.",neutral,no emotion,dailydialog,dailydialog-train-2826
+ed_00893,"Yah, tidak terlalu buruk. Aku merasa sangat gugup hari itu.",fear,anxious,empatheticdialogues,hit:3488_conv:6976
+ed_03461,Ayah mertuaku didiagnosis menderita kanker pankreas ketika putri kami berusia 9 bulan. Dia adalah cucunya yang pertama.,sadness,sad,empatheticdialogues,hit:319_conv:639
+ed_02948,"Aku mencoba untuk memesan liburan ke Eropa, tapi harga penerbangan telah berlipat ganda.",sadness,disappointed,empatheticdialogues,hit:3605_conv:7210
+dd_neu_0141,Menurutmu anak-anak terlalu banyak menonton TV?,neutral,no emotion,dailydialog,dailydialog-train-1577
+dd_neu_0153,"Jika mantel ini tidak cocok, bisakah aku membawanya kembali nanti?",neutral,no emotion,dailydialog,dailydialog-validation-588
+ed_03122,"Mobil saya rusak di jalan raya sibuk hari yang lalu. Ada begitu banyak mobil mendekati saya, itu menakutkan!",fear,terrified,empatheticdialogues,hit:11359_conv:22718
+ed_02647,Tahun lalu teman-temanku menyuruhku pergi ke rumah hantu dan mereka semua tertawa padaku setelah itu.,fear,afraid,empatheticdialogues,hit:8048_conv:16096
+ed_03213,"Saya bekerja sangat keras pada proyek ini, tapi profesor saya mengatakan itu mengerikan tapi tidak ingin mengecewakan saya",sadness,devastated,empatheticdialogues,hit:5573_conv:11147
+ed_01940,Semua uangku di bankku dicuri karena penipuan dan aku sangat marah...,anger,furious,empatheticdialogues,hit:2994_conv:5989
+ed_03538,"Anak-anakku menumpahkan jus di karpet putih baru saya. Aku bilang mereka jangan menyiramkan makanan, atau minuman di ruang tamu. Kapan mereka akan belajar?",anger,angry,empatheticdialogues,hit:3682_conv:7365
+ed_01664,Aku bisa mengerti mengapa kau mungkin cemburu pada rekan kerjamu. Aku akan mencoba untuk menjaga kepala Anda tinggi.,anger,jealous,empatheticdialogues,hit:2034_conv:4068
+ed_00606,Kemarin malam ada badai badai yang mengerikan. Aku memutuskan semua komputer dan elektronikku. Kemudian ada ledakan keras dan saya mendengar kotak listrik saya membuat klik keras. Kurasa rumahku terkena listrik!,fear,terrified,empatheticdialogues,hit:11635_conv:23270
+ed_03592,Aku tidak akan kembali bekerja setelah cuti bersalin.,sadness,guilty,empatheticdialogues,hit:377_conv:754
+ed_03016,Aku pulang dari kerja dan orang tuaku selalu bertengkar. Ini sangat mengecewakan.,anger,annoyed,empatheticdialogues,hit:5596_conv:11192
+ed_01017,"Aku selalu bermain lotre, tapi aku punya perasaan bagus tentang malam ini!",happy,hopeful,empatheticdialogues,hit:3713_conv:7427
+ed_03092,Tidak ada yang benar-benar benar-benar dibandingkan dengan perasaan yang Anda dapatkan ketika sesuatu yang menarik akan terjadi. Saya masih ingat bagaimana perasaan saya pada hari-hari sebelum pernikahan saya.,happy,excited,empatheticdialogues,hit:10516_conv:21032
+ed_00363,Kucingku muntah di sepatu saya,anger,angry,empatheticdialogues,hit:7224_conv:14449
+dd_neu_0534,"Aku ingin membuat omelet, jadi ini benar-benar konyol, aku belum pernah membuatnya sebelumnya. Bagaimana Anda membuat omelet?",neutral,no emotion,dailydialog,dailydialog-train-9666
+ed_02481,Aku senang ketika aku mendapat persetujuan untuk hari libur,happy,joyful,empatheticdialogues,hit:8840_conv:17681
+ed_01681,Itu membuatku merasa sangat sedih ketika aku gagal dalam sesuatu,sadness,disappointed,empatheticdialogues,hit:9775_conv:19550
+ed_01600,Aku perlu mendengar dari seorang teman dia sakit,fear,anxious,empatheticdialogues,hit:11480_conv:22961
+ed_02558,Itu membunuhku ketika aku kehilangan ayahku. Itu begitu acak dan aku tidak siap untuk itu,sadness,devastated,empatheticdialogues,hit:2154_conv:4308
+ed_03094,"Aku belum pernah ke festival musik sebelumnya, jadi aku sangat bersemangat. Saya akan melihat band favorit saya, dan saya akan melakukan perjalanan untuk sampai di sana dengan semua teman terbaik saya.",sadness,nostalgic,empatheticdialogues,hit:2653_conv:5307
+dd_neu_0736,"Ya, aku benar-benar ingin datang juga. Tapi sesuatu yang tak terduga terjadi di Shanghai. Aku harus terbang keluar untuk beberapa hari, tapi aku akan segera kembali.",neutral,no emotion,dailydialog,dailydialog-train-1026
+ed_01354,"Aku berada di toko besar dan wanita itu suka 4 barang di sabuk , dan aku ingin menempatkan tambang tapi dia tidak akan memindahkan miliknya",anger,annoyed,empatheticdialogues,hit:981_conv:1962
+ed_00464,Aku merasa sangat buruk bahwa kita harus naik anjing kita ketika kita pergi berlibur minggu depan.,sadness,guilty,empatheticdialogues,hit:9651_conv:19303
+ed_00592,Aku melihat mantanku hari yang lalu dan dia sudah punya pacar baru.,anger,jealous,empatheticdialogues,hit:5684_conv:11368
+ed_03817,Anak saya sering memberikan saya waktu yang sulit di pagi hari ketika dia harus bangun untuk sekolah.,anger,furious,empatheticdialogues,hit:2486_conv:4973
+ed_01324,"Ketika aku mendengar Anthony Bourdin telah bunuh diri, aku sangat terkejut dan marah. Dia memberikan begitu banyak kesenangan kepada banyak orang, namun sangat menyedihkan dalam hidupnya sendiri.",sadness,devastated,empatheticdialogues,hit:7897_conv:15794
+dd_neu_0575,"Baiklah, Pak. Hampir ada, aku hanya perlu nomor PINmu. Ketika kami mengeluarkan kartu dan buku baru kami akan merekomendasikan Anda mengubah nomor PIN Anda. Ini prosedur yang sangat sederhana.",neutral,no emotion,dailydialog,dailydialog-train-5022
+ed_01027,Aku sangat senang karena aku bisa mengunjungi keluargaku minggu depan. Aku sudah lama tidak melihat mereka.,happy,excited,empatheticdialogues,hit:3816_conv:7633
+ed_00931,Pernahkah Anda berada dalam situasi di mana pembayaran semacam telah datang melalui *hanya* tepat waktu?! Bicara tentang rasa syukur!,happy,grateful,empatheticdialogues,hit:171_conv:342
+ed_02999,Aku melihat seorang pengangguran yang tampak seolah-olah dia tidak makan dalam beberapa waktu duduk di bangku dekat restoran makanan cepat saji. Saya merasa sangat sedih sehingga akhirnya saya membelikan dia makan.,happy,caring,empatheticdialogues,hit:6303_conv:12607
+ed_03648,"Aku menelusuri lemari saya hari yang lalu dan menemukan semua tulisan dan gambar lama yang saya lakukan ketika saya di sekolah dasar. Itu menyenangkan mengingat betapa kecilnya, betapa berbeda dunia itu.",sadness,sentimental,empatheticdialogues,hit:3778_conv:7556
+ed_00777,"Saya siap terbang ke Jepang pagi ini, dan ketika saya tiba, maskapai telah memberikan tempat duduk saya kepada orang lain!",anger,furious,empatheticdialogues,hit:5267_conv:10534
+dd_neu_0148,"Aku bisa melihat banyak keuntungan dan kerugian. Masalahnya adalah, bagi saya, setiap keuntungan memiliki kekurangannya sendiri.",neutral,no emotion,dailydialog,dailydialog-train-316
+ed_00540,Membawa anak-anak ke enam bendera akhir pekan ini dan aku takut:,fear,terrified,empatheticdialogues,hit:6934_conv:13868
+dd_neu_0381,Aku tahu. Aku tahu. Tapi cara Anda tidak menyentuh hatiku.,neutral,no emotion,dailydialog,dailydialog-train-3797
+ed_03590,Seorang teman lama yang tidak pernah saya bicarakan sejak saya masih remaja baru-baru ini menambahkan saya di Facebook dan kami memiliki caht yang bagus.,sadness,nostalgic,empatheticdialogues,hit:5028_conv:10057
+ed_00217,Saat aku hamil. Aku yakin aku akan menjadi ibu yang baik.,happy,confident,empatheticdialogues,hit:3292_conv:6585
+ed_03740,Aku benar-benar tidak ingin naik rollercoaster. Itu tampak begitu cepat dan menakutkan,fear,afraid,empatheticdialogues,hit:9692_conv:19384
+ed_03913,Anjingku Ronnie baru saja meninggal. Dia ditabrak oleh mobil dan itu adalah hal terburuk yang pernah terjadi padaku.,sadness,devastated,empatheticdialogues,hit:6872_conv:13744
+ed_00350,Anakku melemparkan bantal ke putriku saat dia sedang makan pasta. Dia mengenakan pakaian yang sangat lucu. Tentu saja sudah bercacat sekarang.,anger,furious,empatheticdialogues,hit:12228_conv:24457
+ed_00388,Perang pajak yang telah dimulai oleh AS ini membuat saya bosan karena harga sekarang meningkat karena itu.,anger,annoyed,empatheticdialogues,hit:2358_conv:4717
+dd_neu_0854,Satu telur matang dengan roti bakar dan jus jeruk untuk diikuti.,neutral,no emotion,dailydialog,dailydialog-train-6054
+ed_02222,"Aku melihat trailer Doom hari ini , Aku sangat terpesona untuk itu Aku jatuh cinta dengan serial",happy,excited,empatheticdialogues,hit:6753_conv:13507
+ed_02818,Aku benci bagaimana negara kita begitu terpecah sekarang,sadness,sad,empatheticdialogues,hit:6706_conv:13413
+dd_neu_0273,"Tentu saja. Jadi, dari mana kau terbang ke sini?",neutral,no emotion,dailydialog,dailydialog-train-505
+dd_neu_0791,"Kupikir kau tahu, Todd. Itu diputuskan minggu lalu. Kurasa kau tidak ada di pertemuan itu.",neutral,no emotion,dailydialog,dailydialog-train-10668
+ed_03927,Aku ingat suatu saat aku mendapat pekerjaan ritel pertamaku. Takut dengan wawancara tapi setelah mengambil napas dalam. Aku hanya merasa seperti aku memiliki tempat ini.,happy,confident,empatheticdialogues,hit:189_conv:379
+ed_02962,Anak kecil saya telah datang jauh dengan pidatonya dan saya sangat bangga padanya.,happy,proud,empatheticdialogues,hit:8003_conv:16006
+ed_01115,Aku tak percaya gajiku sudah hilang.,sadness,ashamed,empatheticdialogues,hit:12130_conv:24261
+ed_03852,"Ada badai hari yang lalu, dekat rumah kami. Ada peringatan tornado di dekatnya, jadi saya takut dan gugup!",fear,apprehensive,empatheticdialogues,hit:2627_conv:5255
+ed_03833,Aku telah pergi ke sekolah untuk kapan tampaknya seperti selamanya.,happy,hopeful,empatheticdialogues,hit:50_conv:100
+ed_00633,Aku baru saja menerima tawaran pekerjaan tapi aku tidak yakin apakah aku harus menerimanya atau tidak.,fear,apprehensive,empatheticdialogues,hit:8757_conv:17515
+ed_00173,Aku marah ketika aku melihat seseorang meninggalkan gerbangku terbuka,anger,furious,empatheticdialogues,hit:8463_conv:16927
+ed_03696,"Aku merasa buruk karena makan tidak sehat sepanjang akhir pekan, Aku melakukan begitu baik dengan diet saya!",sadness,guilty,empatheticdialogues,hit:7947_conv:15894
+ed_01984,Aku berterima kasih kepada Tuhan atas istriku.,happy,grateful,empatheticdialogues,hit:1512_conv:3024
+dd_neu_0766,Kurasa itu karena wanita Cina lebih menarik bagi pria Barat.,neutral,no emotion,dailydialog,dailydialog-train-2128
+ed_03638,"Itu terminal, dan dokter mengatakan mereka menangkapnya terlalu terlambat.",sadness,sad,empatheticdialogues,hit:6759_conv:13519
+dd_neu_0938,"Ya, aku tahu. Saya bertaruh dolar terendah saya bahwa dia akan dipromosikan.",neutral,no emotion,dailydialog,dailydialog-train-2370
+ed_02092,Aku akan bungee jumping akhir pekan ini. Aku tak sabar menunggu akhir pekan datang.,happy,excited,empatheticdialogues,hit:9996_conv:19992
+ed_01748,"Aku tidak suka berada di sekitar hewan besar, terutama beruang.",fear,terrified,empatheticdialogues,hit:5834_conv:11669
+ed_03383,Hari yang buruk hari ini. Mobilku rusak di tepi jalan.,happy,grateful,empatheticdialogues,hit:8989_conv:17978
+ed_03779,"Jadi teman saya ingin menonton film horor akhir pekan ini di bioskop, tapi saya selalu panik oleh mereka.",fear,afraid,empatheticdialogues,hit:6451_conv:12902
+ed_03587,Jadi di tempat kerja rekan kerja saya terus mencuri makan siang saya,anger,annoyed,empatheticdialogues,hit:11064_conv:22128
+ed_01519,Aku punya proyek pekerjaan yang akan datang yang perlu diselesaikan,fear,apprehensive,empatheticdialogues,hit:2366_conv:4732
+ed_00826,Aku diundang ke pesta ulang tahun anak-anak hari ini.,fear,apprehensive,empatheticdialogues,hit:12030_conv:24060
+ed_01498,Bagaimana dengan presiden kita huh?,happy,hopeful,empatheticdialogues,hit:108_conv:216
+ed_02887,Aku sedikit khawatir tentang masa depan hari ini.,fear,apprehensive,empatheticdialogues,hit:9054_conv:18108
+dd_neu_0677,Apakah mungkin bagi saya untuk menyewa apartemen setiap bulan?,neutral,no emotion,dailydialog,dailydialog-train-7671
+ed_01669,Aku hanya duduk di sini berpikir tentang lama lama yang lalu...,sadness,nostalgic,empatheticdialogues,hit:4237_conv:8474
+ed_02562,Hari ini aku bekerja dan melakukan sedikit side turking. Seorang rekan kerja masuk dan menangkapku di situs web. Aku harus menjelaskan apa itu dan bahwa aku tidak bekerja saat ini ...,sadness,ashamed,empatheticdialogues,hit:11040_conv:22081
+dd_neu_0913,"Itu ide yang bagus. Kau punya banyak pengalaman di industri pariwisata, kan?",neutral,no emotion,dailydialog,dailydialog-train-6612
+ed_02847,Putriku baru saja mendapatkan izin mengemudi beberapa bulan yang lalu.,anger,annoyed,empatheticdialogues,hit:6303_conv:12606
+ed_00396,Aku sedih saat ini. Ini adalah bulan favorit ayahku,sadness,sad,empatheticdialogues,hit:8455_conv:16910
+ed_01747,"Tahun lalu aku bertaruh dengan temanku dan dia kalah, jadi dia harus membeliku Nintendo Switch. Aku sangat hebat.",happy,joyful,empatheticdialogues,hit:10643_conv:21287
+ed_00340,Aku sangat bangga dengan ibuku dia telah mencapai begitu banyak. Apakah Anda tahu dia memiliki GED dan tidak menyelesaikan sekolah menengah?,happy,proud,empatheticdialogues,hit:8025_conv:16050
+ed_02969,Saya membawa saya whitewater rafting dengannya minggu lalu. Ketika kami sampai di sungai saya mulai berpikir ulang.,fear,apprehensive,empatheticdialogues,hit:2017_conv:4035
+ed_02849,Sepertinya selalu ada berita buruk di TV hari ini.,fear,anxious,empatheticdialogues,hit:2726_conv:5452
+ed_03876,Saya bekerja sangat keras di bagian saya pada proyek yang ditugaskan dan supervisor saya memuji saya kemarin di depan orang lain di pertemuan,happy,proud,empatheticdialogues,hit:496_conv:992
+ed_03581,Aku hanya bisa membayangkan apa yang menjadi begitu bahagia pada Natal,happy,joyful,empatheticdialogues,hit:5123_conv:10246
+ed_00562,Aku terputus di lalu lintas hari yang lalu aku hampir hancur. Itu membuatku tertekan.,anger,furious,empatheticdialogues,hit:12274_conv:24548
+dd_neu_0941,Kami telah menyewa seorang insinyur sipil dengan kontrak sementara 9 bulan. Dia akan mengawasi seluruh proyek. Sebenarnya kita akan mengadakan pertemuan proyek pada jam 3 sore ini untuk mendistribusikan tanggung jawab dan menyelesaikan jadwal waktu. Kenapa kau tidak bergabung dengan kami?,neutral,no emotion,dailydialog,dailydialog-train-4926
+ed_00726,Aku suka ketika anak-anakku tidur,sadness,guilty,empatheticdialogues,hit:722_conv:1444
+ed_01593,"Aku tidak percaya keberuntungan yang aku miliki, aku sudah naik 100 dolar",happy,grateful,empatheticdialogues,hit:7514_conv:15029
+ed_01125,Aku punya beberapa masalah keuangan. Aku akhirnya membayar semua hutangku. Ini adalah lega besar. Aku sangat bahagia.,happy,joyful,empatheticdialogues,hit:7729_conv:15458
+ed_02024,Aku seharusnya memberikan pidato besar segera.,fear,apprehensive,empatheticdialogues,hit:9565_conv:19130
+ed_02552,Aku benar-benar tidak suka ketika orang berbohong padaku.,anger,annoyed,empatheticdialogues,hit:6381_conv:12762
+ed_03653,Sepupu saya berayun tanpa akal pada hamak saya dan akhirnya mematahkannya!,anger,furious,empatheticdialogues,hit:10284_conv:20568
+ed_00511,Aku makan slice terakhir pizza yang suami saya menyimpan. Aku tidak tahu.,sadness,ashamed,empatheticdialogues,hit:7486_conv:14972
+dd_neu_0249,Aku tidak tahu. Mungkin aku akan tidur sepanjang hari.,neutral,no emotion,dailydialog,dailydialog-train-2317
+ed_02379,Aku marah pada adikku.,anger,angry,empatheticdialogues,hit:5686_conv:11373
+ed_00011,Tak sabar menunggu musim panas tiba.,sadness,nostalgic,empatheticdialogues,hit:460_conv:920
+ed_03323,"Hari kemarin , di kantorku , kepalaku memarahiku dengan cara yang sangat kasar karena alasan yang tidak perlu .",anger,angry,empatheticdialogues,hit:3608_conv:7217
+ed_02418,Tuan rumah saya memposting flyer tentang jam malam di kompleks kami,anger,angry,empatheticdialogues,hit:6289_conv:12578
+ed_01387,Aku ingat ketika makanan cepat saji dulu sangat murah.,sadness,nostalgic,empatheticdialogues,hit:8696_conv:17392
+ed_02981,Aku melihat seorang pria mengendarai Porsche di jalanan kota saya. Pasti cemburu lol,anger,jealous,empatheticdialogues,hit:2840_conv:5680
+dd_neu_0595,"O. K. , O. K, aku akan pergi.",neutral,no emotion,dailydialog,dailydialog-validation-207
+ed_02211,Matahari bersinar dan aku tidak punya rencana nyata,happy,content,empatheticdialogues,hit:7630_conv:15261
+ed_02066,Aku baru saja pindah dari rumah orangtuaku ke apartemenku sendiri.,sadness,lonely,empatheticdialogues,hit:12059_conv:24119
+dd_neu_0190,"Itu sederhana. Hanya klik tautan, www.taobao.com atau www.ebay.com, dan Anda dapat melihat spesimen barang yang ditampilkan di layar, dan kemudian Anda dapat membuat pesanan secara online dengan perusahaan penjualan. Dan barang akan dikirim ke tempatmu.",neutral,no emotion,dailydialog,dailydialog-test-988
+dd_neu_0441,"Aku bisa menangani itu, Pak. Apakah Anda tertarik dengan kartu pribadi atau perusahaan kami?",neutral,no emotion,dailydialog,dailydialog-train-9484
+dd_neu_0696,"Ya, itu benar. Sebagian besar siswa Cina yang melanjutkan pendidikan tinggi di Australia berniat untuk kembali ke Cina.",neutral,no emotion,dailydialog,dailydialog-train-4463
+ed_01540,"Aku lulus semua ujian profesionalku dan mendapat perusahaan itu klien terbesar, bukankah kau pikir aku pantas dipromosikan?",happy,hopeful,empatheticdialogues,hit:1156_conv:2313
+ed_01887,Aku pulang untuk musim panas dan ibuku memasak untukku setiap hari.,happy,caring,empatheticdialogues,hit:9534_conv:19069
+dd_neu_0460,Apakah Anda tahu seseorang dalam drama?,neutral,no emotion,dailydialog,dailydialog-train-1142
+ed_02710,"Aku menjadi nostalgia tentang permainan Pokemon lama, Aku suka bermain mereka sebagai seorang anak",sadness,nostalgic,empatheticdialogues,hit:1364_conv:2728
+ed_01266,Temanku kehilangan pekerjaannya. Aku sudah membelinya dan mencoba membantunya.,happy,caring,empatheticdialogues,hit:1442_conv:2884
+ed_03709,"Saat pulang dari pemakaman, aku dan teman-temanku hampir mengalami kecelakaan mobil yang mematikan.",fear,terrified,empatheticdialogues,hit:8016_conv:16032
+ed_02136,Aku masih punya hewan stuffed favoritku yang aku miliki sejak kecil. Masih dalam kondisi yang cukup baik dan mengingatkan saya banyak masa kecil saya.,sadness,sentimental,empatheticdialogues,hit:10399_conv:20798
+dd_neu_0439,Dia seperti buppie-a yuppie hitam. Orang kulit hitam datang dalam segala bentuk dan ukuran. Lihat saja pesta.,neutral,no emotion,dailydialog,dailydialog-train-3829
+ed_01011,Saya sedih karena saya tidak akan bisa melihat film yang ingin saya lihat,sadness,sad,empatheticdialogues,hit:6048_conv:12096
+dd_neu_0670,Itu cukup menarik. Apakah Anda mendapatkan satu dari Haven? Alasan aku bertanya adalah karena aku mencari nomornya.,neutral,no emotion,dailydialog,dailydialog-validation-816
+dd_neu_0621,Aku menghabiskan satu tahun untuk mendapatkan lisensi saya.,neutral,no emotion,dailydialog,dailydialog-train-6537
+ed_01247,Itu membuatku sangat marah ketika aku melihat atau mendengar seseorang menyakiti anak-anak,anger,furious,empatheticdialogues,hit:11671_conv:23343
+ed_00892,Putriku baru saja merusak sebuah karton telur.,anger,furious,empatheticdialogues,hit:2295_conv:4590
+dd_neu_0060,Kau seharusnya tidak membuka pintu tanpa melihat siapa itu.,neutral,no emotion,dailydialog,dailydialog-train-8437
+ed_03899,Aku punya tes minggu depan.,happy,confident,empatheticdialogues,hit:10296_conv:20593
+dd_neu_0493,Di mana aku menaruh uangnya?,neutral,no emotion,dailydialog,dailydialog-validation-890
+ed_00526,"Aku percaya Super Smash Bros baru akan sangat bagus, video baru hari ini membuatnya terlihat luar biasa",happy,hopeful,empatheticdialogues,hit:5503_conv:11007
+ed_03204,Kurasa adik iparku harus ditangkap karena apa yang dia lakukan tadi malam.,anger,angry,empatheticdialogues,hit:8545_conv:17091
+ed_03479,Aku punya tes sertifikasi besar datang minggu ini untuk pekerjaan baru saya. Saya telah belajar banyak tapi merasa tidak siap.,fear,apprehensive,empatheticdialogues,hit:11667_conv:23334
+ed_01746,Aku telah mencoba untuk mendapatkan diri saya dalam posisi yang lebih baik untuk menangani masalah dari.,happy,confident,empatheticdialogues,hit:12046_conv:24093
+ed_02855,Aku menunggu adikku sepanjang hari hari ini. Dia terlambat 6 jam.,anger,angry,empatheticdialogues,hit:7408_conv:14816
+ed_02965,Mungkin waktu terburuk dalam hidupku adalah ketika pernikahan kedua saya berakhir. Itu berlangsung lebih dari 20 tahun dan sebagian besar kehidupan dan rencana untuk masa depan saya sangat terikat dalam hubungan itu.,sadness,devastated,empatheticdialogues,hit:11223_conv:22446
+ed_00860,Hari ini saat berjalan di jalan saya melewati anjing yang tampaknya hilang tapi saya tidak berhenti untuk membantunya menemukan pemiliknya.,sadness,ashamed,empatheticdialogues,hit:7952_conv:15904
+dd_neu_0868,Dia terus bicara saat aku membaca.,neutral,no emotion,dailydialog,dailydialog-train-3976
+dd_neu_0132,"Halo, Jane. Apa yang kau lakukan di waktu luangmu?",neutral,no emotion,dailydialog,dailydialog-train-622
+ed_03978,Restoran favoritku ditutup. Aku sering pergi setelah bekerja.,sadness,disappointed,empatheticdialogues,hit:9967_conv:19934
+ed_00680,Aku sangat berterima kasih kepada keluargaku.,happy,grateful,empatheticdialogues,hit:6583_conv:13166
+dd_neu_0142,Tentu saja. Itu bukan masalah. Apakah Anda memiliki daftar kursus yang ingin Anda ambil semester ini?,neutral,no emotion,dailydialog,dailydialog-train-2594
+ed_02454,Aku ingin memesan obat ajaib ini secara online tapi tidak tahu apakah aku harus,fear,apprehensive,empatheticdialogues,hit:6505_conv:13011
+ed_03906,Aku punya makanan cepat saji hari ini dan itu sangat bagus!,happy,content,empatheticdialogues,hit:5615_conv:11230
+ed_00925,Rumah kami dirampok dan itu adalah pengalaman yang mengerikan.,fear,terrified,empatheticdialogues,hit:6969_conv:13938
+ed_02295,Aku siap untuk mengunjungi Fenway Park.,happy,excited,empatheticdialogues,hit:305_conv:611
+ed_01447,Aku merasa cukup baik pergi ke gym pagi ini. Aku punya rencana tentang apa yang ingin aku latih dan itu berhasil,happy,confident,empatheticdialogues,hit:8149_conv:16298
+dd_neu_0647,"Sejauh ini kita hanya bisa menyimpulkan dengan cara ini. Jika Anda ingin informasi lebih lanjut, silakan hubungi kami 1 jam kemudian?",neutral,no emotion,dailydialog,dailydialog-train-6287
+ed_02744,Aku kesal ketika aku melihat seseorang menembus pintuku.,anger,furious,empatheticdialogues,hit:6241_conv:12482
+ed_01352,Aku mengajarkan salah satu anak tetangga saya untuk ujian-Nya.,happy,proud,empatheticdialogues,hit:4621_conv:9243
+ed_02992,Aku naik helikopter untuk kencan sekali dan helikopternya gagal.,fear,terrified,empatheticdialogues,hit:12152_conv:24304
+ed_00343,"Aku tidak akan pernah lupa hari putriku berkata ""ibu"" untuk pertama kalinya.",happy,proud,empatheticdialogues,hit:1964_conv:3929
+dd_neu_0828,"Tidak, terima kasih. Aku tak punya waktu. Berapa banyak itu?",neutral,no emotion,dailydialog,dailydialog-train-9157
+ed_02522,Aku gagal di kelas ilmu.,sadness,ashamed,empatheticdialogues,hit:11669_conv:23339
+ed_01516,"Aku ingin selalu pindah ke New York dan lebih dekat dengan saudaraku dan temanku , aku hanya sedikit takut karena aku benar-benar tidak tahu banyak tentang apa-apa di sana",fear,afraid,empatheticdialogues,hit:3559_conv:7119
+ed_03621,Aku tak sabar untuk mengadakan pesta putriku tahun ini untuk ulang tahunnya di rumah baru kami!,fear,anxious,empatheticdialogues,hit:4686_conv:9373
+ed_02963,Ibuku telah membantu nenek selama bertahun-tahun. Dengan suaminya sebelum dia meninggal... dan sekarang dia membantunya. Nenek saya sangat bersemangat tapi bisa agak jahat pada ibuku kadang-kadang. Aku sangat bangga padanya karena masih begitu baik,happy,proud,empatheticdialogues,hit:2176_conv:4353
+ed_03163,Cuaca sangat buruk di sini hari ini dan itu membuatku jatuh di tempat sampah sendiri.,sadness,disappointed,empatheticdialogues,hit:11989_conv:23979
+ed_00631,Bola sepak anak-anak tetangga saya terus mendarat di halaman saya. Hal ini sangat sering.,anger,annoyed,empatheticdialogues,hit:7000_conv:14001
+ed_01073,"Teman-temanku pergi keluar semalam tanpa aku, dan bahkan tidak repot-repot untuk bertanya apakah aku ingin bergabung dengan mereka.",sadness,lonely,empatheticdialogues,hit:2238_conv:4476
+ed_03101,Saya sangat teriritasi ketika orang-orang mendekati saya untuk mendapatkan barang-barang di toko.,sadness,guilty,empatheticdialogues,hit:2520_conv:5040
+ed_00746,Aku punya anak-anak terbaik di dunia.,happy,joyful,empatheticdialogues,hit:4874_conv:9748
+ed_03777,Aku di beberapa McDonalds di mobilku hari yang lalu,sadness,guilty,empatheticdialogues,hit:4726_conv:9453
+ed_01358,"Ugh, anjing tetangga saya tidak akan berhenti menggonggong pagi ini!",anger,angry,empatheticdialogues,hit:5303_conv:10606
+ed_02978,Ada wasp di kamar tidurku ketika aku bangun!,fear,anxious,empatheticdialogues,hit:6510_conv:13020
+ed_01009,Aku merasa sangat baik malam ini setelah aku kembali dari bioskop.,happy,joyful,empatheticdialogues,hit:1805_conv:3611
+ed_02692,Aku baru saja punya anak laki-laki dan semalam dia bangun menangis. Aku masuk untuk memegangnya dan pada saat itu ia klik bahwa saya seorang ayah sekarang,happy,caring,empatheticdialogues,hit:12102_conv:24205
+ed_01373,"Hei, aku menemukan kucing minggu lalu!",happy,caring,empatheticdialogues,hit:3624_conv:7249
+dd_neu_0194,The Lakers. Jordan adalah satu-satunya pemain yang baik yang dimiliki Washington.,neutral,no emotion,dailydialog,dailydialog-train-1247
+ed_02083,Temanku harus pergi bermain golf akhir pekan ini. Aku sedikit iri,anger,jealous,empatheticdialogues,hit:8110_conv:16220
+ed_01463,Aku menyimpan semua foto dengan keluargaku.,sadness,sentimental,empatheticdialogues,hit:7820_conv:15640
+ed_00474,Adikku meninggalkan pakaiannya di seluruh ruang tamu.,anger,annoyed,empatheticdialogues,hit:9897_conv:19795
+ed_02130,Cinta hidupku meninggalkanku untuk seorang pria yang lebih baik.,sadness,lonely,empatheticdialogues,hit:5267_conv:10535
+ed_01752,"Tahun lalu, ketika anak-anakku berdua di sekolah, aku terkadang merasa kesepian di rumah.",sadness,lonely,empatheticdialogues,hit:6565_conv:13130
+ed_02830,Aku sangat bersemangat ketika putri sulungku pulang dari perguruan tinggi untuk berkunjung.,happy,excited,empatheticdialogues,hit:981_conv:1963
+ed_01302,Saya mengalami sakit kepala yang parah pagi ini. Aku menerima kopi dan sangat berterima kasih atasnya.,happy,grateful,empatheticdialogues,hit:11542_conv:23084
+dd_neu_0423,"Ya, aku tahu. Saya lebih suka putih - dan bisakah saya melihat kuning pucat, juga?",neutral,no emotion,dailydialog,dailydialog-validation-120
+ed_02489,Apa yang terjadi di Karibia tahun lalu membuatku sedih.,sadness,devastated,empatheticdialogues,hit:10939_conv:21879
+ed_01895,Aku tahu mungkin terlalu dini untuk mengatakan tapi aku takut putriku akan menjadi remaja yang sulit!,fear,afraid,empatheticdialogues,hit:1036_conv:2073
+ed_00114,Saya melihat laba-laba raksasa di kamar mandi saya pagi ini. Menakutiku!,fear,afraid,empatheticdialogues,hit:5980_conv:11960
+dd_neu_0511,"Betty dan aku akan mengadakan pesta makan malam akhir pekan ini, kami ingin kau datang.",neutral,no emotion,dailydialog,dailydialog-train-4401
+dd_neu_0073,"Maafkan aku. Memang benar bahwa produk kami harganya sedikit lebih tinggi daripada produsen lain, tapi itu hanya karena keunggulan teknologi kami.",neutral,no emotion,dailydialog,dailydialog-validation-913
+ed_00421,Aku punya tes matematika besok dan itu yang terbesar di semester.,fear,anxious,empatheticdialogues,hit:1642_conv:3284
+ed_02538,Hanya beberapa hari lagi dan mereka akan keluar dari sini,fear,anxious,empatheticdialogues,hit:6687_conv:13374
+ed_03432,Kurasa aku tidak pernah ingin naik kapal pesiar. Aku selalu mendengar tentang seluruh kapal pecah dengan penyakit dan kedengarannya mengerikan.,fear,apprehensive,empatheticdialogues,hit:2212_conv:4425
+ed_00054,Aku cemburu pada orang yang bisa hidup di iklim hangat sepanjang tahun.,anger,jealous,empatheticdialogues,hit:5029_conv:10058
+ed_01780,"""Aku senang! Aku baru saja tahu bahwa aku hamil! Ini anak kedua saya dan saya telah mengalami kesulitan untuk hamil lagi. Itu benar-benar kejutan!""",happy,excited,empatheticdialogues,hit:3131_conv:6262
+dd_neu_0717,Lihatlah lembar jawaban dan bandingkan dengan jawaban Anda. Apakah Anda melihat tempat di mana saya membuat kesalahan dalam grading?,neutral,no emotion,dailydialog,dailydialog-train-1995
+ed_01505,Anak-anakku baru 4 dan 5 sekarang tapi mereka sangat pintar!,happy,confident,empatheticdialogues,hit:5354_conv:10709
+ed_02991,Aku tak percaya aku mencari di mana-mana dan laptopku tak ditemukan.,anger,furious,empatheticdialogues,hit:7502_conv:15004
+ed_01355,"Paman saya di rumah sakit selama seminggu, saya tidak akan pernah melupakan saat itu.",sadness,sentimental,empatheticdialogues,hit:4600_conv:9200
+ed_02033,Ikan emasku mengambil perjalanannya ke akhirat hari ini. Aku sangat trauma.,sadness,sad,empatheticdialogues,hit:9187_conv:18374
+ed_01155,Aku menonton video Aretha Franklin akhir pekan ini dan itu membuatku berpikir tentang menjadi muda dan ibuku mendengarkan albumnya.,sadness,nostalgic,empatheticdialogues,hit:11291_conv:22582
+ed_00489,Aku tak siap untuk presentasi di tempat kerja besok.,fear,afraid,empatheticdialogues,hit:5127_conv:10254
+ed_01956,Bosku berbohong padaku. Aku sangat kesal tentang hal itu.,anger,furious,empatheticdialogues,hit:2739_conv:5479
+ed_01979,Pergeseran ke kelompok usia baru menakutkan.,sadness,sad,empatheticdialogues,hit:434_conv:868
+ed_02939,Halloween adalah liburan yang cukup besar di tempat saya tinggal. Orang-orang benar-benar masuk ke kostum mereka!,happy,excited,empatheticdialogues,hit:7023_conv:14046
+dd_neu_0809,Aku harus menuliskan tiket untukmu.,neutral,no emotion,dailydialog,dailydialog-train-11099
+ed_00706,Aku akan ke konser pada hari Minggu dan aku tidak bisa menunggu!,fear,anxious,empatheticdialogues,hit:6940_conv:13880
+ed_00712,Rasanya aneh tentang hari gaji. Ini adalah waktu yang stres,fear,apprehensive,empatheticdialogues,hit:4151_conv:8302
+ed_01135,"Ahh, kegembiraan mengunjungi rumah. Ibuku menyiapkan 3 hidangan dari hidangan favoritku!",happy,content,empatheticdialogues,hit:11743_conv:23487
+dd_neu_0162,"Minggu lalu, aku mencoba membeli beberapa pakaian secara online, tapi aku tidak tahu bagaimana membayarnya.",neutral,no emotion,dailydialog,dailydialog-train-9069
+ed_01971,Tetangga baru saya mengunci pintu mereka sepanjang hari dan malam,anger,angry,empatheticdialogues,hit:9768_conv:19536
+ed_03005,Aku sangat marah ketika seorang rekan kerja berbohong tentang kecelakaan mobil untuk keluar dari pekerjaan pada 4 Juli. Aku menutupi shiftnya sampai tengah malam dan dia berbohong tentang kecelakaan,anger,angry,empatheticdialogues,hit:134_conv:269
+ed_02554,"Setiap kali aku punya keluarga berkumpul, seperti selama liburan, aku menjadi sangat cemas dan khawatir tanpa henti tentang hal itu",fear,anxious,empatheticdialogues,hit:3499_conv:6999
+ed_03617,Ibu saya sangat sakit baru-baru ini dan harus dirawat di rumah sakit.,sadness,devastated,empatheticdialogues,hit:10180_conv:20361
+ed_01550,Guru anak-anakku tidak begitu baik dengan anak-anak taman kanak-kanak muda.,fear,apprehensive,empatheticdialogues,hit:7891_conv:15783
+ed_00875,Nenek saya adalah orang yang mengajarkan saya cara memasak.,sadness,sentimental,empatheticdialogues,hit:1799_conv:3598
+dd_neu_0456,"Aku masih di XYZ Company, pertemuan ini memakan waktu lebih lama dari yang saya harapkan. Katakan padanya bahwa manajer kantor tahu aku tidak akan datang untuk memukul kartu saya.",neutral,no emotion,dailydialog,dailydialog-train-10770
+ed_00455,"""Ada makan malam spaghetti yang sangat baik malam ini. Hanya relaksasi dan mendapatkan beberapa pekerjaan dilakukan sekarang. Rasanya cukup tercapai hari ini",happy,content,empatheticdialogues,hit:1264_conv:2529
+dd_neu_0183,"Aku benar-benar tidak tahu, tapi aku tidak berpikir dia memberikan banyak lagi.",neutral,no emotion,dailydialog,dailydialog-train-7228
+ed_01930,Aku takut berada di rumah sendirian semalam,fear,afraid,empatheticdialogues,hit:7347_conv:14695
+ed_02863,Dulu aku punya mimpi buruk yang menakutkan yang membuatku terjaga.,fear,afraid,empatheticdialogues,hit:2545_conv:5091
+ed_03602,pemanasan global membuatku takut dan aku takut orang bahkan tidak menyadarinya.,fear,terrified,empatheticdialogues,hit:11913_conv:23827
+dd_neu_0724,"Ya, kau benar. Jika aku adalah guru, aku tidak akan melakukan itu.",neutral,no emotion,dailydialog,dailydialog-train-220
+dd_neu_0770,"Sekarang kita tahu musik apa yang akan kita mainkan, kita harus memutuskan apa yang akan kita lakukan.",neutral,no emotion,dailydialog,dailydialog-train-5338
+ed_02914,Aku menghabiskan Sabtu malam bermain Lord of the Rings Online.,sadness,lonely,empatheticdialogues,hit:11400_conv:22801
+dd_neu_0280,"Tidak, jika kau tidak bisa mematahkannya, simpan uang ganti. Tapi bisakah kau memberiku kuitansi?",neutral,no emotion,dailydialog,dailydialog-train-8974
+ed_01345,Tidak ada yang akan menonton video Youtube saya dan itu frustrasi.,anger,annoyed,empatheticdialogues,hit:5371_conv:10743
+ed_03285,Seorang pengendara sepeda naik sepeda dengan kecepatan ekstrim tanpa kendali apapun atasnya.,anger,furious,empatheticdialogues,hit:7011_conv:14022
+ed_02247,Teman terbaikku memenangkan perjalanan gratis ke Hawaii. Aku berharap aku yang menang.,anger,jealous,empatheticdialogues,hit:4356_conv:8713
+dd_neu_0893,Aku tidur jam sepuluh dan bangun jam enam.,neutral,no emotion,dailydialog,dailydialog-train-227
+ed_01095,Saya benar-benar senang dengan bagaimana hidup saya berjalan dan saya tidak bisa menunggu masa depan.,happy,content,empatheticdialogues,hit:4015_conv:8031
+ed_03961,"Aku baru-baru ini tertangkap mengendarai dan berbohong kepada polisi tentang mengapa, jadi dia membiarkanku pergi. Aku merasa bersalah.",sadness,guilty,empatheticdialogues,hit:1275_conv:2551
+ed_03134,Aku sangat marah pada sahabatku. Dia memenangkan lotere minggu lalu.,anger,jealous,empatheticdialogues,hit:860_conv:1720
+ed_00607,Aku punya berita hebat hari ini! Suamiku mendapat tawaran pekerjaan yang lebih baik!,happy,grateful,empatheticdialogues,hit:6886_conv:13773
+ed_00177,Aku sangat marah ketika kakakku bermain lelucon dengan mengikat petir di ekor anjing kami,anger,furious,empatheticdialogues,hit:4442_conv:8884
+dd_neu_0980,Kurasa kau benar. Dia tidak bisa mengingatnya.,neutral,no emotion,dailydialog,dailydialog-train-2368
+ed_02941,Seseorang di belakang membunuhku beberapa bulan yang lalu. Aku sangat kesal karena aku punya tempat untuk berada,anger,furious,empatheticdialogues,hit:195_conv:390
+ed_01116,Aku ingat saat anak pertamaku lahir. Aku merasa bangga dan bahagia!,happy,joyful,empatheticdialogues,hit:1863_conv:3727
+dd_neu_0692,Aku tahu. Aku tahu. Tapi aku tak tahan dia membungkuk ketika aku mencoba menekankan sesuatu.,neutral,no emotion,dailydialog,dailydialog-train-2913
+ed_03210,Aku punya begitu banyak burung dan kucing datang ke halaman saya. Aku akan bangkrut membeli makanan untuk mereka.,happy,caring,empatheticdialogues,hit:9897_conv:19794
+ed_02853,"Aku hanya harus pindah dari rumahku, tapi aku pikir itu untuk yang terbaik.",happy,content,empatheticdialogues,hit:6090_conv:12181
+ed_00427,Suamiku ingin mendapat promosi besar dan kami harus menunggu selamanya.,fear,anxious,empatheticdialogues,hit:6357_conv:12715
+dd_neu_0848,"Enam dan seperempat, aku percaya, tapi kau lebih baik mengukur tanganku untuk memastikan.",neutral,no emotion,dailydialog,dailydialog-train-10747
+ed_03520,"Sebelum aku bertemu pacarku dan teman-teman aku sangat sendirian, itu bukan waktu yang menyenangkan",sadness,lonely,empatheticdialogues,hit:8747_conv:17495
+ed_03827,Aku benar-benar berharap aku diterima ke program konseling sekolah untuk sekolah pascasarjana.,happy,hopeful,empatheticdialogues,hit:12243_conv:24487
+dd_neu_0157,"Keuntungan bulanan kami adalah 1,5% dari saldo yang tersisa. Bisakah Anda mengisi formulir permohonan?",neutral,no emotion,dailydialog,dailydialog-test-422
+ed_03826,Departemen saya ditutup.,fear,anxious,empatheticdialogues,hit:7265_conv:14530
+ed_03775,Aku baru saja memeriksa baju balet putriku dari saat dia berusia 2 tahun sampai sekarang - dia berusia 15 tahun.,sadness,sentimental,empatheticdialogues,hit:6326_conv:12653
+ed_01944,itu selalu lebih baik untuk mendapatkan apa yang Anda pantas .. bagaimana perasaan Anda tentang ini,anger,jealous,empatheticdialogues,hit:4763_conv:9527
+ed_01180,Akhir pekan lalu putraku menempati posisi ketiga dalam kompetisi jiu-jitsu-nya.,happy,joyful,empatheticdialogues,hit:10940_conv:21880
+ed_00560,Aku benar-benar benci ketika anak-anakku meninggalkan pakaian kotor mereka di lantai,anger,angry,empatheticdialogues,hit:9559_conv:19118
+ed_00492,Mengapa aku tidak memiliki seorang wanita di sisiku di 46 tahun?,sadness,lonely,empatheticdialogues,hit:5789_conv:11578
+ed_01378,Seseorang memotong saya di lalu lintas kemarin dan hampir menyebabkan saya hancur.,anger,angry,empatheticdialogues,hit:4856_conv:9713
+ed_02582,Aku sedang mengemudi di lingkungan saya ketika sebuah mobil mundur dari driveway mereka tanpa melihat. Aku sangat marah.,anger,angry,empatheticdialogues,hit:8615_conv:17231
+ed_00133,Aku akhirnya memiliki karir yang baik dan stabilitas keuangan dalam hidupku,happy,content,empatheticdialogues,hit:7200_conv:14400
+ed_02495,"Aku merasa sangat damai, dan dalam suasana hati yang baik hari ini tapi sangat stabil dan santai. Yano?",happy,content,empatheticdialogues,hit:1955_conv:3910
+ed_00009,Saya mengalami masalah dengan kartu kredit saya dan mereka menempatkan saya menunggu selama 45 menit sebelum saya bahkan berbicara dengan seseorang!,anger,annoyed,empatheticdialogues,hit:4618_conv:9236
+ed_03299,Aku berharap bahwa Summer belum hampir berakhir.,sadness,disappointed,empatheticdialogues,hit:12366_conv:24732
+ed_01104,Aku benar-benar senang aku selesai tugasku untuk militer,happy,proud,empatheticdialogues,hit:5673_conv:11347
+ed_00911,Ada tikus di dapurku sekali .,fear,terrified,empatheticdialogues,hit:4733_conv:9466
+ed_00479,Aku gugup saat badai di akhir pekan. Hujan keras.,fear,anxious,empatheticdialogues,hit:4643_conv:9287
+ed_03415,Itu benar-benar membuatku marah melihat bahwa banyak orang tanpa rumah di jalan,anger,furious,empatheticdialogues,hit:4857_conv:9714
+ed_02309,Kembar saya akan lahir besok pagi! Aku tidak akan bisa tidur malam ini,fear,anxious,empatheticdialogues,hit:9340_conv:18681
+ed_01980,"Aku sudah berpikir untuk mendaftar untuk pekerjaan ini yang terlihat hebat, tapi aku tidak yakin apakah aku memenuhi syarat untuk itu.",fear,apprehensive,empatheticdialogues,hit:10973_conv:21947
+ed_03994,Jadi kemarin malam seorang polisi menghentikanku.,fear,afraid,empatheticdialogues,hit:70_conv:141
+ed_01613,Aku tidak pernah benar-benar membayangkan bagaimana rasanya menjadi orang tua dan kemudian aku menjadi satu.,happy,caring,empatheticdialogues,hit:7436_conv:14873
+ed_00693,Aku melihat seekor kalajengking di rumahku kemarin dan masih belum menemukannya!,fear,terrified,empatheticdialogues,hit:9099_conv:18199
+ed_03025,Aku menemukan ular beberapa hari yang lalu saat berjalan di halaman.,fear,anxious,empatheticdialogues,hit:1454_conv:2908
+ed_00200,Daghter saya adalah anak yang keren.,happy,grateful,empatheticdialogues,hit:7462_conv:14924
+ed_01329,Aku melihat trailer film tentang kehidupan Paul Walker hari ini. Itu membuatku sangat sedih!,sadness,devastated,empatheticdialogues,hit:11171_conv:22342
+ed_00043,Ketika aku masih kecil adikku punya motor yang aku inginkan. Aku membenci motor itu untuk waktu yang lama.,anger,jealous,empatheticdialogues,hit:11902_conv:23805
+ed_00374,Aku baru saja mengalami serangan jantung figuratif malam tadi.,fear,terrified,empatheticdialogues,hit:4758_conv:9516
+dd_neu_0814,"Itu benar. Yah, jelas bahwa mode bukanlah hal yang murah. Jadi, apakah Anda menghabiskan semua uang Anda untuk itu?",neutral,no emotion,dailydialog,dailydialog-train-8640
+ed_03959,Beberapa bulan yang lalu aku menerima pesan teks yang mengatakan bahwa adikku mengalami kecelakaan sepeda motor! Aku benar-benar takut dia mungkin terluka serius!,fear,afraid,empatheticdialogues,hit:4209_conv:8418
+ed_02284,Aku tidak percaya aku menjadi pada orang-orang itu,sadness,ashamed,empatheticdialogues,hit:3001_conv:6003
+ed_00537,Pernahkah kau merasa sangat marah pada dirimu sendiri?,anger,annoyed,empatheticdialogues,hit:461_conv:922
+ed_01972,"Aku bertemu dengan pacarku untuk pertama kalinya secara pribadi selama 1,5 tahun karena dia telah melayani di Angkatan Darat. Aku bersemangat tapi ada kupu-kupu juga dan gugup soal itu.",fear,apprehensive,empatheticdialogues,hit:8500_conv:17000
+ed_03563,Pacarku telah berbicara dengan banyak gadis akhir-akhir ini.,anger,jealous,empatheticdialogues,hit:9420_conv:18840
+dd_neu_0123,Apakah Anda mendengar tentang kata-kata obscene John terhadap manajer?,neutral,no emotion,dailydialog,dailydialog-train-10133
+dd_neu_0408,"Bagaimanapun, gaun ini sangat elegan.",neutral,no emotion,dailydialog,dailydialog-train-1787
+ed_01969,Aku mendengar tembakan di luar rumahku hari yang lalu di tengah malam. Kurasa sudah jam 2 atau 3 pagi.,fear,terrified,empatheticdialogues,hit:9128_conv:18257
+dd_neu_0015,Itu sebabnya aku mencoba masuk ke Comp Lit 287. Aku tahu itu kelas yang diperlukan. Dan Profesor Cohen mengatakan saya harus mengambilnya.,neutral,no emotion,dailydialog,dailydialog-train-2249
+ed_01474,"Ayah tiri saya meninggal tahun lalu dan ibu saya pindah ke adik saya. Dia tidak membesarkanku, jadi ternyata dia tinggal dengan adikku.",anger,jealous,empatheticdialogues,hit:3774_conv:7548
+dd_neu_0275,Aku akan membuang sampah.,neutral,no emotion,dailydialog,dailydialog-train-10110
+ed_01262,Aku cedera pergelangan kaki 4 tahun yang lalu dan sangat kecewa ketika aku tidak bisa mengangkat beban,sadness,devastated,empatheticdialogues,hit:12076_conv:24153
+ed_01658,Aku tak percaya betapa buruknya skorku di tes itu.,sadness,ashamed,empatheticdialogues,hit:7440_conv:14880
+ed_00798,Aku baru saja kehilangan penglihatan seekor burung merayap yang menakutkan.,fear,terrified,empatheticdialogues,hit:11444_conv:22889
+ed_00096,Besok adalah hari yang bagus untuk saya - Saya memulai pekerjaan baru saya.,fear,anxious,empatheticdialogues,hit:1316_conv:2633
+ed_02061,Besok saya harus memberikan presentasi di tempat kerja dan saya baru saja mengetahui bahwa Wakil Presiden perusahaan akan berada di sana.,fear,anxious,empatheticdialogues,hit:9024_conv:18048
+ed_00314,"Sekarang aku tinggal sendirian, aku merindukan makan malam dengan orang tuaku",sadness,sentimental,empatheticdialogues,hit:5649_conv:11298
+ed_01946,"Saat hari itu hampir berakhir, saya memohon untuk percaya bahwa kesepian saya sempurna.",happy,hopeful,empatheticdialogues,hit:2717_conv:5434
+ed_00756,Aku lupa membayar pinjaman mahasiswa bulan ini.,fear,afraid,empatheticdialogues,hit:9034_conv:18069
+ed_00075,Apakah Anda pernah mengalami pemotongan seperti sesuatu yang buruk akan terjadi. Kemudian mengabaikan naluri Anda?,sadness,devastated,empatheticdialogues,hit:10195_conv:20391
+ed_03298,Aku sangat marah pada Presiden Trump,anger,angry,empatheticdialogues,hit:1160_conv:2320
+ed_02399,Aku benci melihat sahabatku tertekan. Aku telah melihat mereka begitu bahagia dalam hidup tapi melihat mereka seperti ini sekarang membuatku merasa tidak bahagia.,sadness,sad,empatheticdialogues,hit:3621_conv:7243
+ed_03669,"Ketika saya dibayar saya biasanya pergi ke tempat-tempat restoran saya pergi , saya menghindari makanan cepat saji karena mereka selalu mendapatkan pesanan saya salah, jadi ketika restoran baru dibuka saya cenderung menghindari mereka sampai saya melihat ulasan yang baik",fear,apprehensive,empatheticdialogues,hit:7007_conv:14014
+ed_01213,"Kemarin, saudaraku melakukan kejahatan yang tak bisa dimaafkan makan twinkie terakhir.",anger,jealous,empatheticdialogues,hit:1226_conv:2453
+ed_01168,"Aku berpikir emosional tentang saudara-saudaraku, mereka sangat penting bagiku",sadness,sentimental,empatheticdialogues,hit:5515_conv:11030
+ed_02334,Aku membuat pizza hari yang lalu. Biarkan dingin tapi ketika aku kembali itu hilang.,anger,angry,empatheticdialogues,hit:1179_conv:2359
+ed_00531,Aku meninggalkan temanku di bar kemarin.,sadness,guilty,empatheticdialogues,hit:7701_conv:15402
+ed_03318,Beberapa tahun yang lalu aku mengalami kecelakaan mobil yang sangat parah. Aku membalikkan trukku beberapa kali di jurang. Itu adalah pengalaman yang sangat menakutkan!,fear,terrified,empatheticdialogues,hit:3073_conv:6147
+ed_01893,Aku menyukainya saat menonton anjing adikku.,happy,caring,empatheticdialogues,hit:3214_conv:6428
+ed_03830,"Minggu lalu, ada gerakan depan melalui daerah kami yang menghasilkan banyak badai yang sangat kuat.",fear,terrified,empatheticdialogues,hit:5900_conv:11800
+ed_00559,Aku tahu aku seharusnya tidak takut mati begitu muda tapi aku takut.,fear,afraid,empatheticdialogues,hit:1469_conv:2938
+ed_02115,Tidak adil jika adikku mendapatkan kalung favorit ibuku!,anger,jealous,empatheticdialogues,hit:4579_conv:9159
+ed_02827,"Aku sendirian di rumah orangtuaku bepergian, aku merasa kesepian dan takut",fear,terrified,empatheticdialogues,hit:8725_conv:17450
+dd_neu_0908,Apakah Anda tidak tahu bahwa dia adalah satu-satunya yang telah menerima undangan di kantor?,neutral,no emotion,dailydialog,dailydialog-train-574
+dd_neu_0080,Aku bisa melihatnya. Busnya berhenti. Kurasa kita akan bisa masuk ke dalam.,neutral,no emotion,dailydialog,dailydialog-train-8989
+ed_02561,"Kakak iparku membuatnya di bawah bayang-bayang. Dia punya mobil baru, rumah baru, toko sepanjang hari.",anger,jealous,empatheticdialogues,hit:11478_conv:22957
+ed_01071,Aku baru saja mendapatkan anak anjing baru minggu lalu dan sekarang dia sudah mati.,sadness,sad,empatheticdialogues,hit:12141_conv:24283
+ed_02281,Aku benci lautan. Aku sangat takut.,fear,afraid,empatheticdialogues,hit:286_conv:572
+ed_00627,Saya sedang berkendara pulang dari pekerjaan lewat malam dan melihat sebuah mobil mengikuti saya. Mereka membuat setiap giliran yang saya lakukan. Aku sendirian dan ini sebelum ponsel.,fear,afraid,empatheticdialogues,hit:5692_conv:11385
+ed_03641,Aku punya masalah dengan rekan kerja. Dia tidak punya sopan santun sama sekali!,anger,furious,empatheticdialogues,hit:11888_conv:23777
+dd_neu_0388,tanaman? Itu kreatif. Aku yakin setiap kali dia meminumnya dia akan memikirkanmu. Tapi ada masalah. Menurutmu itu akan bisa melalui bea cukai?,neutral,no emotion,dailydialog,dailydialog-train-863
+ed_01793,"Teman terbaikku akan bepergian dari Wisconsin untuk melihatku musim panas ini, tapi akhirnya dia tidak bisa datang.",sadness,disappointed,empatheticdialogues,hit:10442_conv:20885
+ed_02189,Aku meminjam uang dari temanku.,happy,hopeful,empatheticdialogues,hit:9921_conv:19842
+dd_neu_0415,Aku tak percaya Tuan Fro tidak membelinya. Siapa yang orang itu pikir dia lagian? Bill Gates?,neutral,no emotion,dailydialog,dailydialog-train-138
+ed_01240,Aku sedang dalam lalu lintas baru-baru ini.,anger,angry,empatheticdialogues,hit:6071_conv:12142
+ed_02932,Aku berkemah akhir pekan lalu dan aku mendengar hewan berjalan di luar tenda di tengah malam.,fear,afraid,empatheticdialogues,hit:5448_conv:10896
+ed_03231,"Aku merindukan tahun 90-an! Musik terbaik, cemilan, dan acara TV!",sadness,nostalgic,empatheticdialogues,hit:8792_conv:17585
+dd_neu_0164,"Saya tidak berpikir saya berbagi pandangan Anda di sana. Penulis menulis tentang sejarah, masyarakat, sifat manusia dan sebagainya. Ini terlalu sulit untuk dimengerti.",neutral,no emotion,dailydialog,dailydialog-train-4141
+ed_02659,Baru-baru ini aku harus mengikuti tes kerja. Aku tahu aku akan melakukannya dengan baik karena aku siap.,happy,confident,empatheticdialogues,hit:9852_conv:19705
+dd_neu_0858,Ini brosur kami. Ini akan membantu Anda berkenalan dengan produk dan perusahaan kami.,neutral,no emotion,dailydialog,dailydialog-train-10172
+ed_01414,"Ketika aku masih kecil, aku meminta uang dari seorang anak yang tinggal di lingkunganku. Sekarang, aku merasa buruk tentang itu.",sadness,guilty,empatheticdialogues,hit:9837_conv:19675
+ed_02536,Aku sangat marah rekan kerjaku mencuri dariku kemarin. Bagaimana mereka bisa melakukan ini padaku...,anger,furious,empatheticdialogues,hit:3630_conv:7260
+ed_01054,Sekolah akan dimulai lagi. Kurasa aku akan merindukan anak-anakku di rumah,sadness,lonely,empatheticdialogues,hit:1362_conv:2725
+ed_00418,Anjingku digigit oleh serangga. Bibirnya menjadi besar dan terlihat sangat lucu tapi aku merasa mengerikan untuknya!,happy,caring,empatheticdialogues,hit:10950_conv:21900
+ed_00348,Putriku mengambil langkah pertamanya beberapa minggu yang lalu.,happy,proud,empatheticdialogues,hit:9138_conv:18276
+ed_00271,Tidak ada yang datang ke pesta ulang tahunku minggu lalu.,sadness,lonely,empatheticdialogues,hit:3438_conv:6877
+dd_neu_0444,"Ya, aku pikir begitu. Penerbangan KL638 masih di bandara karena badai.",neutral,no emotion,dailydialog,dailydialog-train-8868
+ed_00764,"Anak saya di bully di sekolah hari demi hari. Aku telah masuk dan memiliki begitu banyak pertemuan dengan direktur tapi itu terus terjadi. Aku ... Ya, aku tahu. Fed. Bangunlah.",anger,angry,empatheticdialogues,hit:2308_conv:4616
+ed_00161,Acara TV favoritku dari masa kecil muncul kemarin malam.,sadness,nostalgic,empatheticdialogues,hit:3366_conv:6733
+ed_03181,Aku menanam rumput di halaman belakangku beberapa minggu yang lalu dan itu terlihat bagus sampai anjingku menangkapnya.,anger,annoyed,empatheticdialogues,hit:6104_conv:12208
+dd_neu_0068,Bawa mereka ke mobil istriku.,neutral,no emotion,dailydialog,dailydialog-train-4455
+ed_02012,Ada kali lain aku merasa seperti orang tua miskin dan penjaga tapi itu adalah salah satu yang paling terburuk yang tak terlupakan.,sadness,ashamed,empatheticdialogues,hit:11043_conv:22086
+ed_00584,Rekan kamarku selalu kencing di seluruh kursi toilet.,anger,annoyed,empatheticdialogues,hit:12287_conv:24574
+ed_02525,Aku tidak mengerti mengapa beberapa orang dibayar lebih banyak daripada yang lain,anger,jealous,empatheticdialogues,hit:7557_conv:15114
+ed_00549,Adikku akan menjalani operasi besok.,happy,hopeful,empatheticdialogues,hit:10318_conv:20637
+ed_01805,Aku baru saja wawancara pekerjaan ketiga bulan ini kemarin! Itu benar-benar hebat memiliki begitu banyak wawancara pekerjaan dan saya telah mendapatkan umpan balik positif dari mereka semua! Aku benar-benar berpikir aku akan mendapatkan salah satu pekerjaan ini!,happy,confident,empatheticdialogues,hit:2365_conv:4731
+ed_02073,"Tidak peduli siapa yang datang ke pintu, anjingku menggonggong.",anger,annoyed,empatheticdialogues,hit:12039_conv:24078
+ed_01817,Salah satu hal yang paling menyedihkan bagi saya adalah ketika orang meremehkan apa yang mereka bisa lakukan dan / atau mampu.,sadness,sad,empatheticdialogues,hit:248_conv:496
+dd_neu_0488,"Kau bisa melakukannya sekarang, jika kau mau.",neutral,no emotion,dailydialog,dailydialog-train-1448
+ed_02046,Aku mengalami serangan kecemasan akhir-akhir ini. Semuanya bagus dan tiba-tiba aku mulai berpikir tentang sesuatu yang buruk terjadi dan aku memiliki serangan kecemasan penuh meledak atas sesuatu yang bahkan tidak terjadi,fear,anxious,empatheticdialogues,hit:6205_conv:12411
+dd_neu_0266,"Saya berencana untuk melanjutkan sekolah, tapi kemudian saya ditawari pekerjaan yang bagus dalam pemasaran, jadi saya berubah pikiran.",neutral,no emotion,dailydialog,dailydialog-train-4524
+ed_00648,Saya pergi untuk wawancara untuk pekerjaan yang saya benar-benar ingin dan akhirnya menunggu lama sebelum saya mendengar apa-apa. Saya berhasil menjaga semangat saya untuk waktu yang lama.,happy,hopeful,empatheticdialogues,hit:1398_conv:2797
+ed_01740,Aku selalu gugup tentang berbicara di depan umum,fear,anxious,empatheticdialogues,hit:8322_conv:16644
+ed_01224,Aku sangat merindukan kakek dan nenekku sehingga menyakitkan.,sadness,sentimental,empatheticdialogues,hit:2006_conv:4013
+ed_02742,Apakah anak-anakmu pernah melakukan sesuatu yang lucu yang menjadi menjengkelkan?,anger,annoyed,empatheticdialogues,hit:2332_conv:4665
+ed_02964,Aku mulai berdarah ketika aku buang air kecil.,fear,afraid,empatheticdialogues,hit:9675_conv:19351
+ed_00118,Aku melihat orang yang cukup baik dibangun di sebuah restoran hari ini. Jika hanya itu aku !!,anger,jealous,empatheticdialogues,hit:2497_conv:4995
+ed_03738,"Tingkat kejahatan di mana saya tinggal meningkat, mengerikan untuk berpikir tentang",fear,terrified,empatheticdialogues,hit:5019_conv:10039
+ed_03631,Mengganti atapku. Itu sangat mahal.,fear,afraid,empatheticdialogues,hit:6192_conv:12384
+dd_neu_0311,Apakah Anda tahu apa cuaca akan besok? Kami berencana untuk mendaki gunung.,neutral,no emotion,dailydialog,dailydialog-train-9089
+ed_00577,Aku marah ketika itu hanya hari Selasa!,anger,angry,empatheticdialogues,hit:2715_conv:5431
+dd_neu_0741,bukan hanya pengalaman kerja. Saya akan mengatakan pelajaran terbesar yang saya pelajari adalah bagaimana menangani orang dari semua lapisan masyarakat.,neutral,no emotion,dailydialog,dailydialog-train-143
+ed_01590,Aku akan melakukan perjalanan dengan kapal pesiar akhir pekan depan.,happy,excited,empatheticdialogues,hit:3635_conv:7270
+ed_01210,Aku sedikit gugup tentang kencan,fear,apprehensive,empatheticdialogues,hit:3165_conv:6330
+ed_00430,Jadi aku sedang menjelajahi beberapa bangunan ditinggalkan suatu hari.,fear,afraid,empatheticdialogues,hit:1536_conv:3072
+dd_neu_0772,Saya akan merekomendasikan sup dengan dua atau tiga hidangan kecil.,neutral,no emotion,dailydialog,dailydialog-train-10652
+ed_00113,Aku memiliki mimpi buruk terburuk semalam. Aku bangun berteriak dan gemetar.,fear,terrified,empatheticdialogues,hit:10911_conv:21822
+ed_02415,"Beberapa hari yang lalu, aku memecahkan rekor angkat besi saya di gym. Aku merasa terpuaskan!",happy,confident,empatheticdialogues,hit:819_conv:1638
+ed_01579,"Aku harus pergi ke dokter baru-baru ini untuk mendapatkan sesuatu diperiksa, selalu membuat saya khawatir pergi ke sana.",fear,anxious,empatheticdialogues,hit:1474_conv:2948
+ed_00255,Aku melewatkan penjualan laptop yang aku inginkan untuk bekerja.,sadness,disappointed,empatheticdialogues,hit:1425_conv:2851
+ed_03188,Aku pergi ke dokter kemarin dan mereka melakukan beberapa tes. Aku merasa lemah untuk sementara waktu sekarang dan dia khawatir. Aku belum mendengar kembali tentang tes.,fear,apprehensive,empatheticdialogues,hit:4240_conv:8481
+ed_01397,"Oh, aku sangat sedih bahwa keluargaku tidak bisa datang dan mengunjungi saya. Aku sangat merindukan mereka semua. Mengapa kehidupan begitu sibuk untuk semua orang hari ini?",sadness,disappointed,empatheticdialogues,hit:11627_conv:23255
+ed_00420,"Aku akhirnya berhasil mendaki penuh, aku menguasai tali kargo.",happy,proud,empatheticdialogues,hit:8944_conv:17888
+ed_00793,"Hai, jadi putraku pertama di kelas bahasa Inggrisnya!",happy,proud,empatheticdialogues,hit:3419_conv:6838
+ed_00151,"Aku sudah lama menikah dan hidup sendiri, tapi ibuku masih memasak makanan yang lezat hampir setiap malam dan mengundangku untuk makan. Aku menghargai itu lebih dari yang dia sadari.",happy,grateful,empatheticdialogues,hit:9365_conv:18731
+dd_neu_0134,Bagaimana dengan pasangan ini? Mereka adalah 'dalam' hal-hal sekarang dalam pakaian optik. Cobalah mereka.,neutral,no emotion,dailydialog,dailydialog-train-6473
+ed_01172,Aku punya barang Ebery yang anak-anakku pernah buat padaku.,sadness,sentimental,empatheticdialogues,hit:5351_conv:10703
+ed_03865,Aku pikir aku mendengar hewan terjebak di bawah rumahku semalam.,fear,afraid,empatheticdialogues,hit:4000_conv:8000
+ed_03946,Aku memulai pekerjaan baru dan sangat gugup tapi juga bersemangat.,fear,apprehensive,empatheticdialogues,hit:10622_conv:21245
+dd_neu_0137,"Baiklah, aku akan pergi. Kita akan makan seafood dan sayuran.",neutral,no emotion,dailydialog,dailydialog-train-10855
+ed_02427,"kehilangan kunci saya di pantai, harus membayar bundel untuk mendapatkan mereka diganti",anger,furious,empatheticdialogues,hit:6593_conv:13187
+ed_00783,Aku mengharapkan kenaikan dalam paket saya.,sadness,disappointed,empatheticdialogues,hit:8739_conv:17479
+ed_03083,Aku takut mengemudi pada hari Kamis. Hujan sangat keras.,fear,terrified,empatheticdialogues,hit:7376_conv:14752
+ed_02241,Penambahan baru ke keluarga kami baru saja lahir akhir pekan ini.,happy,caring,empatheticdialogues,hit:1554_conv:3108
+ed_03040,Mereka tidak bisa meninggalkan kekuasaan karena keserakahan,anger,jealous,empatheticdialogues,hit:640_conv:1280
+ed_01028,Aku jadi sangat marah ketika hujan Aku punya rencana untuk memasak keluarga tapi itu mulai berdering dan meringankan seperti kelelahan.,anger,annoyed,empatheticdialogues,hit:3932_conv:7865
+ed_03146,Tetangga tetangga saya baru saja membeli truk yang saya inginkan untuk diri saya sendiri.,anger,jealous,empatheticdialogues,hit:9461_conv:18923
+ed_01032,Aku kehilangan 20 pon tahun ini. Kurasa aku akan terlihat bagus dalam kostumku.,happy,confident,empatheticdialogues,hit:7393_conv:14786
+ed_03405,Aku mencuri kaus kaki teman sekamarku karena aku kehabisan. Aku merasa buruk.,sadness,guilty,empatheticdialogues,hit:6394_conv:12788
+ed_00061,Aku hanya tidak tahan ketika orang membuat komentar tanpa informasi tentang topik. Ibuku sangat mengiritasi saya dengan melakukan itu hari yang lalu.,anger,annoyed,empatheticdialogues,hit:10509_conv:21018
+dd_neu_0782,Kami ingin melakukannya sesuai dengan F. O. B.,neutral,no emotion,dailydialog,dailydialog-validation-539
+ed_01078,Aku suka ketika bangunan itu datang dari aku,anger,angry,empatheticdialogues,hit:7637_conv:15275
+ed_02175,Aku benar-benar gugup sekarang. Aku menunggu panggilan telepon untuk melihat apakah aku mendapatkan pekerjaan yang saya wawancarai.,fear,anxious,empatheticdialogues,hit:9839_conv:19679
+dd_neu_0425,Aku tidak bisa sekarang karena aku harus membeli hadiah untuk ibuku.,neutral,no emotion,dailydialog,dailydialog-train-368
+dd_neu_0958,"Belum, aku sibuk mencari videografer yang merekam sesuatu untuk Internet.",neutral,no emotion,dailydialog,dailydialog-validation-858
+dd_neu_0360,Apakah Anda perlu berada di distrik sekolah tertentu?,neutral,no emotion,dailydialog,dailydialog-validation-586
+ed_00941,Starbucks selalu mendapatkan pesanan saya salah!,anger,furious,empatheticdialogues,hit:624_conv:1249
+ed_03792,Aku makan di Cheesecake Factory.,happy,content,empatheticdialogues,hit:7241_conv:14483
+dd_neu_0778,Ini hampir siap. Bisakah kau siapkan meja?,neutral,no emotion,dailydialog,dailydialog-validation-101
+ed_00125,Aku baik dengan mobil apa yang kuendarai.,happy,content,empatheticdialogues,hit:7117_conv:14234
+ed_02732,Aku belum yakin apakah pacarku ingin menikah. Aku tidak akan buru-buru.,fear,apprehensive,empatheticdialogues,hit:12382_conv:24764
+ed_01884,Saudaraku selalu mengambil saus panasku.,anger,annoyed,empatheticdialogues,hit:7641_conv:15283
+ed_01377,Minggu ini lagi aku lupa menelepon pemotong rumput lagi. rumput sekarang tinggi dan administrasi perumahan saya telah mengirim saya pemberitahuan peringatan,sadness,ashamed,empatheticdialogues,hit:6968_conv:13937
+ed_01598,"Aku akan berkemah besok, itu salah satu hal favoritku untuk dilakukan di musim panas!",happy,joyful,empatheticdialogues,hit:11001_conv:22003
+ed_03217,"Kemarin, aku naik pesawat. Selama penerbangan, aku pergi ke toilet dan seorang wanita datang tepat setelahku. Dia terus mengetuk pintu berulang kali, agresif dan berkali-kali.",anger,angry,empatheticdialogues,hit:1283_conv:2567
+ed_02635,"Aku mendengarkan audiobook ini dan itu begitu menakutkan, aku bisa menangis",fear,terrified,empatheticdialogues,hit:11292_conv:22584
+ed_02740,Aku sudah mendapatkan pumped untuk Natal tahun ini ...,happy,excited,empatheticdialogues,hit:858_conv:1717
+ed_02384,"Permainan favoritku memiliki ekspansi pada hari Senin, aku tak sabar.",happy,joyful,empatheticdialogues,hit:7372_conv:14745
+dd_neu_0699,"Ya, kurasa begitu. Aku menghabiskan akhir pekan di pantai.",neutral,no emotion,dailydialog,dailydialog-train-1083
+ed_03205,Aku selalu merasa seperti diriku dari masa lalu saat mengemudi truk lama.,sadness,nostalgic,empatheticdialogues,hit:4833_conv:9666
+dd_neu_0193,Pertandingan basket antara tim Cina dan tim Amerika.,neutral,no emotion,dailydialog,dailydialog-test-467
+dd_neu_0583,"Ya, aku berniat untuk pergi ke universitas. Itu akan terjadi pada bulan September. Tapi itu semua tergantung pada hasil tingkat A saya.",neutral,no emotion,dailydialog,dailydialog-train-1999
+dd_neu_0084,"Apa maksudmu, Tn. Smith? Kau bilang biar singkat.",neutral,no emotion,dailydialog,dailydialog-train-3487
+ed_01548,"Aku benci menunggu, terutama pada nilai.",fear,apprehensive,empatheticdialogues,hit:5093_conv:10186
+dd_neu_0969,Tidak apa-apa. Anda bisa mengirim email ke majikan melalui internet.,neutral,no emotion,dailydialog,dailydialog-train-9200
+dd_neu_0873,Saya suka mengerjakan proyek-proyek kelompok yang menghargai dan membutuhkan kontribusi masing-masing individu.,neutral,no emotion,dailydialog,dailydialog-validation-500
+ed_02942,Aku membawa istriku makan siang hari ini untuk ulang tahun kita.,anger,jealous,empatheticdialogues,hit:9692_conv:19385
+ed_00841,Aku benar-benar merindukan bibi. Aku agak kesepian dan dia yang selalu aku bicarakan. Aku harus pindah jauh darinya baru-baru ini.,sadness,lonely,empatheticdialogues,hit:11625_conv:23250
+ed_01801,Transmisi di mobilku mati minggu lalu. Perbaikan yang mahal.,happy,grateful,empatheticdialogues,hit:3668_conv:7337

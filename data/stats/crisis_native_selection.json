@@ -1,0 +1,31 @@
+{
+ "awal": 10128,
+ "awal_per_label": {
+  "0": 8161,
+  "1": 1967
+ },
+ "kappa_anotator": {
+  "ACN-BME": 0.939,
+  "ACN-AIP": 0.944,
+  "BME-AIP": 0.887
+ },
+ "setelah_buang_pendek": 10088,
+ "buang_label_ganda_teks": 7,
+ "setelah_buang_duplikat": 7854,
+ "buang_sama_dengan_uji_chatbot": 0,
+ "train": {
+  "n": 6283,
+  "bukan": 5033,
+  "krisis": 1250
+ },
+ "val": {
+  "n": 785,
+  "bukan": 629,
+  "krisis": 156
+ },
+ "test": {
+  "n": 786,
+  "bukan": 629,
+  "krisis": 157
+ }
+}

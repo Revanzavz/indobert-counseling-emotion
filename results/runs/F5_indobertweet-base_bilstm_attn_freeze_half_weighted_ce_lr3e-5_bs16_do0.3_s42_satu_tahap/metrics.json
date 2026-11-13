@@ -1,0 +1,716 @@
+{
+ "config": {
+  "head": "bilstm_attn",
+  "strategy": "freeze_half",
+  "loss": "weighted_ce",
+  "lr": 3e-05,
+  "head_lr_mult": 20.0,
+  "batch_size": 8,
+  "grad_accum": 2,
+  "dropout": 0.3,
+  "max_epochs": 5,
+  "patience": 2,
+  "warmup_ratio": 0.1,
+  "weight_decay": 0.01,
+  "max_len": 128,
+  "seed": 42,
+  "normalisasi": false,
+  "fp16": true,
+  "lexicon": "<TA_ROOT>\\Eksperimen\\eksperimen\\colloquial-indonesian-lexicon.csv",
+  "data_dir": "<TA_ROOT>\\Eksperimen\\eksperimen\\..\\data_final",
+  "train_files": [
+   "satu_tahap_train.csv"
+  ],
+  "val_files": [
+   "satu_tahap_val.csv"
+  ],
+  "test_sets": {
+   "tahap2_test": [
+    "tahap2_test.csv"
+   ],
+   "tahap1_test": [
+    "tahap1_test.csv"
+   ],
+   "tahap2_val": [
+    "tahap2_val.csv"
+   ]
+  },
+  "varian": "satu_tahap",
+  "fase": "F5",
+  "backbone": "indobertweet-base",
+  "batch_efektif": 16,
+  "run_id": "F5_indobertweet-base_bilstm_attn_freeze_half_weighted_ce_lr3e-5_bs16_do0.3_s42_satu_tahap",
+  "out_dir": "<TA_ROOT>\\Eksperimen\\eksperimen\\runs\\F5_indobertweet-base_bilstm_attn_freeze_half_weighted_ce_lr3e-5_bs16_do0.3_s42_satu_tahap"
+ },
+ "best_epoch": 2,
+ "history": [
+  {
+   "epoch": 1,
+   "train_loss": 0.9451098842741252,
+   "val_loss": 0.6961026191711426,
+   "val_f1_weighted": 0.7508056680729723,
+   "val_f1_macro": 0.7498157066114687
+  },
+  {
+   "epoch": 2,
+   "train_loss": 0.5591318074451104,
+   "val_loss": 0.6828593015670776,
+   "val_f1_weighted": 0.7563634633932159,
+   "val_f1_macro": 0.7543051769802924
+  },
+  {
+   "epoch": 3,
+   "train_loss": 0.35111879238907967,
+   "val_loss": 0.7351707816123962,
+   "val_f1_weighted": 0.7767664248620666,
+   "val_f1_macro": 0.7757030599311968
+  },
+  {
+   "epoch": 4,
+   "train_loss": 0.20607703738550132,
+   "val_loss": 0.9302994608879089,
+   "val_f1_weighted": 0.767135723914512,
+   "val_f1_macro": 0.7641623248681315
+  }
+ ],
+ "temperature": 1.2854881286621094,
+ "val": {
+  "accuracy": 0.7561419472247498,
+  "precision_weighted": 0.7655169474324076,
+  "recall_weighted": 0.7561419472247498,
+  "f1_weighted": 0.7563634633932159,
+  "f1_macro": 0.7543051769802924,
+  "f1_macro_emosi": 0.7590430873869817,
+  "nll": 0.6828593015670776,
+  "ece": 0.084019977406602,
+  "per_kelas": {
+   "anger": {
+    "precision": 0.722488038277512,
+    "recall": 0.7864583333333334,
+    "f1": 0.7531172069825436,
+    "support": 192
+   },
+   "fear": {
+    "precision": 0.8012422360248447,
+    "recall": 0.7588235294117647,
+    "f1": 0.7794561933534743,
+    "support": 170
+   },
+   "happy": {
+    "precision": 0.7808219178082192,
+    "recall": 0.8172043010752689,
+    "f1": 0.7985989492119089,
+    "support": 279
+   },
+   "sadness": {
+    "precision": 0.6409090909090909,
+    "recall": 0.7833333333333333,
+    "f1": 0.705,
+    "support": 180
+   },
+   "neutral": {
+    "precision": 0.8387096774193549,
+    "recall": 0.6546762589928058,
+    "f1": 0.7353535353535353,
+    "support": 278
+   }
+  },
+  "confusion_matrix": [
+   [
+    151,
+    2,
+    5,
+    24,
+    10
+   ],
+   [
+    8,
+    129,
+    9,
+    14,
+    10
+   ],
+   [
+    15,
+    11,
+    228,
+    18,
+    7
+   ],
+   [
+    10,
+    7,
+    14,
+    141,
+    8
+   ],
+   [
+    25,
+    12,
+    36,
+    23,
+    182
+   ]
+  ]
+ },
+ "val_kalibrasi": {
+  "accuracy": 0.7561419472247498,
+  "precision_weighted": 0.7655169474324076,
+  "recall_weighted": 0.7561419472247498,
+  "f1_weighted": 0.7563634633932159,
+  "f1_macro": 0.7543051769802924,
+  "f1_macro_emosi": 0.7590430873869817,
+  "nll": 0.6563513875007629,
+  "ece": 0.04103883745728487,
+  "per_kelas": {
+   "anger": {
+    "precision": 0.722488038277512,
+    "recall": 0.7864583333333334,
+    "f1": 0.7531172069825436,
+    "support": 192
+   },
+   "fear": {
+    "precision": 0.8012422360248447,
+    "recall": 0.7588235294117647,
+    "f1": 0.7794561933534743,
+    "support": 170
+   },
+   "happy": {
+    "precision": 0.7808219178082192,
+    "recall": 0.8172043010752689,
+    "f1": 0.7985989492119089,
+    "support": 279
+   },
+   "sadness": {
+    "precision": 0.6409090909090909,
+    "recall": 0.7833333333333333,
+    "f1": 0.705,
+    "support": 180
+   },
+   "neutral": {
+    "precision": 0.8387096774193549,
+    "recall": 0.6546762589928058,
+    "f1": 0.7353535353535353,
+    "support": 278
+   }
+  },
+  "confusion_matrix": [
+   [
+    151,
+    2,
+    5,
+    24,
+    10
+   ],
+   [
+    8,
+    129,
+    9,
+    14,
+    10
+   ],
+   [
+    15,
+    11,
+    228,
+    18,
+    7
+   ],
+   [
+    10,
+    7,
+    14,
+    141,
+    8
+   ],
+   [
+    25,
+    12,
+    36,
+    23,
+    182
+   ]
+  ]
+ },
+ "test": {
+  "tahap2_test": {
+   "accuracy": 0.705,
+   "precision_weighted": 0.7224961377609352,
+   "recall_weighted": 0.705,
+   "f1_weighted": 0.7080321024879833,
+   "f1_macro": 0.7080321024879833,
+   "f1_macro_emosi": 0.6787464218162729,
+   "nll": 0.8257945775985718,
+   "ece": 0.08032500940781623,
+   "per_kelas": {
+    "anger": {
+     "precision": 0.654320987654321,
+     "recall": 0.6625,
+     "f1": 0.6583850931677019,
+     "support": 80
+    },
+    "fear": {
+     "precision": 0.7012987012987013,
+     "recall": 0.675,
+     "f1": 0.6878980891719745,
+     "support": 80
+    },
+    "happy": {
+     "precision": 0.7222222222222222,
+     "recall": 0.65,
+     "f1": 0.6842105263157895,
+     "support": 80
+    },
+    "sadness": {
+     "precision": 0.5981308411214953,
+     "recall": 0.8,
+     "f1": 0.6844919786096256,
+     "support": 80
+    },
+    "neutral": {
+     "precision": 0.9365079365079365,
+     "recall": 0.7375,
+     "f1": 0.8251748251748252,
+     "support": 80
+    }
+   },
+   "confusion_matrix": [
+    [
+     53,
+     3,
+     4,
+     19,
+     1
+    ],
+    [
+     8,
+     54,
+     6,
+     11,
+     1
+    ],
+    [
+     10,
+     8,
+     52,
+     9,
+     1
+    ],
+    [
+     8,
+     5,
+     2,
+     64,
+     1
+    ],
+    [
+     2,
+     7,
+     8,
+     4,
+     59
+    ]
+   ]
+  },
+  "tahap1_test": {
+   "accuracy": 0.8128571428571428,
+   "precision_weighted": 0.8194138662176543,
+   "recall_weighted": 0.8128571428571428,
+   "f1_weighted": 0.8076542478807932,
+   "f1_macro": 0.8120058733745552,
+   "f1_macro_emosi": 0.8360132588779573,
+   "nll": 0.5562748312950134,
+   "ece": 0.06755164177526164,
+   "per_kelas": {
+    "anger": {
+     "precision": 0.7299270072992701,
+     "recall": 0.8928571428571429,
+     "f1": 0.8032128514056225,
+     "support": 112
+    },
+    "fear": {
+     "precision": 0.8144329896907216,
+     "recall": 0.8777777777777778,
+     "f1": 0.8449197860962567,
+     "support": 90
+    },
+    "happy": {
+     "precision": 0.8311111111111111,
+     "recall": 0.935,
+     "f1": 0.88,
+     "support": 200
+    },
+    "sadness": {
+     "precision": 0.8118811881188119,
+     "recall": 0.82,
+     "f1": 0.8159203980099502,
+     "support": 100
+    },
+    "neutral": {
+     "precision": 0.8642857142857143,
+     "recall": 0.6111111111111112,
+     "f1": 0.7159763313609467,
+     "support": 198
+    }
+   },
+   "confusion_matrix": [
+    [
+     100,
+     2,
+     0,
+     3,
+     7
+    ],
+    [
+     7,
+     79,
+     3,
+     0,
+     1
+    ],
+    [
+     1,
+     2,
+     187,
+     4,
+     6
+    ],
+    [
+     4,
+     6,
+     3,
+     82,
+     5
+    ],
+    [
+     25,
+     8,
+     32,
+     12,
+     121
+    ]
+   ]
+  },
+  "tahap2_val": {
+   "accuracy": 0.6975,
+   "precision_weighted": 0.7120490648467694,
+   "recall_weighted": 0.6975,
+   "f1_weighted": 0.7014327680994348,
+   "f1_macro": 0.7014327680994349,
+   "f1_macro_emosi": 0.6740882574215908,
+   "nll": 0.8122317790985107,
+   "ece": 0.09966974257602172,
+   "per_kelas": {
+    "anger": {
+     "precision": 0.6829268292682927,
+     "recall": 0.7,
+     "f1": 0.691358024691358,
+     "support": 80
+    },
+    "fear": {
+     "precision": 0.7432432432432432,
+     "recall": 0.6875,
+     "f1": 0.7142857142857143,
+     "support": 80
+    },
+    "happy": {
+     "precision": 0.7027027027027027,
+     "recall": 0.65,
+     "f1": 0.6753246753246753,
+     "support": 80
+    },
+    "sadness": {
+     "precision": 0.5490196078431373,
+     "recall": 0.7,
+     "f1": 0.6153846153846154,
+     "support": 80
+    },
+    "neutral": {
+     "precision": 0.8823529411764706,
+     "recall": 0.75,
+     "f1": 0.8108108108108109,
+     "support": 80
+    }
+   },
+   "confusion_matrix": [
+    [
+     56,
+     1,
+     4,
+     18,
+     1
+    ],
+    [
+     4,
+     55,
+     5,
+     12,
+     4
+    ],
+    [
+     7,
+     8,
+     52,
+     11,
+     2
+    ],
+    [
+     8,
+     5,
+     10,
+     56,
+     1
+    ],
+    [
+     7,
+     5,
+     3,
+     5,
+     60
+    ]
+   ]
+  }
+ },
+ "test_kalibrasi": {
+  "tahap2_test": {
+   "accuracy": 0.705,
+   "precision_weighted": 0.7224961377609352,
+   "recall_weighted": 0.705,
+   "f1_weighted": 0.7080321024879833,
+   "f1_macro": 0.7080321024879833,
+   "f1_macro_emosi": 0.6787464218162729,
+   "nll": 0.8035475015640259,
+   "ece": 0.043079935879081654,
+   "per_kelas": {
+    "anger": {
+     "precision": 0.654320987654321,
+     "recall": 0.6625,
+     "f1": 0.6583850931677019,
+     "support": 80
+    },
+    "fear": {
+     "precision": 0.7012987012987013,
+     "recall": 0.675,
+     "f1": 0.6878980891719745,
+     "support": 80
+    },
+    "happy": {
+     "precision": 0.7222222222222222,
+     "recall": 0.65,
+     "f1": 0.6842105263157895,
+     "support": 80
+    },
+    "sadness": {
+     "precision": 0.5981308411214953,
+     "recall": 0.8,
+     "f1": 0.6844919786096256,
+     "support": 80
+    },
+    "neutral": {
+     "precision": 0.9365079365079365,
+     "recall": 0.7375,
+     "f1": 0.8251748251748252,
+     "support": 80
+    }
+   },
+   "confusion_matrix": [
+    [
+     53,
+     3,
+     4,
+     19,
+     1
+    ],
+    [
+     8,
+     54,
+     6,
+     11,
+     1
+    ],
+    [
+     10,
+     8,
+     52,
+     9,
+     1
+    ],
+    [
+     8,
+     5,
+     2,
+     64,
+     1
+    ],
+    [
+     2,
+     7,
+     8,
+     4,
+     59
+    ]
+   ]
+  },
+  "tahap1_test": {
+   "accuracy": 0.8128571428571428,
+   "precision_weighted": 0.8194138662176543,
+   "recall_weighted": 0.8128571428571428,
+   "f1_weighted": 0.8076542478807932,
+   "f1_macro": 0.8120058733745552,
+   "f1_macro_emosi": 0.8360132588779573,
+   "nll": 0.5390392541885376,
+   "ece": 0.021131373074243315,
+   "per_kelas": {
+    "anger": {
+     "precision": 0.7299270072992701,
+     "recall": 0.8928571428571429,
+     "f1": 0.8032128514056225,
+     "support": 112
+    },
+    "fear": {
+     "precision": 0.8144329896907216,
+     "recall": 0.8777777777777778,
+     "f1": 0.8449197860962567,
+     "support": 90
+    },
+    "happy": {
+     "precision": 0.8311111111111111,
+     "recall": 0.935,
+     "f1": 0.88,
+     "support": 200
+    },
+    "sadness": {
+     "precision": 0.8118811881188119,
+     "recall": 0.82,
+     "f1": 0.8159203980099502,
+     "support": 100
+    },
+    "neutral": {
+     "precision": 0.8642857142857143,
+     "recall": 0.6111111111111112,
+     "f1": 0.7159763313609467,
+     "support": 198
+    }
+   },
+   "confusion_matrix": [
+    [
+     100,
+     2,
+     0,
+     3,
+     7
+    ],
+    [
+     7,
+     79,
+     3,
+     0,
+     1
+    ],
+    [
+     1,
+     2,
+     187,
+     4,
+     6
+    ],
+    [
+     4,
+     6,
+     3,
+     82,
+     5
+    ],
+    [
+     25,
+     8,
+     32,
+     12,
+     121
+    ]
+   ]
+  },
+  "tahap2_val": {
+   "accuracy": 0.6975,
+   "precision_weighted": 0.7120490648467694,
+   "recall_weighted": 0.6975,
+   "f1_weighted": 0.7014327680994348,
+   "f1_macro": 0.7014327680994349,
+   "f1_macro_emosi": 0.6740882574215908,
+   "nll": 0.7876483798027039,
+   "ece": 0.07827455868039401,
+   "per_kelas": {
+    "anger": {
+     "precision": 0.6829268292682927,
+     "recall": 0.7,
+     "f1": 0.691358024691358,
+     "support": 80
+    },
+    "fear": {
+     "precision": 0.7432432432432432,
+     "recall": 0.6875,
+     "f1": 0.7142857142857143,
+     "support": 80
+    },
+    "happy": {
+     "precision": 0.7027027027027027,
+     "recall": 0.65,
+     "f1": 0.6753246753246753,
+     "support": 80
+    },
+    "sadness": {
+     "precision": 0.5490196078431373,
+     "recall": 0.7,
+     "f1": 0.6153846153846154,
+     "support": 80
+    },
+    "neutral": {
+     "precision": 0.8823529411764706,
+     "recall": 0.75,
+     "f1": 0.8108108108108109,
+     "support": 80
+    }
+   },
+   "confusion_matrix": [
+    [
+     56,
+     1,
+     4,
+     18,
+     1
+    ],
+    [
+     4,
+     55,
+     5,
+     12,
+     4
+    ],
+    [
+     7,
+     8,
+     52,
+     11,
+     2
+    ],
+    [
+     8,
+     5,
+     10,
+     56,
+     1
+    ],
+    [
+     7,
+     5,
+     3,
+     5,
+     60
+    ]
+   ]
+  }
+ },
+ "durasi_detik": 555.1,
+ "gpu": "NVIDIA GeForce RTX 3050 Laptop GPU",
+ "vram_puncak_gb": 1.4
+}

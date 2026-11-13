@@ -1,0 +1,113 @@
+{
+ "model_gemini": "gemini-2.5-flash",
+ "model_indobert": "F5_indobertweet-base_bilstm_attn_full_ce_lr2e-5_bs16_do0.3_s44_duatahap_lr2setengah_full_noreh",
+ "konseling": {
+  "n": 400,
+  "gemini": {
+   "accuracy": 0.7575,
+   "f1_macro": 0.7575238040942384,
+   "f1_weighted": 0.7575238040942384,
+   "per_kelas": {
+    "anger": 0.7218,
+    "fear": 0.8194,
+    "happy": 0.8049,
+    "sadness": 0.6707,
+    "neutral": 0.7708
+   },
+   "confusion_matrix": [
+    [
+     48,
+     3,
+     2,
+     19,
+     8
+    ],
+    [
+     0,
+     59,
+     6,
+     7,
+     8
+    ],
+    [
+     1,
+     1,
+     66,
+     3,
+     9
+    ],
+    [
+     3,
+     1,
+     7,
+     56,
+     13
+    ],
+    [
+     1,
+     0,
+     3,
+     2,
+     74
+    ]
+   ],
+   "detik_per_kalimat": 0.28817255854606627,
+   "diblokir": 0
+  },
+  "indobert": {
+   "accuracy": 0.7525,
+   "f1_macro": 0.7522561114824436,
+   "f1_weighted": 0.7522561114824435,
+   "per_kelas": {
+    "anger": 0.7186,
+    "fear": 0.72,
+    "happy": 0.7515,
+    "sadness": 0.6962,
+    "neutral": 0.875
+   },
+   "confusion_matrix": [
+    [
+     60,
+     4,
+     6,
+     9,
+     1
+    ],
+    [
+     6,
+     54,
+     9,
+     9,
+     2
+    ],
+    [
+     8,
+     3,
+     62,
+     3,
+     4
+    ],
+    [
+     12,
+     4,
+     6,
+     55,
+     3
+    ],
+    [
+     1,
+     5,
+     2,
+     2,
+     70
+    ]
+   ]
+  },
+  "mcnemar": {
+   "benar_hanya_gemini": 37,
+   "benar_hanya_indobert": 35,
+   "p": 0.906294324703081
+  },
+  "kesepakatan_prediksi": 0.745
+ }
+}

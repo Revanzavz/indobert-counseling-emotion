@@ -1,0 +1,178 @@
+{
+ "backbone": "indobertweet-base",
+ "head": "cls",
+ "max_len": 128,
+ "dropout": 0.1,
+ "labels": [
+  "bukan",
+  "krisis"
+ ],
+ "temperature": 1.3142740726470947,
+ "ambang_krisis": 0.21,
+ "ambang_hati": 0.08,
+ "epoch_terbaik": 2,
+ "lr": 2e-05,
+ "batch": 16,
+ "n_data": {
+  "train": 4543,
+  "val": 568,
+  "test": 568
+ },
+ "evaluasi": {
+  "test_kaggle": {
+   "ambang_krisis": {
+    "ambang": 0.21,
+    "accuracy": 0.8415492957746479,
+    "precision": 0.7689655172413793,
+    "recall": 0.9065040650406504,
+    "f1": 0.832089552238806,
+    "cm": [
+     [
+      255,
+      67
+     ],
+     [
+      23,
+      223
+     ]
+    ]
+   },
+   "ambang_hati": {
+    "ambang": 0.08,
+    "accuracy": 0.7992957746478874,
+    "precision": 0.6918604651162791,
+    "recall": 0.967479674796748,
+    "f1": 0.8067796610169492,
+    "cm": [
+     [
+      216,
+      106
+     ],
+     [
+      8,
+      238
+     ]
+    ]
+   },
+   "ambang_0.5": {
+    "ambang": 0.5,
+    "accuracy": 0.8573943661971831,
+    "precision": 0.8666666666666667,
+    "recall": 0.7926829268292683,
+    "f1": 0.8280254777070064,
+    "cm": [
+     [
+      292,
+      30
+     ],
+     [
+      51,
+      195
+     ]
+    ]
+   },
+   "auc": 0.933431803262132
+  },
+  "test_per_status": {
+   "Anxiety": {
+    "n": 30,
+    "terdeteksi_krisis": 3
+   },
+   "Bipolar": {
+    "n": 25,
+    "terdeteksi_krisis": 6
+   },
+   "Depression": {
+    "n": 89,
+    "terdeteksi_krisis": 39
+   },
+   "Normal": {
+    "n": 79,
+    "terdeteksi_krisis": 10
+   },
+   "Stress": {
+    "n": 24,
+    "terdeteksi_krisis": 8
+   },
+   "Suicidal": {
+    "n": 246,
+    "terdeteksi_krisis": 223
+   },
+   "emosi_anger": {
+    "n": 15,
+    "terdeteksi_krisis": 0
+   },
+   "emosi_fear": {
+    "n": 15,
+    "terdeteksi_krisis": 1
+   },
+   "emosi_happy": {
+    "n": 15,
+    "terdeteksi_krisis": 0
+   },
+   "emosi_neutral": {
+    "n": 15,
+    "terdeteksi_krisis": 0
+   },
+   "emosi_sadness": {
+    "n": 15,
+    "terdeteksi_krisis": 0
+   }
+  },
+  "uji_indonesia_asli": {
+   "ambang_krisis": {
+    "ambang": 0.21,
+    "accuracy": 0.78,
+    "precision": 0.8275862068965517,
+    "recall": 0.8,
+    "f1": 0.8135593220338984,
+    "cm": [
+     [
+      15,
+      5
+     ],
+     [
+      6,
+      24
+     ]
+    ]
+   },
+   "ambang_hati": {
+    "ambang": 0.08,
+    "accuracy": 0.7,
+    "precision": 0.6829268292682927,
+    "recall": 0.9333333333333333,
+    "f1": 0.7887323943661971,
+    "cm": [
+     [
+      7,
+      13
+     ],
+     [
+      2,
+      28
+     ]
+    ]
+   },
+   "ambang_0.5": {
+    "ambang": 0.5,
+    "accuracy": 0.7,
+    "precision": 0.8571428571428571,
+    "recall": 0.6,
+    "f1": 0.7058823529411765,
+    "cm": [
+     [
+      17,
+      3
+     ],
+     [
+      12,
+      18
+     ]
+    ]
+   },
+   "auc": 0.7933333333333333
+  }
+ },
+ "durasi_menit": 5.8
+}

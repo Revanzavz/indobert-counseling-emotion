@@ -1,0 +1,401 @@
+id,label,label_asli,source,conv_id,sha256_text_id,sha256_text_en
+ed_02933,anger,annoyed,empatheticdialogues,hit:695_conv:1390,501be9caa7469f16,e223b12fab08dc5e
+ed_01750,sadness,ashamed,empatheticdialogues,hit:11061_conv:22123,fac9977f64b8c6fa,c5c629291a222471
+ed_02715,anger,annoyed,empatheticdialogues,hit:2595_conv:5190,79b5b7db28c613c2,a59669f4a44ac24d
+ed_00847,sadness,disappointed,empatheticdialogues,hit:6948_conv:13896,9c127570e45f2ae2,2d23e48f971e21db
+ed_02029,anger,jealous,empatheticdialogues,hit:713_conv:1427,b16ed59ccb680a54,e32efca7d1f7f6c4
+dd_neu_0970,neutral,no emotion,dailydialog,dailydialog-train-2826,7c40a4062971e239,fb27ca590f9fe2dd
+ed_00893,fear,anxious,empatheticdialogues,hit:3488_conv:6976,ca8cc7ab5da10696,1e58c1698ef21401
+ed_03461,sadness,sad,empatheticdialogues,hit:319_conv:639,bb8d6bbf76c538e8,d16c17ce939bdc5a
+ed_02948,sadness,disappointed,empatheticdialogues,hit:3605_conv:7210,4befbd8a9f6d7be7,445702d0db8b6ee9
+dd_neu_0141,neutral,no emotion,dailydialog,dailydialog-train-1577,e5bc6d5a337c8867,730392af58bb2612
+dd_neu_0153,neutral,no emotion,dailydialog,dailydialog-validation-588,b554265bf0a9ecee,cd2bc95ac7011084
+ed_03122,fear,terrified,empatheticdialogues,hit:11359_conv:22718,00acf5ae3d0d2573,d5b5b5333d48e7f8
+ed_02647,fear,afraid,empatheticdialogues,hit:8048_conv:16096,913ec10ce2d62276,203eec9762b94c03
+ed_03213,sadness,devastated,empatheticdialogues,hit:5573_conv:11147,fd7d3e113205ebcf,d3c6dcf349cd8986
+ed_01940,anger,furious,empatheticdialogues,hit:2994_conv:5989,f3ec062a2476ad89,f6005854f3b15a4f
+ed_03538,anger,angry,empatheticdialogues,hit:3682_conv:7365,a46eab0a7a49c308,99f96a2a036a4b1d
+ed_01664,anger,jealous,empatheticdialogues,hit:2034_conv:4068,ff3e800d6781fccb,4ce1f3ee503cba40
+ed_00606,fear,terrified,empatheticdialogues,hit:11635_conv:23270,deddefde234f9bb8,4adeacd970ea9c97
+ed_03592,sadness,guilty,empatheticdialogues,hit:377_conv:754,52927628a9977c47,77264f2aaa010333
+ed_03016,anger,annoyed,empatheticdialogues,hit:5596_conv:11192,d44e86bc3b255b0b,cc0addb873f9277a
+ed_01017,happy,hopeful,empatheticdialogues,hit:3713_conv:7427,196a13f8f0f8c964,810aecbe98eee725
+ed_03092,happy,excited,empatheticdialogues,hit:10516_conv:21032,f19f7f21d039fa92,c326ef51be264168
+ed_00363,anger,angry,empatheticdialogues,hit:7224_conv:14449,dd6b741095a4eee8,e0d50b74200a84bc
+dd_neu_0534,neutral,no emotion,dailydialog,dailydialog-train-9666,92d296e9ec0c0a6c,5351d99a954dcfd4
+ed_02481,happy,joyful,empatheticdialogues,hit:8840_conv:17681,a87e964701313a25,71eba18b62136158
+ed_01681,sadness,disappointed,empatheticdialogues,hit:9775_conv:19550,5a8ba26309916283,6a16b4dd38159a0f
+ed_01600,fear,anxious,empatheticdialogues,hit:11480_conv:22961,11ffa132f3f6412b,79dbe0c6b28f6fc4
+ed_02558,sadness,devastated,empatheticdialogues,hit:2154_conv:4308,469ff89666b667e1,75fbccc47e414cc9
+ed_03094,sadness,nostalgic,empatheticdialogues,hit:2653_conv:5307,d5a22678a892d63e,8e772061a4031e92
+dd_neu_0736,neutral,no emotion,dailydialog,dailydialog-train-1026,da23bb89f76002d4,62291b18f355b887
+ed_01354,anger,annoyed,empatheticdialogues,hit:981_conv:1962,a65b1e1a9f265e7c,c99375e0794498a6
+ed_00464,sadness,guilty,empatheticdialogues,hit:9651_conv:19303,6adfcf8eea04a910,9d9352cdf3868004
+ed_00592,anger,jealous,empatheticdialogues,hit:5684_conv:11368,a53f111c77cdce4a,3a39cae74a63cacf
+ed_03817,anger,furious,empatheticdialogues,hit:2486_conv:4973,8f97acc2406f770c,c15b1d93e5287f96
+ed_01324,sadness,devastated,empatheticdialogues,hit:7897_conv:15794,9212984283b4b02e,13f9054c3de0a903
+dd_neu_0575,neutral,no emotion,dailydialog,dailydialog-train-5022,ebab4c60452fbc0f,267f8f5c98d0e628
+ed_01027,happy,excited,empatheticdialogues,hit:3816_conv:7633,7625da1fa5822776,62ec96badff9d5b9
+ed_00931,happy,grateful,empatheticdialogues,hit:171_conv:342,39f590e9c5bc2891,647e889e16044bc3
+ed_02999,happy,caring,empatheticdialogues,hit:6303_conv:12607,c990de595a694ec5,88968673bf87f9bb
+ed_03648,sadness,sentimental,empatheticdialogues,hit:3778_conv:7556,742086b03e1433d8,88cc2eafefff985a
+ed_00777,anger,furious,empatheticdialogues,hit:5267_conv:10534,bca7ab4ce1ad4960,b1e25b79d5c347db
+dd_neu_0148,neutral,no emotion,dailydialog,dailydialog-train-316,0dae559b3c14e3e7,d9d690b2a7f076d4
+ed_00540,fear,terrified,empatheticdialogues,hit:6934_conv:13868,fc417ec5ff7fe255,47b7c8cc0b5acdc7
+dd_neu_0381,neutral,no emotion,dailydialog,dailydialog-train-3797,21ba0550417edf7f,620c1deb9c55864a
+ed_03590,sadness,nostalgic,empatheticdialogues,hit:5028_conv:10057,fb28a6e2c07f0de2,d3934871fe57a545
+ed_00217,happy,confident,empatheticdialogues,hit:3292_conv:6585,6010567aba376124,3fbe1b8907115342
+ed_03740,fear,afraid,empatheticdialogues,hit:9692_conv:19384,41b8161367804a44,06cfb38fe3f1ccca
+ed_03913,sadness,devastated,empatheticdialogues,hit:6872_conv:13744,21c6476c56701cdf,199be3677d89cf40
+ed_00350,anger,furious,empatheticdialogues,hit:12228_conv:24457,02a126a6c56b6178,f263642667fbf558
+ed_00388,anger,annoyed,empatheticdialogues,hit:2358_conv:4717,e707303d8e01d9ad,18b483ed1f7f8690
+dd_neu_0854,neutral,no emotion,dailydialog,dailydialog-train-6054,c015834239e0b208,98d7a89453430ffa
+ed_02222,happy,excited,empatheticdialogues,hit:6753_conv:13507,5a9814e024a50ffe,cd8083a9290b7a53
+ed_02818,sadness,sad,empatheticdialogues,hit:6706_conv:13413,b5ae894eacec4137,7a01eb4801802548
+dd_neu_0273,neutral,no emotion,dailydialog,dailydialog-train-505,419ff1325f5d03ff,577b41dfc34e510e
+dd_neu_0791,neutral,no emotion,dailydialog,dailydialog-train-10668,68bd50e942e43273,9a5b08194e995bd9
+ed_03927,happy,confident,empatheticdialogues,hit:189_conv:379,c8e32e16c825a5da,c06ec32b328469cb
+ed_02962,happy,proud,empatheticdialogues,hit:8003_conv:16006,8c0da377ffcbce88,078e181f61174a2f
+ed_01115,sadness,ashamed,empatheticdialogues,hit:12130_conv:24261,b34db679746a4668,0304bafe88f232cd
+ed_03852,fear,apprehensive,empatheticdialogues,hit:2627_conv:5255,f15cfcad2a3d9fd1,fd70e6c8a75b7322
+ed_03833,happy,hopeful,empatheticdialogues,hit:50_conv:100,548592dbc719d615,ef7993d0304f9253
+ed_00633,fear,apprehensive,empatheticdialogues,hit:8757_conv:17515,56aa7da0ea1a488d,748e85bfcd4bafe7
+ed_00173,anger,furious,empatheticdialogues,hit:8463_conv:16927,848eaf374bd3840f,75d32dbcd2f9d80a
+ed_03696,sadness,guilty,empatheticdialogues,hit:7947_conv:15894,503768d62ae47175,bf5b9ca087ca98b9
+ed_01984,happy,grateful,empatheticdialogues,hit:1512_conv:3024,152d556716ab2df5,4366dfafaf27bfb6
+dd_neu_0766,neutral,no emotion,dailydialog,dailydialog-train-2128,45377800f52aa989,906edee98b07345a
+ed_03638,sadness,sad,empatheticdialogues,hit:6759_conv:13519,8345301be1fd5558,2604b0585395372d
+dd_neu_0938,neutral,no emotion,dailydialog,dailydialog-train-2370,1267e1712729f221,a244de3bebec0e52
+ed_02092,happy,excited,empatheticdialogues,hit:9996_conv:19992,f4c85a6af7482d3f,b3e81e4851651fe8
+ed_01748,fear,terrified,empatheticdialogues,hit:5834_conv:11669,7b2c9449960ff07f,1e588718045ca489
+ed_03383,happy,grateful,empatheticdialogues,hit:8989_conv:17978,abe9066bcc8843b0,a6e503e474328169
+ed_03779,fear,afraid,empatheticdialogues,hit:6451_conv:12902,a0ba6e643f1360a1,a3b19b2ff285a646
+ed_03587,anger,annoyed,empatheticdialogues,hit:11064_conv:22128,0839f5fe87a90d54,89dce63685258ae6
+ed_01519,fear,apprehensive,empatheticdialogues,hit:2366_conv:4732,6e3a3e408494b4a7,c9023c946b1ca075
+ed_00826,fear,apprehensive,empatheticdialogues,hit:12030_conv:24060,77059f5d87dcf1ce,5c7be40651b0a1fb
+ed_01498,happy,hopeful,empatheticdialogues,hit:108_conv:216,51d6116667fb5272,bacd3889b4c0af29
+ed_02887,fear,apprehensive,empatheticdialogues,hit:9054_conv:18108,44623a4e5715f7d1,360d43fc114ff73e
+dd_neu_0677,neutral,no emotion,dailydialog,dailydialog-train-7671,1742853be2307050,70c93ef0699286fc
+ed_01669,sadness,nostalgic,empatheticdialogues,hit:4237_conv:8474,6f4cacb21163feef,ebf582d41e1241bc
+ed_02562,sadness,ashamed,empatheticdialogues,hit:11040_conv:22081,737583a4b5effa9f,bc88abdb763b27dc
+dd_neu_0913,neutral,no emotion,dailydialog,dailydialog-train-6612,c3f8fb0652bbac9b,70909d0bf5624756
+ed_02847,anger,annoyed,empatheticdialogues,hit:6303_conv:12606,ef1ffe6aaa9b52e5,5ba172847dbd14e8
+ed_00396,sadness,sad,empatheticdialogues,hit:8455_conv:16910,71c9526fbba863fd,7e26f069ecc7d046
+ed_01747,happy,joyful,empatheticdialogues,hit:10643_conv:21287,c2ad6391910ce0df,739bd93a09171cbb
+ed_00340,happy,proud,empatheticdialogues,hit:8025_conv:16050,d81420e5f6025161,27c4db5c0115d9b8
+ed_02969,fear,apprehensive,empatheticdialogues,hit:2017_conv:4035,eb219e6336d01630,16d201b931cbcd30
+ed_02849,fear,anxious,empatheticdialogues,hit:2726_conv:5452,aec04917597f3825,3a7c9b78f0bd7ed3
+ed_03876,happy,proud,empatheticdialogues,hit:496_conv:992,898df7d51661ce3c,4b3400d3e0c5bf35
+ed_03581,happy,joyful,empatheticdialogues,hit:5123_conv:10246,bc68da8a295f7914,963816c92d73d826
+ed_00562,anger,furious,empatheticdialogues,hit:12274_conv:24548,878192fe158ec1dd,71baf0dbb5cf6b3c
+dd_neu_0941,neutral,no emotion,dailydialog,dailydialog-train-4926,6c65fa5195ca9ed4,6c2294315b9fa299
+ed_00726,sadness,guilty,empatheticdialogues,hit:722_conv:1444,816ceab75feeaafa,f31ac6516713501f
+ed_01593,happy,grateful,empatheticdialogues,hit:7514_conv:15029,a5fda2f55828442a,d80c4dec9710057a
+ed_01125,happy,joyful,empatheticdialogues,hit:7729_conv:15458,7e13b3c865308430,58efd86044c26925
+ed_02024,fear,apprehensive,empatheticdialogues,hit:9565_conv:19130,558f78793133f8b3,9e73715468325645
+ed_02552,anger,annoyed,empatheticdialogues,hit:6381_conv:12762,171380ddcaf28290,82f4132c09493075
+ed_03653,anger,furious,empatheticdialogues,hit:10284_conv:20568,887d688e18980401,f137ea76e4a0c10d
+ed_00511,sadness,ashamed,empatheticdialogues,hit:7486_conv:14972,c6475b3537a3922d,7b81418b4f076301
+dd_neu_0249,neutral,no emotion,dailydialog,dailydialog-train-2317,555ff53916f146ac,69814ce01b50c78f
+ed_02379,anger,angry,empatheticdialogues,hit:5686_conv:11373,b06a506efef7025e,26510db863ab994a
+ed_00011,sadness,nostalgic,empatheticdialogues,hit:460_conv:920,cbe9666851c59640,f1c96d76e7db7e6a
+ed_03323,anger,angry,empatheticdialogues,hit:3608_conv:7217,e86a2f9d9a92fa53,fc1aaa99ceaf2a21
+ed_02418,anger,angry,empatheticdialogues,hit:6289_conv:12578,7a14a0aa277de8e5,c9b9025877a5d7c5
+ed_01387,sadness,nostalgic,empatheticdialogues,hit:8696_conv:17392,d253fcfbb6cc83ad,40dcf1ae4231b372
+ed_02981,anger,jealous,empatheticdialogues,hit:2840_conv:5680,ba671b8bcadd1ebd,5aaeb16a8b71a925
+dd_neu_0595,neutral,no emotion,dailydialog,dailydialog-validation-207,8282d2e6615197ef,a9f7db9a2377fb89
+ed_02211,happy,content,empatheticdialogues,hit:7630_conv:15261,d9656348381fc5e9,2b9661bfa4161805
+ed_02066,sadness,lonely,empatheticdialogues,hit:12059_conv:24119,fe5eab92ae183d3d,24826811b3f029a9
+dd_neu_0190,neutral,no emotion,dailydialog,dailydialog-test-988,982e8905cd643ce6,e2a30c7ed8d6f09a
+dd_neu_0441,neutral,no emotion,dailydialog,dailydialog-train-9484,ec7a6b048b962d6f,bda07288d828ed29
+dd_neu_0696,neutral,no emotion,dailydialog,dailydialog-train-4463,bc9ccebb0925dfb8,53bc5db3f5275c29
+ed_01540,happy,hopeful,empatheticdialogues,hit:1156_conv:2313,2adda419572de70d,a26870fcadffbb7a
+ed_01887,happy,caring,empatheticdialogues,hit:9534_conv:19069,5e5f667e392a3ee5,da1082b8b6d79b1b
+dd_neu_0460,neutral,no emotion,dailydialog,dailydialog-train-1142,e24cec19793cc73b,e431495470f05b63
+ed_02710,sadness,nostalgic,empatheticdialogues,hit:1364_conv:2728,b21f8e6118e57d3f,4cfdffbf8113d517
+ed_01266,happy,caring,empatheticdialogues,hit:1442_conv:2884,64b29bc9910e5e52,980655b3cd966e1a
+ed_03709,fear,terrified,empatheticdialogues,hit:8016_conv:16032,830d79d4fcc0e59f,6ece190ed39e7223
+ed_02136,sadness,sentimental,empatheticdialogues,hit:10399_conv:20798,cc10862cfeb91dc1,61317422c5ce0b96
+dd_neu_0439,neutral,no emotion,dailydialog,dailydialog-train-3829,ccc66c073f31cfb4,5d6b3529760cb489
+ed_01011,sadness,sad,empatheticdialogues,hit:6048_conv:12096,f4b13785c69b3a68,41810c3ffc6940ae
+dd_neu_0670,neutral,no emotion,dailydialog,dailydialog-validation-816,f9e2b2bebfe9c0d6,303371539a135c39
+dd_neu_0621,neutral,no emotion,dailydialog,dailydialog-train-6537,da450703523d1d3d,2106f1c936b69f6a
+ed_01247,anger,furious,empatheticdialogues,hit:11671_conv:23343,cce1bdaab4aa42ea,6a6818536068c3ee
+ed_00892,anger,furious,empatheticdialogues,hit:2295_conv:4590,6ee2b447e974f424,5172ecab8b2ee30d
+dd_neu_0060,neutral,no emotion,dailydialog,dailydialog-train-8437,f8e302064fe103a9,4c4fcab6c77d05cd
+ed_03899,happy,confident,empatheticdialogues,hit:10296_conv:20593,4894000fe434cc1d,9729b1d9f71b9063
+dd_neu_0493,neutral,no emotion,dailydialog,dailydialog-validation-890,c0df725a34a49dda,af1c4c2c90095160
+ed_00526,happy,hopeful,empatheticdialogues,hit:5503_conv:11007,3fe3a0233a083996,dc83b215b8d256d7
+ed_03204,anger,angry,empatheticdialogues,hit:8545_conv:17091,1b065f9c190097a9,6cc36a3bce6eb502
+ed_03479,fear,apprehensive,empatheticdialogues,hit:11667_conv:23334,8f91a7571fee69ef,3c020ee7c44ec3de
+ed_01746,happy,confident,empatheticdialogues,hit:12046_conv:24093,628ac3960d4be1df,67e51c347aa95a10
+ed_02855,anger,angry,empatheticdialogues,hit:7408_conv:14816,454beeaf3e34aa38,4dd31c77e49f0830
+ed_02965,sadness,devastated,empatheticdialogues,hit:11223_conv:22446,7669d9ebd3932f8b,53726a0793352cdc
+ed_00860,sadness,ashamed,empatheticdialogues,hit:7952_conv:15904,52436a26353f02a5,393d71d040b7a293
+dd_neu_0868,neutral,no emotion,dailydialog,dailydialog-train-3976,83e6b14b397eba53,dafdd9caa8991a11
+dd_neu_0132,neutral,no emotion,dailydialog,dailydialog-train-622,ab5b8830abb4b920,50ab765495f108cc
+ed_03978,sadness,disappointed,empatheticdialogues,hit:9967_conv:19934,afd42833a09875aa,a9cca1286de066c5
+ed_00680,happy,grateful,empatheticdialogues,hit:6583_conv:13166,b84856d7d4362a7b,59fb4807e6d63d8d
+dd_neu_0142,neutral,no emotion,dailydialog,dailydialog-train-2594,242bd40c80b2d849,d45c67cf599425b5
+ed_02454,fear,apprehensive,empatheticdialogues,hit:6505_conv:13011,e34860ee39ad1c51,dc4afc01e4f18272
+ed_03906,happy,content,empatheticdialogues,hit:5615_conv:11230,af0f2ce3d28f6656,ab0276fe295ac856
+ed_00925,fear,terrified,empatheticdialogues,hit:6969_conv:13938,6ea8af695dd7dc3f,9f0318ca00603759
+ed_02295,happy,excited,empatheticdialogues,hit:305_conv:611,379a6f2fe94748ef,57c953d98242e815
+ed_01447,happy,confident,empatheticdialogues,hit:8149_conv:16298,9e2fbde524d96c49,455d0c804eb5a4e5
+dd_neu_0647,neutral,no emotion,dailydialog,dailydialog-train-6287,e091e23ce371a6c3,44b5e0513eaf5505
+ed_02744,anger,furious,empatheticdialogues,hit:6241_conv:12482,907722ee201828c2,09e70ec99ef37427
+ed_01352,happy,proud,empatheticdialogues,hit:4621_conv:9243,cdb19275b19e5c16,91d3d934a6df351a
+ed_02992,fear,terrified,empatheticdialogues,hit:12152_conv:24304,834b4d82cf348552,7b70b3f7e4a8e363
+ed_00343,happy,proud,empatheticdialogues,hit:1964_conv:3929,e088a0073d9f5b09,667c54acb4af11da
+dd_neu_0828,neutral,no emotion,dailydialog,dailydialog-train-9157,7d88a766fb7a42dc,19e047cdf5cde74d
+ed_02522,sadness,ashamed,empatheticdialogues,hit:11669_conv:23339,838397ded6fadfcb,52998501d8dbad92
+ed_01516,fear,afraid,empatheticdialogues,hit:3559_conv:7119,1880d291ad5375ff,ec6c572263cec965
+ed_03621,fear,anxious,empatheticdialogues,hit:4686_conv:9373,1a002833b695fadf,47c8c4503fb0d44f
+ed_02963,happy,proud,empatheticdialogues,hit:2176_conv:4353,8f73055c0c1b7983,71fc50a6483df58b
+ed_03163,sadness,disappointed,empatheticdialogues,hit:11989_conv:23979,5e85b437894273f3,be59403c2aa77fd8
+ed_00631,anger,annoyed,empatheticdialogues,hit:7000_conv:14001,9b4e4c93d83cde89,dd417ec71b85b106
+ed_01073,sadness,lonely,empatheticdialogues,hit:2238_conv:4476,68a264ac3e690214,8daebf983198adc0
+ed_03101,sadness,guilty,empatheticdialogues,hit:2520_conv:5040,f7119f0ca1075e86,aef52f70772ee0a4
+ed_00746,happy,joyful,empatheticdialogues,hit:4874_conv:9748,7030c38dd8770ea9,63e4c14a3881328a
+ed_03777,sadness,guilty,empatheticdialogues,hit:4726_conv:9453,020eaa22e4debaf1,2c47139a46057f7a
+ed_01358,anger,angry,empatheticdialogues,hit:5303_conv:10606,29f80649abc627e2,6506ab1b9448e2f8
+ed_02978,fear,anxious,empatheticdialogues,hit:6510_conv:13020,378895183f3597bf,7ce5d9a23486adbd
+ed_01009,happy,joyful,empatheticdialogues,hit:1805_conv:3611,26e40e349573dd02,21c0aa8b1555f2e9
+ed_02692,happy,caring,empatheticdialogues,hit:12102_conv:24205,c2645b903a6c482c,99610687c588793f
+ed_01373,happy,caring,empatheticdialogues,hit:3624_conv:7249,818223aea15b5fc5,21591b7d2b1a924b
+dd_neu_0194,neutral,no emotion,dailydialog,dailydialog-train-1247,2c0a0a44e42e861d,c138bced1571013c
+ed_02083,anger,jealous,empatheticdialogues,hit:8110_conv:16220,035e2f66f6423acb,84a98a52dad76539
+ed_01463,sadness,sentimental,empatheticdialogues,hit:7820_conv:15640,396f895df3fd153b,f8883fca5961f93c
+ed_00474,anger,annoyed,empatheticdialogues,hit:9897_conv:19795,f95eab29a98b48a7,7d6e52a14edbd626
+ed_02130,sadness,lonely,empatheticdialogues,hit:5267_conv:10535,a4071ebeda5ff8ec,ba93f7b22c29c6ef
+ed_01752,sadness,lonely,empatheticdialogues,hit:6565_conv:13130,0b3781082890ba7c,eb67900315ec6fb1
+ed_02830,happy,excited,empatheticdialogues,hit:981_conv:1963,b879f11403f9a525,46594dedd3535172
+ed_01302,happy,grateful,empatheticdialogues,hit:11542_conv:23084,48daed4b7c751058,0180150970014161
+dd_neu_0423,neutral,no emotion,dailydialog,dailydialog-validation-120,27c59757152aabf3,1bf4171aa193405c
+ed_02489,sadness,devastated,empatheticdialogues,hit:10939_conv:21879,dc8541b940683fee,707569df4ceeccb2
+ed_01895,fear,afraid,empatheticdialogues,hit:1036_conv:2073,369c9e0e6c7e2206,3ca9ca6e58bd6aca
+ed_00114,fear,afraid,empatheticdialogues,hit:5980_conv:11960,500970f1c1c26bc0,76ad2ab23105538b
+dd_neu_0511,neutral,no emotion,dailydialog,dailydialog-train-4401,2d6ccf5ef7fc6844,eb64b01cd920e62e
+dd_neu_0073,neutral,no emotion,dailydialog,dailydialog-validation-913,9b8a5627c3b871b3,97e70bc8925f380e
+ed_00421,fear,anxious,empatheticdialogues,hit:1642_conv:3284,b815112417e2854d,2bad2adcf00dfd92
+ed_02538,fear,anxious,empatheticdialogues,hit:6687_conv:13374,352689ebeca7cbe3,534a920491acf25a
+ed_03432,fear,apprehensive,empatheticdialogues,hit:2212_conv:4425,fcaa8f177c57213d,0098bbcc809630b2
+ed_00054,anger,jealous,empatheticdialogues,hit:5029_conv:10058,79a8c323dff347af,db1edaeca5c6f171
+ed_01780,happy,excited,empatheticdialogues,hit:3131_conv:6262,6ed2ead1f27fc3e4,8818f2f86e24cad4
+dd_neu_0717,neutral,no emotion,dailydialog,dailydialog-train-1995,4e3b3d7b93092d27,a4ab464ec0f0514a
+ed_01505,happy,confident,empatheticdialogues,hit:5354_conv:10709,bebf20397593c7f6,4ae58eefda681326
+ed_02991,anger,furious,empatheticdialogues,hit:7502_conv:15004,45ab77a3f69f8e7d,10b3fd7d86c4d016
+ed_01355,sadness,sentimental,empatheticdialogues,hit:4600_conv:9200,4add68d00d14af60,6048f982e7344a6a
+ed_02033,sadness,sad,empatheticdialogues,hit:9187_conv:18374,d2e5fe2d369d2994,08cba942bfa33425
+ed_01155,sadness,nostalgic,empatheticdialogues,hit:11291_conv:22582,a2340098268b9b0e,402b2c1c39f06766
+ed_00489,fear,afraid,empatheticdialogues,hit:5127_conv:10254,7c53d3f244291090,d24178e53d274167
+ed_01956,anger,furious,empatheticdialogues,hit:2739_conv:5479,bc7241601f865c41,5fef29a7984675bd
+ed_01979,sadness,sad,empatheticdialogues,hit:434_conv:868,fc164878edf3066d,92efaad648c50560
+ed_02939,happy,excited,empatheticdialogues,hit:7023_conv:14046,5f73154ac7e18192,082a5bdb3cd7bc45
+dd_neu_0809,neutral,no emotion,dailydialog,dailydialog-train-11099,3fe1f6fcfeef2cff,3cd5c913bc2c2cff
+ed_00706,fear,anxious,empatheticdialogues,hit:6940_conv:13880,a8aaae39e3707688,0fa0991ad360f00f
+ed_00712,fear,apprehensive,empatheticdialogues,hit:4151_conv:8302,7615aaf4905b0acd,73265c7267962197
+ed_01135,happy,content,empatheticdialogues,hit:11743_conv:23487,4e633b86b63595ac,aef0b576c20257db
+dd_neu_0162,neutral,no emotion,dailydialog,dailydialog-train-9069,830495e34349a961,fbde804563448786
+ed_01971,anger,angry,empatheticdialogues,hit:9768_conv:19536,ca60829dbf4acecf,a2943115a10fa19c
+ed_03005,anger,angry,empatheticdialogues,hit:134_conv:269,87efdb29c4a1d996,4afaf15f88e68865
+ed_02554,fear,anxious,empatheticdialogues,hit:3499_conv:6999,41fc1ef9232e7ec5,9870121718f4bf26
+ed_03617,sadness,devastated,empatheticdialogues,hit:10180_conv:20361,d2d8bedbe6169869,5466c03baca3c5c6
+ed_01550,fear,apprehensive,empatheticdialogues,hit:7891_conv:15783,b78a370e23383a0e,1150459966907cc2
+ed_00875,sadness,sentimental,empatheticdialogues,hit:1799_conv:3598,ce7601e86545cf0f,9ba144618fd6deb1
+dd_neu_0456,neutral,no emotion,dailydialog,dailydialog-train-10770,0b3d7792626076b2,171ab4b2a0c8d7d9
+ed_00455,happy,content,empatheticdialogues,hit:1264_conv:2529,a737c152e870b630,7f95a5fa3b34181e
+dd_neu_0183,neutral,no emotion,dailydialog,dailydialog-train-7228,cc0b395e7ee9e2ab,41cf8c07b99fe439
+ed_01930,fear,afraid,empatheticdialogues,hit:7347_conv:14695,a6e033f50f014e25,ec7f44533c145796
+ed_02863,fear,afraid,empatheticdialogues,hit:2545_conv:5091,61bf7e189cd6c8a0,2fb949a0d2c7593a
+ed_03602,fear,terrified,empatheticdialogues,hit:11913_conv:23827,31299c49270ef0e3,1f344139effffe5e
+dd_neu_0724,neutral,no emotion,dailydialog,dailydialog-train-220,973055857455c11d,ef9eb117c653985f
+dd_neu_0770,neutral,no emotion,dailydialog,dailydialog-train-5338,88da1aa5ac41951b,8f1b9cba3e0e8b05
+ed_02914,sadness,lonely,empatheticdialogues,hit:11400_conv:22801,74759c7e3cadf8ce,ba6a099a79510f3c
+dd_neu_0280,neutral,no emotion,dailydialog,dailydialog-train-8974,8e5bf1bb1e427f88,4ab0630643e69361
+ed_01345,anger,annoyed,empatheticdialogues,hit:5371_conv:10743,25e11f8399e8cb1f,a7a442a0657d515a
+ed_03285,anger,furious,empatheticdialogues,hit:7011_conv:14022,8c2ebb0cd0d1d508,75ce266334c7c19c
+ed_02247,anger,jealous,empatheticdialogues,hit:4356_conv:8713,efffdca7182029f3,9b8753affdc9a68b
+dd_neu_0893,neutral,no emotion,dailydialog,dailydialog-train-227,dc2b1c0cd50f4ae3,c29ade999377e6b9
+ed_01095,happy,content,empatheticdialogues,hit:4015_conv:8031,3181a23427cbd92d,22bca367f3dd3b3f
+ed_03961,sadness,guilty,empatheticdialogues,hit:1275_conv:2551,90de4abb79abd1a9,0b8c73389c764190
+ed_03134,anger,jealous,empatheticdialogues,hit:860_conv:1720,99805c352f9b79ef,cf8acd7eeca78174
+ed_00607,happy,grateful,empatheticdialogues,hit:6886_conv:13773,2d163fefb534f46b,3da358a83803f321
+ed_00177,anger,furious,empatheticdialogues,hit:4442_conv:8884,5f8bb1d2af8bb29a,3e6a63d8ff646a81
+dd_neu_0980,neutral,no emotion,dailydialog,dailydialog-train-2368,5840273c5e4f70ac,028e0f8395186449
+ed_02941,anger,furious,empatheticdialogues,hit:195_conv:390,d535bfd42881aebf,c3265ca0b788d600
+ed_01116,happy,joyful,empatheticdialogues,hit:1863_conv:3727,2cf56ab66fa00d43,0b6086a7d5dd8666
+dd_neu_0692,neutral,no emotion,dailydialog,dailydialog-train-2913,01527eceba916837,e185c77da189bf7e
+ed_03210,happy,caring,empatheticdialogues,hit:9897_conv:19794,ce69503fbc650071,e539c4ae8ce02235
+ed_02853,happy,content,empatheticdialogues,hit:6090_conv:12181,304339d6e60d32cd,8fcce9fd6653c6b7
+ed_00427,fear,anxious,empatheticdialogues,hit:6357_conv:12715,1f9cadfb2af3c4c4,2011e9f13a1bb678
+dd_neu_0848,neutral,no emotion,dailydialog,dailydialog-train-10747,3aa48be2a43ad8b7,6d85721f660492ee
+ed_03520,sadness,lonely,empatheticdialogues,hit:8747_conv:17495,f28bb8cb076a091e,64d4b8317e7770bf
+ed_03827,happy,hopeful,empatheticdialogues,hit:12243_conv:24487,9faf99015a367bf5,646c10420a5286d7
+dd_neu_0157,neutral,no emotion,dailydialog,dailydialog-test-422,49ad021d4a132949,ae1c25b937913253
+ed_03826,fear,anxious,empatheticdialogues,hit:7265_conv:14530,37e3e53557a9ba09,e6f8b45cf010bb75
+ed_03775,sadness,sentimental,empatheticdialogues,hit:6326_conv:12653,8102a0a341cc1af1,49d34a616f90b63f
+ed_01944,anger,jealous,empatheticdialogues,hit:4763_conv:9527,913237ed4d63283f,65bc955a70ac317a
+ed_01180,happy,joyful,empatheticdialogues,hit:10940_conv:21880,63aad4c0aeefa13a,39d4cd1bf8e93a29
+ed_00560,anger,angry,empatheticdialogues,hit:9559_conv:19118,cfbf64b8db27ac26,e097a74416615006
+ed_00492,sadness,lonely,empatheticdialogues,hit:5789_conv:11578,bc5c07fad235d877,cc4b2c3c090b64a5
+ed_01378,anger,angry,empatheticdialogues,hit:4856_conv:9713,9f879b05862ced4d,584f075552b8d4fb
+ed_02582,anger,angry,empatheticdialogues,hit:8615_conv:17231,8bc92a36488fdfed,0e85459554568f42
+ed_00133,happy,content,empatheticdialogues,hit:7200_conv:14400,a5bc03b796ea5fa3,1607b0f096b3f527
+ed_02495,happy,content,empatheticdialogues,hit:1955_conv:3910,13ab189fd1cfa16a,0a15ad5c9e6396e2
+ed_00009,anger,annoyed,empatheticdialogues,hit:4618_conv:9236,67c847ed2a23738a,3d727d074852ee8f
+ed_03299,sadness,disappointed,empatheticdialogues,hit:12366_conv:24732,006dfded9b629c7b,878cc827b8500ca5
+ed_01104,happy,proud,empatheticdialogues,hit:5673_conv:11347,ce151d82c77c1a71,45b1024aef1de9ca
+ed_00911,fear,terrified,empatheticdialogues,hit:4733_conv:9466,92411d319ff6a334,e3d632902109d419
+ed_00479,fear,anxious,empatheticdialogues,hit:4643_conv:9287,21cc29fa4a225f86,c7601f219b19a1a4
+ed_03415,anger,furious,empatheticdialogues,hit:4857_conv:9714,5a6bd747ae117a3a,74ba8b127bdeeef6
+ed_02309,fear,anxious,empatheticdialogues,hit:9340_conv:18681,c564acb6f5ce0725,2150b200a2b5727b
+ed_01980,fear,apprehensive,empatheticdialogues,hit:10973_conv:21947,caa21a1048d156c6,fd6be385a1ac4dc8
+ed_03994,fear,afraid,empatheticdialogues,hit:70_conv:141,cde51404a5ce08b7,09c686c12649fa13
+ed_01613,happy,caring,empatheticdialogues,hit:7436_conv:14873,ec1507e3249b874c,261505008d63fee7
+ed_00693,fear,terrified,empatheticdialogues,hit:9099_conv:18199,61ed222f2451de49,f142ad4564bff4bf
+ed_03025,fear,anxious,empatheticdialogues,hit:1454_conv:2908,02f7e5919046eec6,e783f16a7be79820
+ed_00200,happy,grateful,empatheticdialogues,hit:7462_conv:14924,47a72d39d86c7ca2,3d4c552348a9763c
+ed_01329,sadness,devastated,empatheticdialogues,hit:11171_conv:22342,59906d9bf230cae4,39251fab7cd799d2
+ed_00043,anger,jealous,empatheticdialogues,hit:11902_conv:23805,6922063c85296b3c,93d8e28f5985c9c2
+ed_00374,fear,terrified,empatheticdialogues,hit:4758_conv:9516,f54d00fa23a159ee,caed970ecb0268ea
+dd_neu_0814,neutral,no emotion,dailydialog,dailydialog-train-8640,1f33d6544f145334,42f053b070c119fe
+ed_03959,fear,afraid,empatheticdialogues,hit:4209_conv:8418,257a4d6ed1c0fa8a,30b1b54f8176e0dc
+ed_02284,sadness,ashamed,empatheticdialogues,hit:3001_conv:6003,b9a125a9252469a4,5116f9498395931c
+ed_00537,anger,annoyed,empatheticdialogues,hit:461_conv:922,5770247571608dbe,2daec139c970eddb
+ed_01972,fear,apprehensive,empatheticdialogues,hit:8500_conv:17000,e4a4e55876368a2a,9b4a463a975e489f
+ed_03563,anger,jealous,empatheticdialogues,hit:9420_conv:18840,7886939e05a3d882,2e33c7be45da6d41
+dd_neu_0123,neutral,no emotion,dailydialog,dailydialog-train-10133,4d52aa93b1953528,64f5a91b695b3f8d
+dd_neu_0408,neutral,no emotion,dailydialog,dailydialog-train-1787,add3235acc0949ab,6ec9946015a184c2
+ed_01969,fear,terrified,empatheticdialogues,hit:9128_conv:18257,6bcb1d9587a49862,58fbe0f339ae3953
+dd_neu_0015,neutral,no emotion,dailydialog,dailydialog-train-2249,d4f20d61ed24a104,1e7e39f7707b36ae
+ed_01474,anger,jealous,empatheticdialogues,hit:3774_conv:7548,707f334cc841bf07,c0badc5001439a7b
+dd_neu_0275,neutral,no emotion,dailydialog,dailydialog-train-10110,a42b8467a12ace5f,af01dc50105f7dd1
+ed_01262,sadness,devastated,empatheticdialogues,hit:12076_conv:24153,1f9d211a3f697185,888c560b298ce36d
+ed_01658,sadness,ashamed,empatheticdialogues,hit:7440_conv:14880,0829427f8366552d,52f13b2d8741388b
+ed_00798,fear,terrified,empatheticdialogues,hit:11444_conv:22889,2c50a229643bb158,4ec97d520b1b0a23
+ed_00096,fear,anxious,empatheticdialogues,hit:1316_conv:2633,ce77547373733b41,f65c72df3c82a44c
+ed_02061,fear,anxious,empatheticdialogues,hit:9024_conv:18048,8b4fe5691a66d13b,cc5f9872b248a1b7
+ed_00314,sadness,sentimental,empatheticdialogues,hit:5649_conv:11298,cf080aa5b95dcb8c,6bb7bc5ce6d0f631
+ed_01946,happy,hopeful,empatheticdialogues,hit:2717_conv:5434,67ec652ad7d812b7,23960ac3575f6c90
+ed_00756,fear,afraid,empatheticdialogues,hit:9034_conv:18069,87029cc5a63235ff,3449c995de057a06
+ed_00075,sadness,devastated,empatheticdialogues,hit:10195_conv:20391,f10c1ad5f41395f6,52d113584855c1c5
+ed_03298,anger,angry,empatheticdialogues,hit:1160_conv:2320,d6c8c1508420dd69,5c11042ad832655b
+ed_02399,sadness,sad,empatheticdialogues,hit:3621_conv:7243,60638062ad87a980,b41e99cd83f4adce
+ed_03669,fear,apprehensive,empatheticdialogues,hit:7007_conv:14014,6192672c9adaeebc,10c0c5d9fe5bb264
+ed_01213,anger,jealous,empatheticdialogues,hit:1226_conv:2453,ac0c1ea1febf6978,a42d01d36038b31f
+ed_01168,sadness,sentimental,empatheticdialogues,hit:5515_conv:11030,b2f3659d34556784,ad0edcade42f5655
+ed_02334,anger,angry,empatheticdialogues,hit:1179_conv:2359,f3fdce8912af2952,cd912cf98d466fbb
+ed_00531,sadness,guilty,empatheticdialogues,hit:7701_conv:15402,bd542aa44a06fadd,59c71175e27aeaf2
+ed_03318,fear,terrified,empatheticdialogues,hit:3073_conv:6147,33180bc44b0d94ef,21c6224f4631fcfc
+ed_01893,happy,caring,empatheticdialogues,hit:3214_conv:6428,c9ea848e07a2f91b,ea2c8532cd3ca88c
+ed_03830,fear,terrified,empatheticdialogues,hit:5900_conv:11800,b1d718c694a40815,c445c527288bf464
+ed_00559,fear,afraid,empatheticdialogues,hit:1469_conv:2938,b36a39ded0be4464,e5c0bf44e1f8513c
+ed_02115,anger,jealous,empatheticdialogues,hit:4579_conv:9159,dded8adf2adbfc82,6e84c6d0dc65258e
+ed_02827,fear,terrified,empatheticdialogues,hit:8725_conv:17450,51816fb9a3cd457f,a3562214c793d1df
+dd_neu_0908,neutral,no emotion,dailydialog,dailydialog-train-574,76f7098b01bd2ece,bf7a60a0637599c8
+dd_neu_0080,neutral,no emotion,dailydialog,dailydialog-train-8989,27d9d44421a8c81d,8fdbd416dadc61c5
+ed_02561,anger,jealous,empatheticdialogues,hit:11478_conv:22957,cffc13e27b31ae3c,a881eb5c89b2cd35
+ed_01071,sadness,sad,empatheticdialogues,hit:12141_conv:24283,79ee621128f099dc,d7170fa2f5424ebb
+ed_02281,fear,afraid,empatheticdialogues,hit:286_conv:572,cd15dc238db532b1,3681ef04a041322c
+ed_00627,fear,afraid,empatheticdialogues,hit:5692_conv:11385,11f4425523f26a7a,c1f0aac5fa1be7f1
+ed_03641,anger,furious,empatheticdialogues,hit:11888_conv:23777,0b23d9513184f240,aee24385a5acd77b
+dd_neu_0388,neutral,no emotion,dailydialog,dailydialog-train-863,311388e8285ab954,7b72c5036eabd3e3
+ed_01793,sadness,disappointed,empatheticdialogues,hit:10442_conv:20885,06b1ba6c8273b654,17808dfb0482b55c
+ed_02189,happy,hopeful,empatheticdialogues,hit:9921_conv:19842,0503fff1e1bc6c45,1d73869114e897b4
+dd_neu_0415,neutral,no emotion,dailydialog,dailydialog-train-138,2ff9b1d648907d21,fc3a0dfa6a9e76a2
+ed_01240,anger,angry,empatheticdialogues,hit:6071_conv:12142,98fa03fa047544d8,6508ef4a1b772353
+ed_02932,fear,afraid,empatheticdialogues,hit:5448_conv:10896,2d5e57456f3d182e,f35ff75c2c3a680c
+ed_03231,sadness,nostalgic,empatheticdialogues,hit:8792_conv:17585,5ea8889aa0e756a0,60221bfc6b35516d
+dd_neu_0164,neutral,no emotion,dailydialog,dailydialog-train-4141,cd7df16c7c99fd6d,b4089d38e1e4d855
+ed_02659,happy,confident,empatheticdialogues,hit:9852_conv:19705,29623ebd38322de3,4c5252bf2675c4ae
+dd_neu_0858,neutral,no emotion,dailydialog,dailydialog-train-10172,136cbd3c9b82f6d4,f0729386496687d5
+ed_01414,sadness,guilty,empatheticdialogues,hit:9837_conv:19675,795ee65f233e2258,19a57bd6120b64d1
+ed_02536,anger,furious,empatheticdialogues,hit:3630_conv:7260,05d6e6f01f9ad003,d334387017ca1628
+ed_01054,sadness,lonely,empatheticdialogues,hit:1362_conv:2725,7933bc1b2292da0f,d08aa75a5cd36f28
+ed_00418,happy,caring,empatheticdialogues,hit:10950_conv:21900,9ef0bc341633becb,6bb5257b224e41e2
+ed_00348,happy,proud,empatheticdialogues,hit:9138_conv:18276,39ac636818b6da9a,1050e4aa29162287
+ed_00271,sadness,lonely,empatheticdialogues,hit:3438_conv:6877,902b7281b3b8b1f8,95ae96d31dc94fde
+dd_neu_0444,neutral,no emotion,dailydialog,dailydialog-train-8868,3e3d123b5edc3b82,2b4b219aa02b1443
+ed_00764,anger,angry,empatheticdialogues,hit:2308_conv:4616,f0dcc847331bace2,ee9975caea762b9d
+ed_00161,sadness,nostalgic,empatheticdialogues,hit:3366_conv:6733,957d33fb1e3ad330,8730fb98f7de691f
+ed_03181,anger,annoyed,empatheticdialogues,hit:6104_conv:12208,45b1b9b5896d760f,20006d52f19e5c27
+dd_neu_0068,neutral,no emotion,dailydialog,dailydialog-train-4455,acab396f697df246,3c861e0f0bca8a63
+ed_02012,sadness,ashamed,empatheticdialogues,hit:11043_conv:22086,0e33f16d4b50d8c3,70d8921b3f2d6b08
+ed_00584,anger,annoyed,empatheticdialogues,hit:12287_conv:24574,31e1e80995445c55,a1507173108dcbec
+ed_02525,anger,jealous,empatheticdialogues,hit:7557_conv:15114,f0bf4d268cf88ba3,c8bd572aa93e6f98
+ed_00549,happy,hopeful,empatheticdialogues,hit:10318_conv:20637,f34a52d01424ac79,d3a26bd1101ec1d0
+ed_01805,happy,confident,empatheticdialogues,hit:2365_conv:4731,d079ea89ffd4ff50,b33a42960fa5b0f0
+ed_02073,anger,annoyed,empatheticdialogues,hit:12039_conv:24078,31b37509a61142aa,23607f1414fb879b
+ed_01817,sadness,sad,empatheticdialogues,hit:248_conv:496,9d4e387dc16d7688,a9746b37206101d2
+dd_neu_0488,neutral,no emotion,dailydialog,dailydialog-train-1448,e812219140a0a323,f4bef79d885fa0e3
+ed_02046,fear,anxious,empatheticdialogues,hit:6205_conv:12411,d5ba3433f944f1cd,1429b1b9a4e0f557
+dd_neu_0266,neutral,no emotion,dailydialog,dailydialog-train-4524,7deff23619b9e472,82725837109793b7
+ed_00648,happy,hopeful,empatheticdialogues,hit:1398_conv:2797,9fb8b97e6dc0a545,2aba3a31aaae86bc
+ed_01740,fear,anxious,empatheticdialogues,hit:8322_conv:16644,7859af00074dba1d,e355a4b763969b9b
+ed_01224,sadness,sentimental,empatheticdialogues,hit:2006_conv:4013,450e4409a62c69f6,28127bc6ecd83144
+ed_02742,anger,annoyed,empatheticdialogues,hit:2332_conv:4665,c668a3c47fc2a864,9bfd768bc8d0c2bc
+ed_02964,fear,afraid,empatheticdialogues,hit:9675_conv:19351,e64b23b13cbfa8c9,e607f08db980b525
+ed_00118,anger,jealous,empatheticdialogues,hit:2497_conv:4995,2f6f6e0ac0293335,261228d691259502
+ed_03738,fear,terrified,empatheticdialogues,hit:5019_conv:10039,9d0a5746c512ab50,5f78fea62838a615
+ed_03631,fear,afraid,empatheticdialogues,hit:6192_conv:12384,159f4b10e7853d7d,6dfaa7df96622119
+dd_neu_0311,neutral,no emotion,dailydialog,dailydialog-train-9089,f448d1be537ef744,5c498c4930271ca1
+ed_00577,anger,angry,empatheticdialogues,hit:2715_conv:5431,57eb6f9822561d50,a90a3092deeddcc4
+dd_neu_0741,neutral,no emotion,dailydialog,dailydialog-train-143,9bb63d12e48ef12b,cbf6a701bd764c71
+ed_01590,happy,excited,empatheticdialogues,hit:3635_conv:7270,a1c5e001d6fc229d,b73eab5fcf2d0bb9
+ed_01210,fear,apprehensive,empatheticdialogues,hit:3165_conv:6330,9b0dc13d51e32120,9976a5967fa5ca70
+ed_00430,fear,afraid,empatheticdialogues,hit:1536_conv:3072,ddfabd8840d579e8,f17fb455272cdd87
+dd_neu_0772,neutral,no emotion,dailydialog,dailydialog-train-10652,0afc5a244719dbfb,8eb882602c5f9268
+ed_00113,fear,terrified,empatheticdialogues,hit:10911_conv:21822,6cf52aa8d539a311,c96ab7f2e1b00451
+ed_02415,happy,confident,empatheticdialogues,hit:819_conv:1638,8c6cc572773d0bec,7878e9ea5c946ebd
+ed_01579,fear,anxious,empatheticdialogues,hit:1474_conv:2948,5a34600b467a76b0,8553309fb7e8c3c3
+ed_00255,sadness,disappointed,empatheticdialogues,hit:1425_conv:2851,95474bd4e3d17094,d4770705ef1b3728
+ed_03188,fear,apprehensive,empatheticdialogues,hit:4240_conv:8481,9e2711b05dd8ef17,885919cb49298e7b
+ed_01397,sadness,disappointed,empatheticdialogues,hit:11627_conv:23255,bea85783bcbdf085,466ea62413449ba3
+ed_00420,happy,proud,empatheticdialogues,hit:8944_conv:17888,fbc354ce5fb10633,242d014c78a4594d
+ed_00793,happy,proud,empatheticdialogues,hit:3419_conv:6838,457261938fcdf23f,f7521c3d8ae68ea0
+ed_00151,happy,grateful,empatheticdialogues,hit:9365_conv:18731,6181fb3151fd6e08,5b0c35a67660c0df
+dd_neu_0134,neutral,no emotion,dailydialog,dailydialog-train-6473,176f448a59f9e853,25035f2987bab552
+ed_01172,sadness,sentimental,empatheticdialogues,hit:5351_conv:10703,97423c164909db62,b183e30d3d8431f2
+ed_03865,fear,afraid,empatheticdialogues,hit:4000_conv:8000,1efe1a3ad023275c,5a9ffc04203147cc
+ed_03946,fear,apprehensive,empatheticdialogues,hit:10622_conv:21245,6a228cfaadfc5b7b,e9e9749d46d058a3
+dd_neu_0137,neutral,no emotion,dailydialog,dailydialog-train-10855,cfcd8cbbc9d0e6b7,19b34e8ef1514176
+ed_02427,anger,furious,empatheticdialogues,hit:6593_conv:13187,63fcb41dd8fa1b7f,1ec18423f7ad34ef
+ed_00783,sadness,disappointed,empatheticdialogues,hit:8739_conv:17479,d81ee6998a4b0b34,c28dd38471b71a73
+ed_03083,fear,terrified,empatheticdialogues,hit:7376_conv:14752,8933d0ada261dba5,c6b3ce407f1fd154
+ed_02241,happy,caring,empatheticdialogues,hit:1554_conv:3108,548da33231312b74,13c211e8dc50f3bf
+ed_03040,anger,jealous,empatheticdialogues,hit:640_conv:1280,4feca08df1f92202,412f4dfb8519e7e6
+ed_01028,anger,annoyed,empatheticdialogues,hit:3932_conv:7865,5e0491468a00c7f2,29e10179e4fa4b2a
+ed_03146,anger,jealous,empatheticdialogues,hit:9461_conv:18923,20ec913aa7725b8e,8f60092abd80dc6e
+ed_01032,happy,confident,empatheticdialogues,hit:7393_conv:14786,6403c0e9b4814e99,5e76f8e65a1584e7
+ed_03405,sadness,guilty,empatheticdialogues,hit:6394_conv:12788,c15b81305fb3fdb9,547f4e2667184ecd
+ed_00061,anger,annoyed,empatheticdialogues,hit:10509_conv:21018,f782b9fa4c786367,0ab9fbe85910ec81
+dd_neu_0782,neutral,no emotion,dailydialog,dailydialog-validation-539,157e7e77459a2972,ec298067520323fb
+ed_01078,anger,angry,empatheticdialogues,hit:7637_conv:15275,cd2a1a6c8c4f0717,f42fb49da873abe8
+ed_02175,fear,anxious,empatheticdialogues,hit:9839_conv:19679,4c43e2b96b7557ca,5b64c6cff4bd62d8
+dd_neu_0425,neutral,no emotion,dailydialog,dailydialog-train-368,396118aa571e00a4,69e72e5a03b3f166
+dd_neu_0958,neutral,no emotion,dailydialog,dailydialog-validation-858,dc486ff1501f8b14,69b62bcb215c330c
+dd_neu_0360,neutral,no emotion,dailydialog,dailydialog-validation-586,b98b60bb76b55062,202e1f9f61363188
+ed_00941,anger,furious,empatheticdialogues,hit:624_conv:1249,21b3de40c059add6,3360565be167db38
+ed_03792,happy,content,empatheticdialogues,hit:7241_conv:14483,bda121f1a27b71f8,932abac67f133a7c
+dd_neu_0778,neutral,no emotion,dailydialog,dailydialog-validation-101,639b8f1da665abec,f75bad78bd7b5c14
+ed_00125,happy,content,empatheticdialogues,hit:7117_conv:14234,a9bea5382bbfc69a,596b14646e6072f9
+ed_02732,fear,apprehensive,empatheticdialogues,hit:12382_conv:24764,d5bc73c088011fb4,7119d8db87bae3c4
+ed_01884,anger,annoyed,empatheticdialogues,hit:7641_conv:15283,f242e143e413ab61,439970812ea34ebd
+ed_01377,sadness,ashamed,empatheticdialogues,hit:6968_conv:13937,752a160eba428fdb,1a1d0be82642fdba
+ed_01598,happy,joyful,empatheticdialogues,hit:11001_conv:22003,30f9b0a3349b9486,bd07e7c3e0532cb4
+ed_03217,anger,angry,empatheticdialogues,hit:1283_conv:2567,f6fc6bc628c08d38,b9b3fa77e3760a56
+ed_02635,fear,terrified,empatheticdialogues,hit:11292_conv:22584,fe6f879c2e38100c,ca96e2719c23dd29
+ed_02740,happy,excited,empatheticdialogues,hit:858_conv:1717,954b74ec869cd395,1329413b7f97f25e
+ed_02384,happy,joyful,empatheticdialogues,hit:7372_conv:14745,6e23f24b00dd88cc,bca2ef4b62eb261d
+dd_neu_0699,neutral,no emotion,dailydialog,dailydialog-train-1083,0e197d72c939b5ec,7549a8e3fc132101
+ed_03205,sadness,nostalgic,empatheticdialogues,hit:4833_conv:9666,67589e5d00dbad15,e4d64c24f2244559
+dd_neu_0193,neutral,no emotion,dailydialog,dailydialog-test-467,a69727557c4d6900,e19bcfdb821a2510
+dd_neu_0583,neutral,no emotion,dailydialog,dailydialog-train-1999,b9f70999dbad3232,931fd1f08b8d500d
+dd_neu_0084,neutral,no emotion,dailydialog,dailydialog-train-3487,c4e9186198d49278,bbbba1a2966f3b07
+ed_01548,fear,apprehensive,empatheticdialogues,hit:5093_conv:10186,b0132f58191c02ed,a4e7834cfb592ad6
+dd_neu_0969,neutral,no emotion,dailydialog,dailydialog-train-9200,f492d3552980b53f,9bc847a4eb0ddf26
+dd_neu_0873,neutral,no emotion,dailydialog,dailydialog-validation-500,142a068bec809319,67aa11334b9a9993
+ed_02942,anger,jealous,empatheticdialogues,hit:9692_conv:19385,1cd75a6c63830749,651f9ded52f6da0d
+ed_00841,sadness,lonely,empatheticdialogues,hit:11625_conv:23250,cbe6bb0df363f892,972295fe56097228
+ed_01801,happy,grateful,empatheticdialogues,hit:3668_conv:7337,158ab7230b80c0cc,0c7f95016510a7a3

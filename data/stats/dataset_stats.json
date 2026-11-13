@@ -1,0 +1,84 @@
+{
+ "riccosan_mentah": 7105,
+ "riccosan_teks_label_konflik_dibuang": 29,
+ "riccosan_bersih": 6991,
+ "riccosan_bersih_per_kelas": {
+  "happy": 1995,
+  "neutral": 1979,
+  "anger": 1119,
+  "sadness": 997,
+  "fear": 901
+ },
+ "tahap1_split": {
+  "train": {
+   "total": 5592,
+   "happy": 1596,
+   "neutral": 1583,
+   "anger": 895,
+   "sadness": 797,
+   "fear": 721
+  },
+  "val": {
+   "total": 699,
+   "happy": 199,
+   "neutral": 198,
+   "anger": 112,
+   "sadness": 100,
+   "fear": 90
+  },
+  "test": {
+   "total": 700,
+   "happy": 200,
+   "neutral": 198,
+   "anger": 112,
+   "sadness": 100,
+   "fear": 90
+  }
+ },
+ "ed_kandidat": 4000,
+ "ed_flag": {
+  "sisa_inggris": 0,
+  "rasio_panjang": 68,
+  "pengulangan": 0,
+  "duplikat": 5
+ },
+ "ed_terpilih_per_kelas": {
+  "fear": 800,
+  "anger": 800,
+  "sadness": 800,
+  "happy": 800
+ },
+ "neutral_terpilih": 800,
+ "tahap2_split": {
+  "train": {
+   "total": 3200,
+   "anger": 640,
+   "neutral": 640,
+   "sadness": 640,
+   "fear": 640,
+   "happy": 640
+  },
+  "val": {
+   "total": 400,
+   "anger": 80,
+   "sadness": 80,
+   "neutral": 80,
+   "fear": 80,
+   "happy": 80
+  },
+  "test": {
+   "total": 400,
+   "happy": 80,
+   "neutral": 80,
+   "fear": 80,
+   "anger": 80,
+   "sadness": 80
+  }
+ },
+ "tahap2alt": "sama dengan tahap2, kelas neutral diganti tweet neutral Riccosan (porsi latih tahap 1)",
+ "rehearsal": 560,
+ "verifikasi": {
+  "test": 400,
+  "sampel_train_val": 438
+ }
+}

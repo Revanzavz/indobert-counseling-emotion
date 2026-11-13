@@ -1,0 +1,41 @@
+{
+ "head": "cls",
+ "strategy": "freeze_half",
+ "loss": "weighted_ce",
+ "lr": 3e-05,
+ "head_lr_mult": 1.0,
+ "batch_size": 4,
+ "grad_accum": 4,
+ "dropout": 0.1,
+ "max_epochs": 5,
+ "patience": 2,
+ "warmup_ratio": 0.1,
+ "weight_decay": 0.01,
+ "max_len": 128,
+ "seed": 42,
+ "normalisasi": false,
+ "fp16": true,
+ "lexicon": "<TA_ROOT>\\Eksperimen\\eksperimen\\colloquial-indonesian-lexicon.csv",
+ "data_dir": "<TA_ROOT>\\Eksperimen\\eksperimen\\..\\data_final",
+ "train_files": [
+  "tahap1_train.csv"
+ ],
+ "val_files": [
+  "tahap1_val.csv"
+ ],
+ "test_sets": {
+  "tahap1_test": [
+   "tahap1_test.csv"
+  ],
+  "tahap2_test": [
+   "tahap2_test.csv"
+  ]
+ },
+ "fase": "F2",
+ "backbone": "indobert-large-p1",
+ "grad_ckpt": true,
+ "optim_8bit": true,
+ "batch_efektif": 16,
+ "run_id": "F2_indobert-large-p1_cls_freeze_half_weighted_ce_lr3e-5_bs16_do0.1_s42",
+ "out_dir": "<TA_ROOT>\\Eksperimen\\eksperimen\\runs\\F2_indobert-large-p1_cls_freeze_half_weighted_ce_lr3e-5_bs16_do0.1_s42"
+}

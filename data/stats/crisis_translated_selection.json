@@ -1,0 +1,42 @@
+{
+ "jumlah_awal_per_status": {
+  "Normal": 16343,
+  "Depression": 15404,
+  "Suicidal": 10652,
+  "Anxiety": 3841,
+  "Bipolar": 2777,
+  "Stress": 2587,
+  "Personality disorder": 1077
+ },
+ "setelah_filter": {
+  "Normal": 12550,
+  "Depression": 4871,
+  "Suicidal": 4307,
+  "Anxiety": 1266,
+  "Stress": 719,
+  "Bipolar": 584,
+  "Personality disorder": 245
+ },
+ "negatif_dibuang_karena_memuat_ide_bunuh_diri": {
+  "Depression": 509,
+  "Stress": 20,
+  "Bipolar": 18,
+  "Normal": 17,
+  "Personality disorder": 6,
+  "Anxiety": 3
+ },
+ "dipilih_per_status": {
+  "Suicidal": 2500,
+  "Depression": 900,
+  "Normal": 800,
+  "Anxiety": 300,
+  "Bipolar": 250,
+  "Stress": 250
+ },
+ "dipilih_per_label": {
+  "krisis": 2500,
+  "bukan": 2500
+ },
+ "median_kata": 32.0,
+ "filter": "5-70 kata, tanpa URL/mention, tanpa duplikat, tanpa teks berlabel ganda"
+}

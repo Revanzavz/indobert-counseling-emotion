@@ -1,0 +1,559 @@
+{
+ "config": {
+  "head": "bilstm_attn",
+  "strategy": "full",
+  "loss": "ce",
+  "lr": 1.5e-05,
+  "head_lr_mult": 20.0,
+  "batch_size": 8,
+  "grad_accum": 2,
+  "dropout": 0.3,
+  "max_epochs": 5,
+  "patience": 2,
+  "warmup_ratio": 0.1,
+  "weight_decay": 0.01,
+  "max_len": 128,
+  "seed": 42,
+  "normalisasi": false,
+  "fp16": true,
+  "lexicon": "<TA_ROOT>\\Eksperimen\\eksperimen\\colloquial-indonesian-lexicon.csv",
+  "data_dir": "<TA_ROOT>\\Eksperimen\\eksperimen\\..\\data_final",
+  "train_files": [
+   "tahap2_train.csv"
+  ],
+  "val_files": [
+   "tahap2_val.csv"
+  ],
+  "test_sets": {
+   "tahap2_test": [
+    "tahap2_test.csv"
+   ],
+   "tahap1_test": [
+    "tahap1_test.csv"
+   ]
+  },
+  "init_from": "<TA_ROOT>\\Eksperimen\\eksperimen\\runs\\F5_indobertweet-base_bilstm_attn_freeze_half_weighted_ce_lr3e-5_bs16_do0.3_s42_tahap1",
+  "varian": "dua_tahap",
+  "rehearsal": false,
+  "save_model": true,
+  "lr_tahap2": 1.5e-05,
+  "fase": "F5",
+  "backbone": "indobertweet-base",
+  "batch_efektif": 16,
+  "run_id": "F5_indobertweet-base_bilstm_attn_full_ce_lr2e-5_bs16_do0.3_s42_duatahap_lr2setengah_full_noreh",
+  "out_dir": "<TA_ROOT>\\Eksperimen\\eksperimen\\runs\\F5_indobertweet-base_bilstm_attn_full_ce_lr2e-5_bs16_do0.3_s42_duatahap_lr2setengah_full_noreh"
+ },
+ "best_epoch": 2,
+ "history": [
+  {
+   "epoch": 1,
+   "train_loss": 1.1163802856206895,
+   "val_loss": 0.7956786155700684,
+   "val_f1_weighted": 0.7145523383793779,
+   "val_f1_macro": 0.7145523383793779
+  },
+  {
+   "epoch": 2,
+   "train_loss": 0.6495019888225942,
+   "val_loss": 0.7230282425880432,
+   "val_f1_weighted": 0.743361471162569,
+   "val_f1_macro": 0.743361471162569
+  },
+  {
+   "epoch": 3,
+   "train_loss": 0.4528775179758668,
+   "val_loss": 0.7540345788002014,
+   "val_f1_weighted": 0.7604137048988473,
+   "val_f1_macro": 0.7604137048988472
+  },
+  {
+   "epoch": 4,
+   "train_loss": 0.30646319784922527,
+   "val_loss": 0.8191881775856018,
+   "val_f1_weighted": 0.7573463428154796,
+   "val_f1_macro": 0.7573463428154797
+  }
+ ],
+ "temperature": 1.117858648300171,
+ "val": {
+  "accuracy": 0.7425,
+  "precision_weighted": 0.746395903022409,
+  "recall_weighted": 0.7425,
+  "f1_weighted": 0.743361471162569,
+  "f1_macro": 0.743361471162569,
+  "f1_macro_emosi": 0.714916124667497,
+  "nll": 0.7230282425880432,
+  "ece": 0.05151136909930437,
+  "per_kelas": {
+   "anger": {
+    "precision": 0.7045454545454546,
+    "recall": 0.775,
+    "f1": 0.7380952380952381,
+    "support": 80
+   },
+   "fear": {
+    "precision": 0.7228915662650602,
+    "recall": 0.75,
+    "f1": 0.7361963190184049,
+    "support": 80
+   },
+   "happy": {
+    "precision": 0.75,
+    "recall": 0.675,
+    "f1": 0.7105263157894737,
+    "support": 80
+   },
+   "sadness": {
+    "precision": 0.6626506024096386,
+    "recall": 0.6875,
+    "f1": 0.6748466257668712,
+    "support": 80
+   },
+   "neutral": {
+    "precision": 0.8918918918918919,
+    "recall": 0.825,
+    "f1": 0.8571428571428571,
+    "support": 80
+   }
+  },
+  "confusion_matrix": [
+   [
+    62,
+    5,
+    4,
+    8,
+    1
+   ],
+   [
+    4,
+    60,
+    5,
+    7,
+    4
+   ],
+   [
+    3,
+    10,
+    54,
+    11,
+    2
+   ],
+   [
+    11,
+    6,
+    7,
+    55,
+    1
+   ],
+   [
+    8,
+    2,
+    2,
+    2,
+    66
+   ]
+  ]
+ },
+ "val_kalibrasi": {
+  "accuracy": 0.7425,
+  "precision_weighted": 0.746395903022409,
+  "recall_weighted": 0.7425,
+  "f1_weighted": 0.743361471162569,
+  "f1_macro": 0.743361471162569,
+  "f1_macro_emosi": 0.714916124667497,
+  "nll": 0.7182273268699646,
+  "ece": 0.06122190180447362,
+  "per_kelas": {
+   "anger": {
+    "precision": 0.7045454545454546,
+    "recall": 0.775,
+    "f1": 0.7380952380952381,
+    "support": 80
+   },
+   "fear": {
+    "precision": 0.7228915662650602,
+    "recall": 0.75,
+    "f1": 0.7361963190184049,
+    "support": 80
+   },
+   "happy": {
+    "precision": 0.75,
+    "recall": 0.675,
+    "f1": 0.7105263157894737,
+    "support": 80
+   },
+   "sadness": {
+    "precision": 0.6626506024096386,
+    "recall": 0.6875,
+    "f1": 0.6748466257668712,
+    "support": 80
+   },
+   "neutral": {
+    "precision": 0.8918918918918919,
+    "recall": 0.825,
+    "f1": 0.8571428571428571,
+    "support": 80
+   }
+  },
+  "confusion_matrix": [
+   [
+    62,
+    5,
+    4,
+    8,
+    1
+   ],
+   [
+    4,
+    60,
+    5,
+    7,
+    4
+   ],
+   [
+    3,
+    10,
+    54,
+    11,
+    2
+   ],
+   [
+    11,
+    6,
+    7,
+    55,
+    1
+   ],
+   [
+    8,
+    2,
+    2,
+    2,
+    66
+   ]
+  ]
+ },
+ "test": {
+  "tahap2_test": {
+   "accuracy": 0.7475,
+   "precision_weighted": 0.7524331321199683,
+   "recall_weighted": 0.7475,
+   "f1_weighted": 0.7472904993926334,
+   "f1_macro": 0.7472904993926333,
+   "f1_macro_emosi": 0.7143679013108554,
+   "nll": 0.7457672357559204,
+   "ece": 0.06183416939280023,
+   "per_kelas": {
+    "anger": {
+     "precision": 0.6914893617021277,
+     "recall": 0.8125,
+     "f1": 0.7471264367816092,
+     "support": 80
+    },
+    "fear": {
+     "precision": 0.6781609195402298,
+     "recall": 0.7375,
+     "f1": 0.7065868263473054,
+     "support": 80
+    },
+    "happy": {
+     "precision": 0.7727272727272727,
+     "recall": 0.6375,
+     "f1": 0.6986301369863014,
+     "support": 80
+    },
+    "sadness": {
+     "precision": 0.7236842105263158,
+     "recall": 0.6875,
+     "f1": 0.7051282051282052,
+     "support": 80
+    },
+    "neutral": {
+     "precision": 0.8961038961038961,
+     "recall": 0.8625,
+     "f1": 0.8789808917197452,
+     "support": 80
+    }
+   },
+   "confusion_matrix": [
+    [
+     65,
+     4,
+     4,
+     6,
+     1
+    ],
+    [
+     7,
+     59,
+     6,
+     7,
+     1
+    ],
+    [
+     11,
+     8,
+     51,
+     7,
+     3
+    ],
+    [
+     9,
+     11,
+     2,
+     55,
+     3
+    ],
+    [
+     2,
+     5,
+     3,
+     1,
+     69
+    ]
+   ]
+  },
+  "tahap1_test": {
+   "accuracy": 0.74,
+   "precision_weighted": 0.7662398100565131,
+   "recall_weighted": 0.74,
+   "f1_weighted": 0.7321462454538814,
+   "f1_macro": 0.74107125620179,
+   "f1_macro_emosi": 0.77747175633638,
+   "nll": 0.8413638472557068,
+   "ece": 0.09834452128048231,
+   "per_kelas": {
+    "anger": {
+     "precision": 0.5780346820809249,
+     "recall": 0.8928571428571429,
+     "f1": 0.7017543859649122,
+     "support": 112
+    },
+    "fear": {
+     "precision": 0.7941176470588235,
+     "recall": 0.9,
+     "f1": 0.84375,
+     "support": 90
+    },
+    "happy": {
+     "precision": 0.8426395939086294,
+     "recall": 0.83,
+     "f1": 0.836272040302267,
+     "support": 200
+    },
+    "sadness": {
+     "precision": 0.6752136752136753,
+     "recall": 0.79,
+     "f1": 0.728110599078341,
+     "support": 100
+    },
+    "neutral": {
+     "precision": 0.8288288288288288,
+     "recall": 0.46464646464646464,
+     "f1": 0.5954692556634305,
+     "support": 198
+    }
+   },
+   "confusion_matrix": [
+    [
+     100,
+     3,
+     0,
+     5,
+     4
+    ],
+    [
+     8,
+     81,
+     1,
+     0,
+     0
+    ],
+    [
+     12,
+     4,
+     166,
+     8,
+     10
+    ],
+    [
+     8,
+     6,
+     2,
+     79,
+     5
+    ],
+    [
+     45,
+     8,
+     28,
+     25,
+     92
+    ]
+   ]
+  }
+ },
+ "test_kalibrasi": {
+  "tahap2_test": {
+   "accuracy": 0.7475,
+   "precision_weighted": 0.7524331321199683,
+   "recall_weighted": 0.7475,
+   "f1_weighted": 0.7472904993926334,
+   "f1_macro": 0.7472904993926333,
+   "f1_macro_emosi": 0.7143679013108554,
+   "nll": 0.7412015795707703,
+   "ece": 0.049744387288841146,
+   "per_kelas": {
+    "anger": {
+     "precision": 0.6914893617021277,
+     "recall": 0.8125,
+     "f1": 0.7471264367816092,
+     "support": 80
+    },
+    "fear": {
+     "precision": 0.6781609195402298,
+     "recall": 0.7375,
+     "f1": 0.7065868263473054,
+     "support": 80
+    },
+    "happy": {
+     "precision": 0.7727272727272727,
+     "recall": 0.6375,
+     "f1": 0.6986301369863014,
+     "support": 80
+    },
+    "sadness": {
+     "precision": 0.7236842105263158,
+     "recall": 0.6875,
+     "f1": 0.7051282051282052,
+     "support": 80
+    },
+    "neutral": {
+     "precision": 0.8961038961038961,
+     "recall": 0.8625,
+     "f1": 0.8789808917197452,
+     "support": 80
+    }
+   },
+   "confusion_matrix": [
+    [
+     65,
+     4,
+     4,
+     6,
+     1
+    ],
+    [
+     7,
+     59,
+     6,
+     7,
+     1
+    ],
+    [
+     11,
+     8,
+     51,
+     7,
+     3
+    ],
+    [
+     9,
+     11,
+     2,
+     55,
+     3
+    ],
+    [
+     2,
+     5,
+     3,
+     1,
+     69
+    ]
+   ]
+  },
+  "tahap1_test": {
+   "accuracy": 0.74,
+   "precision_weighted": 0.7662398100565131,
+   "recall_weighted": 0.74,
+   "f1_weighted": 0.7321462454538814,
+   "f1_macro": 0.74107125620179,
+   "f1_macro_emosi": 0.77747175633638,
+   "nll": 0.8092083930969238,
+   "ece": 0.07176712756070003,
+   "per_kelas": {
+    "anger": {
+     "precision": 0.5780346820809249,
+     "recall": 0.8928571428571429,
+     "f1": 0.7017543859649122,
+     "support": 112
+    },
+    "fear": {
+     "precision": 0.7941176470588235,
+     "recall": 0.9,
+     "f1": 0.84375,
+     "support": 90
+    },
+    "happy": {
+     "precision": 0.8426395939086294,
+     "recall": 0.83,
+     "f1": 0.836272040302267,
+     "support": 200
+    },
+    "sadness": {
+     "precision": 0.6752136752136753,
+     "recall": 0.79,
+     "f1": 0.728110599078341,
+     "support": 100
+    },
+    "neutral": {
+     "precision": 0.8288288288288288,
+     "recall": 0.46464646464646464,
+     "f1": 0.5954692556634305,
+     "support": 198
+    }
+   },
+   "confusion_matrix": [
+    [
+     100,
+     3,
+     0,
+     5,
+     4
+    ],
+    [
+     8,
+     81,
+     1,
+     0,
+     0
+    ],
+    [
+     12,
+     4,
+     166,
+     8,
+     10
+    ],
+    [
+     8,
+     6,
+     2,
+     79,
+     5
+    ],
+    [
+     45,
+     8,
+     28,
+     25,
+     92
+    ]
+   ]
+  }
+ },
+ "durasi_detik": 298.2,
+ "gpu": "NVIDIA GeForce RTX 3050 Laptop GPU",
+ "vram_puncak_gb": 2.26
+}

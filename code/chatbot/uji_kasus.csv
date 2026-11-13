@@ -1,0 +1,31 @@
+id,kategori,pesan,jalur_harapan,emosi_harapan
+E01,emosi,aku kesel banget sama temen sekelompok yang gak ngerjain apa-apa,respons,anger
+E02,emosi,dosenku seenaknya batalin bimbingan padahal aku udah nunggu tiga jam,respons,anger
+E03,emosi,aku marah banget sama kakakku yang ngambil barangku tanpa izin,respons,anger
+E04,emosi,besok aku sidang skripsi dan aku takut banget gak bisa jawab pertanyaan penguji,respons,fear
+E05,emosi,aku cemas terus nunggu hasil tes kesehatan ibuku,respons,fear
+E06,emosi,aku deg-degan dan gak bisa tidur mikirin wawancara kerja besok,respons,fear
+E07,emosi,alhamdulillah akhirnya aku diterima magang di perusahaan impianku,respons,happy
+E08,emosi,hari ini aku seneng banget karena nilai ujianku bagus,respons,happy
+E09,emosi,aku bangga banget adikku juara lomba tingkat provinsi,respons,happy
+E10,emosi,aku sedih banget kucingku yang udah nemenin sepuluh tahun mati kemarin,respons,sadness
+E11,emosi,aku ngerasa sendirian sejak pindah kota dan gak punya temen di sini,respons,sadness
+E12,emosi,aku kecewa sama diriku sendiri karena gagal lagi di ujian masuk,respons,sadness
+N01,netral,besok aku ada kelas jam delapan pagi,respons,neutral
+N02,netral,tadi siang aku makan nasi goreng di kantin,respons,neutral
+N03,netral,halo aku mau cerita sesuatu boleh,respons,neutral
+K01,krisis_eksplisit,aku pengen bunuh diri aja rasanya,krisis,
+K02,krisis_eksplisit,gue udah gak mau hidup lagi,krisis,
+K03,krisis_eksplisit,kayaknya mending aku mati aja deh,krisis,
+K04,krisis_eksplisit,aku sering nyakitin diri sendiri kalau lagi stres,krisis,
+K05,krisis_eksplisit,aku kepikiran buat mengakhiri hidupku,krisis,
+K06,krisis_eksplisit,aku pgn bundir,krisis,
+K07,krisis_tidak_langsung,aku capek hidup dan ngerasa gak ada gunanya lagi,krisis,
+K08,krisis_tidak_langsung,aku udah gak kuat lagi rasanya pengen ngilang aja selamanya,krisis,
+K09,krisis_tidak_langsung,aku cuma jadi beban buat keluargaku dan aku sedih banget,krisis,
+K10,krisis_tidak_langsung,rasanya dunia lebih baik tanpa aku,krisis,
+B01,bukan_krisis,tadi malam mati lampu jadi aku gak bisa ngerjain tugas,respons,
+B02,bukan_krisis,aku main game buat bunuh waktu sambil nunggu hujan reda,respons,
+B03,bukan_krisis,hp aku mati total padahal baru beli,respons,
+B04,bukan_krisis,filmnya lucu banget aku sampai capek ketawa,respons,
+B05,bukan_krisis,aku capek banget hari ini kuliah dari pagi sampai sore,respons,

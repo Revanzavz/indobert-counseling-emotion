@@ -1,0 +1,68 @@
+{
+ "Uji tweet Indonesia asli | lama": {
+  "precision": 0.2699822380106572,
+  "recall": 0.9681528662420382,
+  "f1": 0.4222222222222222,
+  "auc": 0.8238332000040505,
+  "fp": 411,
+  "n_bukan": 629,
+  "fn": 5,
+  "n_krisis": 157,
+  "tertangani": 155
+ },
+ "Uji tweet Indonesia asli | baru": {
+  "precision": 0.8554216867469879,
+  "recall": 0.9044585987261147,
+  "f1": 0.8792569659442725,
+  "auc": 0.9806436260164249,
+  "fp": 24,
+  "n_bukan": 629,
+  "fn": 15,
+  "n_krisis": 157,
+  "tertangani": 155
+ },
+ "Uji Kaggle terjemahan | lama": {
+  "precision": 0.7689655172413793,
+  "recall": 0.9065040650406504,
+  "f1": 0.832089552238806,
+  "auc": 0.933431803262132,
+  "fp": 67,
+  "n_bukan": 322,
+  "fn": 23,
+  "n_krisis": 246,
+  "tertangani": 238
+ },
+ "Uji Kaggle terjemahan | baru": {
+  "precision": 0.9473684210526315,
+  "recall": 0.2926829268292683,
+  "f1": 0.4472049689440994,
+  "auc": 0.7837701358380043,
+  "fp": 4,
+  "n_bukan": 322,
+  "fn": 174,
+  "n_krisis": 246,
+  "tertangani": 152
+ },
+ "50 pesan uji chatbot | lama": {
+  "precision": 0.8275862068965517,
+  "recall": 0.8,
+  "f1": 0.8135593220338984,
+  "auc": 0.7933333333333333,
+  "fp": 5,
+  "n_bukan": 20,
+  "fn": 6,
+  "n_krisis": 30,
+  "tertangani": 28
+ },
+ "50 pesan uji chatbot | baru": {
+  "precision": 0.9444444444444444,
+  "recall": 0.5666666666666667,
+  "f1": 0.7083333333333334,
+  "auc": 0.895,
+  "fp": 1,
+  "n_bukan": 20,
+  "fn": 13,
+  "n_krisis": 30,
+  "tertangani": 25
+ }
+}

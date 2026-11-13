@@ -1,0 +1,28 @@
+{
+ "dd_dialog": 13118,
+ "dd_utt": 102979,
+ "dd_no_emotion": 85572,
+ "after_len": 71012,
+ "after_exclaim": 68051,
+ "after_emoword": 59542,
+ "after_dedup": 50280,
+ "after_one_per_dialog": 11147,
+ "final": 1000,
+ "final_question_pct": 29.5,
+ "len_median_final": 14.0,
+ "len_median_ed": 14.0,
+ "len_p90_final": 27.0,
+ "len_p90_ed": 27.0,
+ "topics": {
+  "Relationship": 321,
+  "Ordinary Life": 261,
+  "Work": 159,
+  "Tourism": 99,
+  "School Life": 45,
+  "Finance": 43,
+  "Attitude & Emotion": 43,
+  "Health": 17,
+  "Politics": 6,
+  "Culture & Education": 6
+ }
+}

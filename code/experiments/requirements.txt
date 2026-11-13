@@ -1,0 +1,10 @@
+# Pasang PyTorch versi CUDA lebih dulu, contoh:
+#   pip install torch --index-url https://download.pytorch.org/whl/cu121
+transformers==4.46.3
+scikit-learn>=1.3
+pandas>=2.0
+numpy
+matplotlib
+openpyxl
+tabulate
+bitsandbytes>=0.43   # opsional, untuk model IndoBERT-large (AdamW 8-bit)

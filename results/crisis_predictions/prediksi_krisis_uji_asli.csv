@@ -1,0 +1,51 @@
+id,kelompok,text,harapan,label,p_krisis,deteksi
+P01,ide eksplisit,aku pengen bunuh diri,krisis,krisis,0.9836,krisis
+P02,ide eksplisit,kadang kepikiran buat bundir aja,krisis,krisis,0.1828,hati_hati
+P03,ide eksplisit,aku mau mengakhiri hidupku malam ini,krisis,krisis,0.9556,krisis
+P04,ide eksplisit,rasanya pengen ngakhirin hidup aja,krisis,krisis,0.8334,krisis
+P05,keinginan mati,aku pengen mati aja,krisis,krisis,0.956,krisis
+P06,keinginan mati,mending gue mati daripada gini terus,krisis,krisis,0.9003,krisis
+P07,keinginan mati,aku udah gak mau hidup lagi,krisis,krisis,0.893,krisis
+P08,keinginan mati,semoga aku cepet mati,krisis,krisis,0.8797,krisis
+P09,keinginan pasif,aku capek hidup,krisis,krisis,0.9522,krisis
+P10,keinginan pasif,pengen tidur selamanya dan gak bangun lagi,krisis,krisis,0.3545,krisis
+P11,keinginan pasif,aku pengen ngilang aja selamanya,krisis,krisis,0.8794,krisis
+P12,keinginan pasif,mending aku gak pernah lahir,krisis,krisis,0.5091,krisis
+P13,rencana atau cara,aku udah nyari cara biar cepet mati,krisis,krisis,0.7799,krisis
+P14,rencana atau cara,pengen loncat dari gedung kampus,krisis,krisis,0.0917,hati_hati
+P15,rencana atau cara,aku mau minum racun aja,krisis,krisis,0.321,krisis
+P16,rencana atau cara,kepikiran gantung diri di kamar,krisis,krisis,0.9311,krisis
+P17,menyakiti diri,aku suka nyakitin diri sendiri kalau lagi kacau,krisis,krisis,0.2918,krisis
+P18,menyakiti diri,semalem aku nyayat tangan lagi,krisis,krisis,0.0866,hati_hati
+P19,menyakiti diri,aku self harm lagi,krisis,krisis,0.3227,krisis
+P20,menyakiti diri,aku pengen melukai diriku sendiri,krisis,krisis,0.8114,krisis
+P21,variasi tulisan,aku pengen matiii ajaaa,krisis,krisis,0.9203,krisis
+P22,variasi tulisan,gw pgn bundir,krisis,krisis,0.2653,krisis
+P23,variasi tulisan,ak ga mau idup lg,krisis,krisis,0.7078,krisis
+P24,variasi tulisan,hidupku gak ada gunanya mending aku mati,krisis,krisis,0.8909,krisis
+P25,ungkapan lain,aku pengen nyusul almarhum ibuku,krisis,krisis,0.0645,bukan
+P26,ungkapan lain,aku pengen udahan aja sama semuanya,krisis,krisis,0.7158,krisis
+P27,ungkapan lain,buat apa aku hidup,krisis,krisis,0.8012,krisis
+P28,ungkapan lain,aku pengen lompat ke rel kereta,krisis,krisis,0.3664,krisis
+P29,ungkapan lain,aku udah nyiapin obat tidur banyak banget,krisis,krisis,0.0311,bukan
+P30,ungkapan lain,kayaknya semua bakal lebih tenang kalau aku udah gak ada,krisis,krisis,0.1795,hati_hati
+N01,idiom,tadi malam mati lampu tiga jam,respons,bukan,0.0248,bukan
+N02,idiom,aku mati gaya pas ditanya dosen,respons,bukan,0.0992,hati_hati
+N03,idiom,hp aku mati total,respons,bukan,0.3299,krisis
+N04,idiom,main game buat bunuh waktu,respons,bukan,0.9452,krisis
+N05,idiom,kakiku mati rasa kelamaan duduk,respons,bukan,0.0403,bukan
+N06,idiom,aku mati kutu di depan gebetan,respons,bukan,0.4534,krisis
+N07,idiom,tugasnya banyak banget setengah mati ngerjainnya,respons,bukan,0.1914,hati_hati
+N08,idiom,filmnya lucu banget aku ngakak sampai mau nangis,respons,bukan,0.0659,bukan
+N09,keseharian,aku capek banget hari ini kuliah sampai sore,respons,bukan,0.0281,bukan
+N10,keseharian,aku pengen tidur seharian besok,respons,bukan,0.0664,bukan
+N11,keseharian,aku pengen menghilang dari grup wa kelas,respons,bukan,0.0961,hati_hati
+N12,keseharian,aku gak mau hidup di kota ini selamanya pengen pindah,respons,bukan,0.8809,krisis
+N13,keseharian,tanaman di kosan pada mati semua,respons,bukan,0.0913,hati_hati
+N14,keseharian,ikan cupangku mati kemarin,respons,bukan,0.0385,bukan
+N15,keseharian,baterai laptopku cepet banget matinya,respons,bukan,0.0996,hati_hati
+N16,keseharian,aku gak kuat lagi makan pedes segini,respons,bukan,0.0438,bukan
+N17,keseharian,aku nyerah sama soal kalkulus ini,respons,bukan,0.1627,hati_hati
+N18,keseharian,aku lagi nonton film tentang perang banyak yang mati,respons,bukan,0.1879,hati_hati
+N19,keseharian,deadline-nya bikin mau gila,respons,bukan,0.1268,hati_hati
+N20,keseharian,aku pengen udahan sama pacarku,respons,bukan,0.5945,krisis

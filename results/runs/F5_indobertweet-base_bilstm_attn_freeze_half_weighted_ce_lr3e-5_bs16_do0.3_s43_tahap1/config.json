@@ -1,0 +1,41 @@
+{
+ "head": "bilstm_attn",
+ "strategy": "freeze_half",
+ "loss": "weighted_ce",
+ "lr": 3e-05,
+ "head_lr_mult": 20.0,
+ "batch_size": 8,
+ "grad_accum": 2,
+ "dropout": 0.3,
+ "max_epochs": 5,
+ "patience": 2,
+ "warmup_ratio": 0.1,
+ "weight_decay": 0.01,
+ "max_len": 128,
+ "seed": 43,
+ "normalisasi": false,
+ "fp16": true,
+ "lexicon": "<TA_ROOT>\\Eksperimen\\eksperimen\\colloquial-indonesian-lexicon.csv",
+ "data_dir": "<TA_ROOT>\\Eksperimen\\eksperimen\\..\\data_final",
+ "train_files": [
+  "tahap1_train.csv"
+ ],
+ "val_files": [
+  "tahap1_val.csv"
+ ],
+ "test_sets": {
+  "tahap1_test": [
+   "tahap1_test.csv"
+  ],
+  "tahap2_test": [
+   "tahap2_test.csv"
+  ]
+ },
+ "save_model": true,
+ "varian": "tahap1_saja",
+ "fase": "F5",
+ "backbone": "indobertweet-base",
+ "batch_efektif": 16,
+ "run_id": "F5_indobertweet-base_bilstm_attn_freeze_half_weighted_ce_lr3e-5_bs16_do0.3_s43_tahap1",
+ "out_dir": "<TA_ROOT>\\Eksperimen\\eksperimen\\runs\\F5_indobertweet-base_bilstm_attn_freeze_half_weighted_ce_lr3e-5_bs16_do0.3_s43_tahap1"
+}

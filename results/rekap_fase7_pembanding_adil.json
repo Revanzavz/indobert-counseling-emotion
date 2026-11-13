@@ -1,0 +1,53 @@
+{
+ "dua_tahap": {
+  "tag": "duatahap_lr2setengah_full_noreh",
+  "n_seed": 3
+ },
+ "tahap2saja": {
+  "tag": "tahap2saja_lrsetengah_full",
+  "n_seed": 3,
+  "vs_dua_tahap": {
+   "selisih": 0.008931425384434144,
+   "ci95": [
+    -0.01310987420147485,
+    0.030665781275354943
+   ],
+   "mcnemar": {
+    "benar_hanya_a": 64,
+    "benar_hanya_b": 54,
+    "p": 0.40748553448889996
+   }
+  }
+ },
+ "satutahap": {
+  "tag": "satutahap_lrpenuh_full",
+  "n_seed": 3,
+  "vs_dua_tahap": {
+   "selisih": 0.00610844606722627,
+   "ci95": [
+    -0.014048201696306252,
+    0.02572909246193936
+   ],
+   "mcnemar": {
+    "benar_hanya_a": 71,
+    "benar_hanya_b": 62,
+    "p": 0.48802234383086546
+   }
+  }
+ },
+ "duatahap_cls": {
+  "n_seed": 3,
+  "vs_dua_tahap": {
+   "selisih": 0.001855479083144096,
+   "ci95": [
+    -0.017297704628327578,
+    0.020253555259607012
+   ],
+   "mcnemar": {
+    "benar_hanya_a": 56,
+    "benar_hanya_b": 53,
+    "p": 0.8481947835965666
+   }
+  }
+ }
+}

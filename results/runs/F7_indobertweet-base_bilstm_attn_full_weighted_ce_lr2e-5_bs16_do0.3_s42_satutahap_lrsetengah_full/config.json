@@ -1,0 +1,43 @@
+{
+ "head": "bilstm_attn",
+ "strategy": "full",
+ "loss": "weighted_ce",
+ "lr": 1.5e-05,
+ "head_lr_mult": 20.0,
+ "batch_size": 8,
+ "grad_accum": 2,
+ "dropout": 0.3,
+ "max_epochs": 5,
+ "patience": 2,
+ "warmup_ratio": 0.1,
+ "weight_decay": 0.01,
+ "max_len": 128,
+ "seed": 42,
+ "normalisasi": false,
+ "fp16": true,
+ "lexicon": "<TA_ROOT>\\Eksperimen\\eksperimen\\colloquial-indonesian-lexicon.csv",
+ "data_dir": "<TA_ROOT>\\Eksperimen\\eksperimen\\..\\data_final",
+ "train_files": [
+  "satu_tahap_train.csv"
+ ],
+ "val_files": [
+  "tahap2_val.csv"
+ ],
+ "test_sets": {
+  "tahap2_test": [
+   "tahap2_test.csv"
+  ],
+  "tahap1_test": [
+   "tahap1_test.csv"
+  ],
+  "tahap2_val": [
+   "tahap2_val.csv"
+  ]
+ },
+ "varian": "satu_tahap_grid",
+ "fase": "F7",
+ "backbone": "indobertweet-base",
+ "batch_efektif": 16,
+ "run_id": "F7_indobertweet-base_bilstm_attn_full_weighted_ce_lr2e-5_bs16_do0.3_s42_satutahap_lrsetengah_full",
+ "out_dir": "<TA_ROOT>\\Eksperimen\\eksperimen\\runs\\F7_indobertweet-base_bilstm_attn_full_weighted_ce_lr2e-5_bs16_do0.3_s42_satutahap_lrsetengah_full"
+}

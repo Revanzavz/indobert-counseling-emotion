@@ -1,0 +1,27 @@
+{
+ "run": "F5_indobertweet-base_bilstm_attn_full_ce_lr2e-5_bs16_do0.3_s44_duatahap_lr2setengah_full_noreh",
+ "skenario": "duatahap_lr2setengah_full_noreh",
+ "labels": [
+  "anger",
+  "fear",
+  "happy",
+  "sadness",
+  "neutral"
+ ],
+ "temperature": 1.1798781156539917,
+ "backbone": "indobertweet-base",
+ "head": "bilstm_attn",
+ "max_len": 128,
+ "dropout": 0.3,
+ "val_f1_macro": 0.7733786913593471,
+ "test": {
+  "tahap2_test": {
+   "f1_weighted": 0.7522561114824435,
+   "f1_macro": 0.7522561114824436
+  },
+  "tahap1_test": {
+   "f1_weighted": 0.7424604230629726,
+   "f1_macro": 0.7499834712005586
+  }
+ }
+}

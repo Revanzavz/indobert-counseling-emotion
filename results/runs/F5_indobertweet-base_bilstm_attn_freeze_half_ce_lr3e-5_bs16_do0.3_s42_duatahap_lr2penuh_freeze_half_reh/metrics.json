@@ -1,0 +1,560 @@
+{
+ "config": {
+  "head": "bilstm_attn",
+  "strategy": "freeze_half",
+  "loss": "ce",
+  "lr": 3e-05,
+  "head_lr_mult": 20.0,
+  "batch_size": 8,
+  "grad_accum": 2,
+  "dropout": 0.3,
+  "max_epochs": 5,
+  "patience": 2,
+  "warmup_ratio": 0.1,
+  "weight_decay": 0.01,
+  "max_len": 128,
+  "seed": 42,
+  "normalisasi": false,
+  "fp16": true,
+  "lexicon": "<TA_ROOT>\\Eksperimen\\eksperimen\\colloquial-indonesian-lexicon.csv",
+  "data_dir": "<TA_ROOT>\\Eksperimen\\eksperimen\\..\\data_final",
+  "train_files": [
+   "tahap2_train.csv",
+   "rehearsal_tahap1.csv"
+  ],
+  "val_files": [
+   "tahap2_val.csv"
+  ],
+  "test_sets": {
+   "tahap2_test": [
+    "tahap2_test.csv"
+   ],
+   "tahap1_test": [
+    "tahap1_test.csv"
+   ]
+  },
+  "init_from": "<TA_ROOT>\\Eksperimen\\eksperimen\\runs\\F5_indobertweet-base_bilstm_attn_freeze_half_weighted_ce_lr3e-5_bs16_do0.3_s42_tahap1",
+  "varian": "dua_tahap",
+  "rehearsal": true,
+  "save_model": true,
+  "lr_tahap2": 3e-05,
+  "fase": "F5",
+  "backbone": "indobertweet-base",
+  "batch_efektif": 16,
+  "run_id": "F5_indobertweet-base_bilstm_attn_freeze_half_ce_lr3e-5_bs16_do0.3_s42_duatahap_lr2penuh_freeze_half_reh",
+  "out_dir": "<TA_ROOT>\\Eksperimen\\eksperimen\\runs\\F5_indobertweet-base_bilstm_attn_freeze_half_ce_lr3e-5_bs16_do0.3_s42_duatahap_lr2penuh_freeze_half_reh"
+ },
+ "best_epoch": 2,
+ "history": [
+  {
+   "epoch": 1,
+   "train_loss": 0.9761512816586393,
+   "val_loss": 0.835532009601593,
+   "val_f1_weighted": 0.705006471272915,
+   "val_f1_macro": 0.7050064712729152
+  },
+  {
+   "epoch": 2,
+   "train_loss": 0.5968795805515602,
+   "val_loss": 0.7407951951026917,
+   "val_f1_weighted": 0.7641688015461021,
+   "val_f1_macro": 0.7641688015461021
+  },
+  {
+   "epoch": 3,
+   "train_loss": 0.36744074636792884,
+   "val_loss": 0.8216326236724854,
+   "val_f1_weighted": 0.7460853532549159,
+   "val_f1_macro": 0.7460853532549159
+  },
+  {
+   "epoch": 4,
+   "train_loss": 0.2080189572072568,
+   "val_loss": 0.9543431997299194,
+   "val_f1_weighted": 0.7405303998337293,
+   "val_f1_macro": 0.7405303998337291
+  }
+ ],
+ "temperature": 1.2337639331817627,
+ "val": {
+  "accuracy": 0.765,
+  "precision_weighted": 0.7648826827267121,
+  "recall_weighted": 0.765,
+  "f1_weighted": 0.7641688015461021,
+  "f1_macro": 0.7641688015461021,
+  "f1_macro_emosi": 0.7343521062271062,
+  "nll": 0.7407951951026917,
+  "ece": 0.06154827248818462,
+  "per_kelas": {
+   "anger": {
+    "precision": 0.7625,
+    "recall": 0.7625,
+    "f1": 0.7625,
+    "support": 80
+   },
+   "fear": {
+    "precision": 0.8026315789473685,
+    "recall": 0.7625,
+    "f1": 0.782051282051282,
+    "support": 80
+   },
+   "happy": {
+    "precision": 0.6931818181818182,
+    "recall": 0.7625,
+    "f1": 0.7261904761904762,
+    "support": 80
+   },
+   "sadness": {
+    "precision": 0.6986301369863014,
+    "recall": 0.6375,
+    "f1": 0.6666666666666666,
+    "support": 80
+   },
+   "neutral": {
+    "precision": 0.8674698795180723,
+    "recall": 0.9,
+    "f1": 0.8834355828220859,
+    "support": 80
+   }
+  },
+  "confusion_matrix": [
+   [
+    61,
+    2,
+    7,
+    8,
+    2
+   ],
+   [
+    3,
+    61,
+    7,
+    5,
+    4
+   ],
+   [
+    4,
+    5,
+    61,
+    7,
+    3
+   ],
+   [
+    8,
+    7,
+    12,
+    51,
+    2
+   ],
+   [
+    4,
+    1,
+    1,
+    2,
+    72
+   ]
+  ]
+ },
+ "val_kalibrasi": {
+  "accuracy": 0.765,
+  "precision_weighted": 0.7648826827267121,
+  "recall_weighted": 0.765,
+  "f1_weighted": 0.7641688015461021,
+  "f1_macro": 0.7641688015461021,
+  "f1_macro_emosi": 0.7343521062271062,
+  "nll": 0.7233996391296387,
+  "ece": 0.05303207558476011,
+  "per_kelas": {
+   "anger": {
+    "precision": 0.7625,
+    "recall": 0.7625,
+    "f1": 0.7625,
+    "support": 80
+   },
+   "fear": {
+    "precision": 0.8026315789473685,
+    "recall": 0.7625,
+    "f1": 0.782051282051282,
+    "support": 80
+   },
+   "happy": {
+    "precision": 0.6931818181818182,
+    "recall": 0.7625,
+    "f1": 0.7261904761904762,
+    "support": 80
+   },
+   "sadness": {
+    "precision": 0.6986301369863014,
+    "recall": 0.6375,
+    "f1": 0.6666666666666666,
+    "support": 80
+   },
+   "neutral": {
+    "precision": 0.8674698795180723,
+    "recall": 0.9,
+    "f1": 0.8834355828220859,
+    "support": 80
+   }
+  },
+  "confusion_matrix": [
+   [
+    61,
+    2,
+    7,
+    8,
+    2
+   ],
+   [
+    3,
+    61,
+    7,
+    5,
+    4
+   ],
+   [
+    4,
+    5,
+    61,
+    7,
+    3
+   ],
+   [
+    8,
+    7,
+    12,
+    51,
+    2
+   ],
+   [
+    4,
+    1,
+    1,
+    2,
+    72
+   ]
+  ]
+ },
+ "test": {
+  "tahap2_test": {
+   "accuracy": 0.7425,
+   "precision_weighted": 0.7404458874458874,
+   "recall_weighted": 0.7425,
+   "f1_weighted": 0.7410875382741909,
+   "f1_macro": 0.7410875382741909,
+   "f1_macro_emosi": 0.7037984472329826,
+   "nll": 0.7620814442634583,
+   "ece": 0.06867357592517587,
+   "per_kelas": {
+    "anger": {
+     "precision": 0.6753246753246753,
+     "recall": 0.65,
+     "f1": 0.6624203821656051,
+     "support": 80
+    },
+    "fear": {
+     "precision": 0.725,
+     "recall": 0.725,
+     "f1": 0.725,
+     "support": 80
+    },
+    "happy": {
+     "precision": 0.7261904761904762,
+     "recall": 0.7625,
+     "f1": 0.7439024390243902,
+     "support": 80
+    },
+    "sadness": {
+     "precision": 0.7066666666666667,
+     "recall": 0.6625,
+     "f1": 0.6838709677419355,
+     "support": 80
+    },
+    "neutral": {
+     "precision": 0.8690476190476191,
+     "recall": 0.9125,
+     "f1": 0.8902439024390244,
+     "support": 80
+    }
+   },
+   "confusion_matrix": [
+    [
+     52,
+     8,
+     5,
+     12,
+     3
+    ],
+    [
+     7,
+     58,
+     9,
+     5,
+     1
+    ],
+    [
+     8,
+     4,
+     61,
+     3,
+     4
+    ],
+    [
+     10,
+     8,
+     6,
+     53,
+     3
+    ],
+    [
+     0,
+     2,
+     3,
+     2,
+     73
+    ]
+   ]
+  },
+  "tahap1_test": {
+   "accuracy": 0.7885714285714286,
+   "precision_weighted": 0.789804993338588,
+   "recall_weighted": 0.7885714285714286,
+   "f1_weighted": 0.7863004150453324,
+   "f1_macro": 0.7918505305860835,
+   "f1_macro_emosi": 0.8162594442243398,
+   "nll": 0.7003812193870544,
+   "ece": 0.11077614234224306,
+   "per_kelas": {
+    "anger": {
+     "precision": 0.7132352941176471,
+     "recall": 0.8660714285714286,
+     "f1": 0.782258064516129,
+     "support": 112
+    },
+    "fear": {
+     "precision": 0.8695652173913043,
+     "recall": 0.8888888888888888,
+     "f1": 0.8791208791208791,
+     "support": 90
+    },
+    "happy": {
+     "precision": 0.8522167487684729,
+     "recall": 0.865,
+     "f1": 0.858560794044665,
+     "support": 200
+    },
+    "sadness": {
+     "precision": 0.7307692307692307,
+     "recall": 0.76,
+     "f1": 0.7450980392156863,
+     "support": 100
+    },
+    "neutral": {
+     "precision": 0.7636363636363637,
+     "recall": 0.6363636363636364,
+     "f1": 0.6942148760330579,
+     "support": 198
+    }
+   },
+   "confusion_matrix": [
+    [
+     97,
+     3,
+     2,
+     3,
+     7
+    ],
+    [
+     6,
+     80,
+     3,
+     1,
+     0
+    ],
+    [
+     2,
+     0,
+     173,
+     7,
+     18
+    ],
+    [
+     6,
+     3,
+     1,
+     76,
+     14
+    ],
+    [
+     25,
+     6,
+     24,
+     17,
+     126
+    ]
+   ]
+  }
+ },
+ "test_kalibrasi": {
+  "tahap2_test": {
+   "accuracy": 0.7425,
+   "precision_weighted": 0.7404458874458874,
+   "recall_weighted": 0.7425,
+   "f1_weighted": 0.7410875382741909,
+   "f1_macro": 0.7410875382741909,
+   "f1_macro_emosi": 0.7037984472329826,
+   "nll": 0.743039071559906,
+   "ece": 0.04106732741680763,
+   "per_kelas": {
+    "anger": {
+     "precision": 0.6753246753246753,
+     "recall": 0.65,
+     "f1": 0.6624203821656051,
+     "support": 80
+    },
+    "fear": {
+     "precision": 0.725,
+     "recall": 0.725,
+     "f1": 0.725,
+     "support": 80
+    },
+    "happy": {
+     "precision": 0.7261904761904762,
+     "recall": 0.7625,
+     "f1": 0.7439024390243902,
+     "support": 80
+    },
+    "sadness": {
+     "precision": 0.7066666666666667,
+     "recall": 0.6625,
+     "f1": 0.6838709677419355,
+     "support": 80
+    },
+    "neutral": {
+     "precision": 0.8690476190476191,
+     "recall": 0.9125,
+     "f1": 0.8902439024390244,
+     "support": 80
+    }
+   },
+   "confusion_matrix": [
+    [
+     52,
+     8,
+     5,
+     12,
+     3
+    ],
+    [
+     7,
+     58,
+     9,
+     5,
+     1
+    ],
+    [
+     8,
+     4,
+     61,
+     3,
+     4
+    ],
+    [
+     10,
+     8,
+     6,
+     53,
+     3
+    ],
+    [
+     0,
+     2,
+     3,
+     2,
+     73
+    ]
+   ]
+  },
+  "tahap1_test": {
+   "accuracy": 0.7885714285714286,
+   "precision_weighted": 0.789804993338588,
+   "recall_weighted": 0.7885714285714286,
+   "f1_weighted": 0.7863004150453324,
+   "f1_macro": 0.7918505305860835,
+   "f1_macro_emosi": 0.8162594442243398,
+   "nll": 0.6431107521057129,
+   "ece": 0.07193330790075572,
+   "per_kelas": {
+    "anger": {
+     "precision": 0.7132352941176471,
+     "recall": 0.8660714285714286,
+     "f1": 0.782258064516129,
+     "support": 112
+    },
+    "fear": {
+     "precision": 0.8695652173913043,
+     "recall": 0.8888888888888888,
+     "f1": 0.8791208791208791,
+     "support": 90
+    },
+    "happy": {
+     "precision": 0.8522167487684729,
+     "recall": 0.865,
+     "f1": 0.858560794044665,
+     "support": 200
+    },
+    "sadness": {
+     "precision": 0.7307692307692307,
+     "recall": 0.76,
+     "f1": 0.7450980392156863,
+     "support": 100
+    },
+    "neutral": {
+     "precision": 0.7636363636363637,
+     "recall": 0.6363636363636364,
+     "f1": 0.6942148760330579,
+     "support": 198
+    }
+   },
+   "confusion_matrix": [
+    [
+     97,
+     3,
+     2,
+     3,
+     7
+    ],
+    [
+     6,
+     80,
+     3,
+     1,
+     0
+    ],
+    [
+     2,
+     0,
+     173,
+     7,
+     18
+    ],
+    [
+     6,
+     3,
+     1,
+     76,
+     14
+    ],
+    [
+     25,
+     6,
+     24,
+     17,
+     126
+    ]
+   ]
+  }
+ },
+ "durasi_detik": 229.5,
+ "gpu": "NVIDIA GeForce RTX 3050 Laptop GPU",
+ "vram_puncak_gb": 1.39
+}

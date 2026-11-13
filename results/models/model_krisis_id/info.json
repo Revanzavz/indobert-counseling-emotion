@@ -1,0 +1,145 @@
+{
+ "data": "Krisis_ID",
+ "masking": false,
+ "p_mask": null,
+ "backbone": "indobertweet-base",
+ "head": "cls",
+ "max_len": 128,
+ "dropout": 0.1,
+ "labels": [
+  "bukan",
+  "krisis"
+ ],
+ "temperature": 1.8356460332870483,
+ "ambang_krisis": 0.32,
+ "ambang_hati": 0.05,
+ "epoch_terbaik": 2,
+ "lr": 2e-05,
+ "batch": 16,
+ "n_data": {
+  "train": 6283,
+  "val": 785,
+  "test": 786
+ },
+ "evaluasi": {
+  "test_kaggle": {
+   "ambang_krisis": {
+    "ambang": 0.32,
+    "accuracy": 0.950381679389313,
+    "precision": 0.8554216867469879,
+    "recall": 0.9044585987261147,
+    "f1": 0.8792569659442725,
+    "cm": [
+     [
+      605,
+      24
+     ],
+     [
+      15,
+      142
+     ]
+    ]
+   },
+   "ambang_hati": {
+    "ambang": 0.05,
+    "accuracy": 0.9033078880407125,
+    "precision": 0.6768558951965066,
+    "recall": 0.9872611464968153,
+    "f1": 0.8031088082901554,
+    "cm": [
+     [
+      555,
+      74
+     ],
+     [
+      2,
+      155
+     ]
+    ]
+   },
+   "ambang_0.5": {
+    "ambang": 0.5,
+    "accuracy": 0.955470737913486,
+    "precision": 0.8961038961038961,
+    "recall": 0.8789808917197452,
+    "f1": 0.887459807073955,
+    "cm": [
+     [
+      613,
+      16
+     ],
+     [
+      19,
+      138
+     ]
+    ]
+   },
+   "auc": 0.9806436260164249
+  },
+  "test_per_status": {
+   "bukan_krisis": {
+    "n": 629,
+    "terdeteksi_krisis": 24
+   },
+   "ide_bunuh_diri": {
+    "n": 157,
+    "terdeteksi_krisis": 142
+   }
+  },
+  "uji_indonesia_asli": {
+   "ambang_krisis": {
+    "ambang": 0.32,
+    "accuracy": 0.72,
+    "precision": 0.9444444444444444,
+    "recall": 0.5666666666666667,
+    "f1": 0.7083333333333334,
+    "cm": [
+     [
+      19,
+      1
+     ],
+     [
+      13,
+      17
+     ]
+    ]
+   },
+   "ambang_hati": {
+    "ambang": 0.05,
+    "accuracy": 0.82,
+    "precision": 0.8620689655172413,
+    "recall": 0.8333333333333334,
+    "f1": 0.847457627118644,
+    "cm": [
+     [
+      16,
+      4
+     ],
+     [
+      5,
+      25
+     ]
+    ]
+   },
+   "ambang_0.5": {
+    "ambang": 0.5,
+    "accuracy": 0.7,
+    "precision": 0.9411764705882353,
+    "recall": 0.5333333333333333,
+    "f1": 0.6808510638297872,
+    "cm": [
+     [
+      19,
+      1
+     ],
+     [
+      14,
+      16
+     ]
+    ]
+   },
+   "auc": 0.895
+  }
+ },
+ "durasi_menit": 6.7
+}
